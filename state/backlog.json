@@ -1,32 +1,32 @@
 {
   "schema": "qiming-current-backlog-v2",
   "preparedAtUTC": "2026-10-20T03:59:23.188583+00:00",
-  "factsCutoffUTC": "2026-10-20T04:08:07.332304+00:00",
+  "factsCutoffUTC": "2026-10-20T04:12:54.966997+00:00",
   "fullCourseCompleted": false,
   "tasks": [
     {
       "id": "P0_FINAL_OVERLAY_AND_TINY",
       "priority": 0,
-      "status": "FINAL_overlay_API_upload_confirmed_finaltiny_tailv3_pending_root_prep",
-      "next": "FINAL517432571-byte archive confirmed exact API digest036eb477...; apply it before AFTER-FINALdelta-v2; finaltiny last only if root actually creates/validates/uploads it. Do not claim all assets published before confirmation."
+      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
+      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
     },
     {
       "id": "P0_FREEZE_AND_PUBLISH",
       "priority": 0,
-      "status": "in_progress",
-      "next": "Finish actual source/media and last revision overlays by hard deadline04:17:38Z; latest exact API upload state is in checkpoint.publication. No new TTS or optional chapter batches."
+      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
+      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
     },
     {
       "id": "P0_ROOT_HANDOFF_SYNC",
       "priority": 0,
-      "status": "drafts_staged_only_root_merge_commit_push_and_readback_pending",
-      "next": "Review staged six documents and evidence; fill FINAL overlay and optional finaltiny only from actual finished upload/API/restore receipts; root alone edits repository and pushes."
+      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
+      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
     },
     {
       "id": "P0_MEDIA_AND_RAW_COVERAGE",
       "priority": 0,
-      "status": "21_drafts_and_35_native_raws_preserved_11_big_archives_confirmed_finaltiny_pending",
-      "next": "Preserve21 drafts1901.125s,35native raws/ASR/config/PCM and existing23sASR. Eleven archives including FINAL overlay confirmed uploaded; finaltiny remains pending. No new TTS."
+      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
+      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
     },
     {
       "id": "P0_CORE_RESTORE",

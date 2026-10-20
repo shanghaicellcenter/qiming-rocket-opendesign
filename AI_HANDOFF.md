@@ -16,7 +16,7 @@
 
 ## 发布与恢复实态
 
-公开API确认11个大包；FINAL portable overlay517432571字节/SHA036eb4772628bbab82f200f37aabf02cb574ef4d36bbe9f2b15154c067885fe8已确认。最后小tail-v3待根代理准备/上传/回读，字段保持pending。四个包已fresh公开回下载与全成员复核：core815、original385、sourcevoice2344、媒体delta127。其余7个已上传包的fresh恢复仍pending，同一合并工程重开尚未证明。
+公开API确认12个归档包；FINAL portable overlay517432571字节/SHA036eb4772628bbab82f200f37aabf02cb574ef4d36bbe9f2b15154c067885fe8已确认。最后小补丁qiming-FINAL-small-v3-public.tar.gz已实际上传并回读大小/SHA；本地108成员流式校验通过，fresh回下载仍待。四个包已fresh公开回下载与全成员复核：core815、original385、sourcevoice2344、媒体delta127。其余7个已上传包的fresh恢复仍pending，同一合并工程重开尚未证明。
 
 恢复A1-04文件SHA902b82464d67f8dfff323c56952e66b65598ab26468d62c81d974aeb3478777f已在Blender5.2.2独立只读重开：6景/6相机、0字体对象/字体数据块、0缺失运行依赖；640×360图实际查看非空白，输入SHA/mtime/大小未改。只证明这一恢复成员，不能代替完整课程或听审。
 
@@ -29,3 +29,5 @@
 已回收的是可从保留源/片重建的临时PNG和可重建发布tar；被删PNG字节没有云备份。唯一原资料、可编辑工程、原声和视频保留。不要把删掉的proof栅格称为仍存在，也不要删除其他项目、Desktop原资料、共享技能/工具、全局数据库或远端服务。
 
 21份精确当前SHA均已完成1倍速整段离线技术播放（新SYS-A2/A110/A111全帧且0掉帧）；均为静音技术检查，不计主观听审。当前播放器有21卡、170章跳转和424条字幕核查材料。
+
+最后应用的实际补丁：[qiming-FINAL-small-v3-public.tar.gz](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz)。该包已包含旧小tail的必要安全内容；不要下载未发布的v1/v2或无public后缀试包。

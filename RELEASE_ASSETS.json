@@ -1,0 +1,90 @@
+{
+  "capturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
+  "release": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/tag/wip-20261020",
+  "archives": [
+    {
+      "name": "opendesign-native-core-20261020.tar.gz",
+      "bytes": 177719360,
+      "sha256": "0305c3fc791ff5f9edaac75181db112a68d86fd0fcf2144930a4857922d1ca67",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/opendesign-native-core-20261020.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "original-sources-20261020.tar.gz",
+      "bytes": 315216982,
+      "sha256": "bfefb72cd231596d26d25a9217f85e4746e5ab67c1423390f0b0fc6b41fdd99b",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/original-sources-20261020.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-production-source-voice-01-v2.tar.gz",
+      "bytes": 506026861,
+      "sha256": "cf225ab547db354d170b6703dd936df83ed5608c1cac79d3889aefc9b2a84680",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-production-source-voice-01-v2.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-priority-editable-sources-01-of-03.tar.gz",
+      "bytes": 691292029,
+      "sha256": "de8a0b46b362fa112aec6e065f5aff4ddcd8f77b1cabecb6ea656f73af5d1921",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-editable-sources-01-of-03.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-priority-editable-sources-02-of-03.tar.gz",
+      "bytes": 727344425,
+      "sha256": "7c185d0a7fba2904948ef86c49aed9e89130525dc79f3845af3a5b7c50ba3d9b",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-editable-sources-02-of-03.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-priority-editable-sources-03-of-03.tar.gz",
+      "bytes": 328767045,
+      "sha256": "f74e817d7ec795dda7ba73de4d7327345486e1931970a9a649473e297ffebd04",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-editable-sources-03-of-03.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-legacy-outlined-and-late-voices.tar.gz",
+      "bytes": 256772174,
+      "sha256": "104d94e482dce60acb4c47a2ed1a5bc3ef79a4218557d210aff689c435a8b040",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-legacy-outlined-and-late-voices.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-priority-native-media-interactive-01-of-02.tar.gz",
+      "bytes": 515037321,
+      "sha256": "4b973ef6c292cc2670a5f5754b82ac5ba4c916cd2546775039d4b1c68ca730ee",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-native-media-interactive-01-of-02.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-priority-native-media-interactive-02-of-02.tar.gz",
+      "bytes": 115486589,
+      "sha256": "2ea6d3dbf4c6d293e641b1e997cbc884269b1e06410c04296ebe0248c9442f30",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-native-media-interactive-02-of-02.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-FINAL-portable-overlay-v1.tar.gz",
+      "bytes": 517432571,
+      "sha256": "036eb4772628bbab82f200f37aabf02cb574ef4d36bbe9f2b15154c067885fe8",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-portable-overlay-v1.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz",
+      "bytes": 58558139,
+      "sha256": "e4f608c24fdbee74c42a639ccfa3715488d543f67ebf2bb17331449875d441ea",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz",
+      "state": "uploaded"
+    },
+    {
+      "name": "qiming-FINAL-small-v3-public.tar.gz",
+      "bytes": 4069157,
+      "sha256": "0e91ece04cd34a8a8cb155444c6a69a5b33f2bbb7faab41b3edf85b22aee31a5",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz",
+      "state": "uploaded"
+    }
+  ]
+}

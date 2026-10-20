@@ -1,6 +1,6 @@
 {
   "schema": "qiming-wip-stage-v3",
-  "recordedAtUTC": "2026-10-20T04:08:07.332304+00:00",
+  "recordedAtUTC": "2026-10-20T04:12:54.966997+00:00",
   "deadlineUTC": "2026-10-20T04:17:38Z",
   "fullCourseCompleted": false,
   "scope": {
@@ -473,5 +473,26 @@
     "restorePhase": "final_portable_overlay"
   },
   "exactCurrentTechnicalFullPlaybacks": 21,
-  "freshFullMemberVerifiedArchiveCount": 4
+  "freshFullMemberVerifiedArchiveCount": 4,
+  "publication": {
+    "payloadsUploaded": 12,
+    "bytes": 4213722653,
+    "exactAPISizeDigestReadback": true,
+    "finalTiny": {
+      "name": "qiming-FINAL-small-v3-public.tar.gz",
+      "bytes": 4069157,
+      "sha256": "0e91ece04cd34a8a8cb155444c6a69a5b33f2bbb7faab41b3edf85b22aee31a5",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz",
+      "uploadState": "uploaded_exact_public_API_size_and_digest_readback",
+      "uploadEvidenceCapturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
+      "restorePhase": "final_small_last",
+      "freshRestore": {
+        "status": "pending fresh public redownload; local108member streamSHA passed",
+        "members": 108,
+        "sameMergedWholeProjectReopen": false
+      }
+    },
+    "freshFullMemberVerifiedArchives": 4,
+    "sameMergedWholeProjectRestoreVerified": false
+  }
 }

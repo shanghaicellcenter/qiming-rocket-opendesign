@@ -1,0 +1,12 @@
+{
+  "packageId": "qiming-FINAL-small-v3-public",
+  "archiveFile": "qiming-FINAL-small-v3-public.tar.gz",
+  "archiveSha256": "0e91ece04cd34a8a8cb155444c6a69a5b33f2bbb7faab41b3edf85b22aee31a5",
+  "archiveBytes": 4069157,
+  "maxBytes": 805306368,
+  "membersVerified": 108,
+  "allMemberSHA256MatchedDuringActualTarRead": true,
+  "sourceFilesNeverModified": true,
+  "createdAtUTC": "2026-10-20T04:10:28.197778+00:00",
+  "publicationStatus": "not_uploaded_by_this_script"
+}

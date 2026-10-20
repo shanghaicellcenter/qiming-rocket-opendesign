@@ -1,0 +1,10 @@
+{
+  "archiveFile": "qiming-FINAL-small-v3-public.tar.gz",
+  "archiveSha256": "0e91ece04cd34a8a8cb155444c6a69a5b33f2bbb7faab41b3edf85b22aee31a5",
+  "archiveBytes": 4069157,
+  "verifiedMembers": 108,
+  "allMemberSHA256MatchedOnActualArchiveRead": true,
+  "verificationMode": "full streaming gzip decompression and every archived file byte SHA; no large extracted copy",
+  "freshApplicationImportOrListening": "not claimed",
+  "verifiedAtUTC": "2026-10-20T04:10:28.246235+00:00"
+}
