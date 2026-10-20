@@ -1,0 +1,198 @@
+{
+  "schema": "qiming-rocket-wip-stage-v1",
+  "recordedAtUTC": "2026-10-20T01:31:40.566554+00:00",
+  "deadlineUTC": "2026-10-20T04:17:38Z",
+  "fullCourseCompleted": false,
+  "scope": {
+    "totalChapters": 226,
+    "BOM": 172,
+    "custom": 34,
+    "systems": 9,
+    "principles": 8,
+    "comprehensive": 3
+  },
+  "acceptedFullScopeItems": {
+    "BOM": 0,
+    "custom": 0,
+    "systems": 0
+  },
+  "workingMovies": [
+    {
+      "id": "SYS-A1",
+      "videoSha256": "108991f3e4111bd6a694bd34443076c1877bf605f0aa377024037d260fe08a3c",
+      "manifestShaMatches": true,
+      "durationSeconds": 144.79166666666666,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A3",
+      "videoSha256": "8462a6659be40c9d378c4f88f96d5e018aa030c2caf1745127ae718f855e6b4a",
+      "manifestShaMatches": true,
+      "durationSeconds": 85.04166666666667,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "SYS-A4",
+      "videoSha256": "6c6bf60c5e9129d8bbecba11b493ce07e21bcb4814f2e9614b39d5a27d82d106",
+      "manifestShaMatches": true,
+      "durationSeconds": 151.0,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-01",
+      "videoSha256": "18ae9c9f7502c7975d30ca39ffa70e0f5715733fed038a677fdfcfadcbde1dc3",
+      "manifestShaMatches": true,
+      "durationSeconds": 48.208333333333336,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-02",
+      "videoSha256": "e25f8d7aa0a34ed79f50fcce7a668f8cda51252240f764a2e8079c015ae220a3",
+      "manifestShaMatches": true,
+      "durationSeconds": 66.83333333333333,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-03",
+      "videoSha256": "e80724a963a1b2d6d9a8bcef9b6f30e6d543f65aa711c80e83ab4ff29d7d5b27",
+      "manifestShaMatches": true,
+      "durationSeconds": 69.54166666666667,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-04",
+      "videoSha256": "8d0ec030ef24ebbbd768db0cd524d6cc7808da8bc0e36191bcea535d0cfdc724",
+      "manifestShaMatches": true,
+      "durationSeconds": 69.0,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-05",
+      "videoSha256": "a8e242f956682228a93b7e06a96217f13e39c4b35327e9e2db2083c71c801b8c",
+      "manifestShaMatches": true,
+      "durationSeconds": 57.375,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-06",
+      "videoSha256": "38e32240e55f813b3d3b565fdc1b9049f1998cbac2384902dc8e700efb7835b4",
+      "manifestShaMatches": true,
+      "durationSeconds": 83.875,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-07",
+      "videoSha256": "f0d39fc4c8ef3a800d6e2dc2485d140d615e9bfd77859e52b656066edb0e53e6",
+      "manifestShaMatches": true,
+      "durationSeconds": 83.95833333333333,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-08",
+      "videoSha256": "dcd4ed987f4f96adf206f825872eb48f72f14e591d97ceecb4620faf3e34fe27",
+      "manifestShaMatches": true,
+      "durationSeconds": 80.70833333333333,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-09",
+      "videoSha256": "afd3ffbc35fd5deb4d735002a0369297c0c581dd2f484c17768793a0e436fba0",
+      "manifestShaMatches": true,
+      "durationSeconds": 74.625,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-12",
+      "videoSha256": "0b14ad7a8c5c5d277bcc3bfa68ebaea69f20a40edb635482e81201084902e56b",
+      "manifestShaMatches": true,
+      "durationSeconds": 77.45833333333333,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-13",
+      "videoSha256": "11d8c51eff501896f68f3e164be851da2da4025fb7b380aa497b5904b363eb4a",
+      "manifestShaMatches": true,
+      "durationSeconds": 83.91666666666667,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-14",
+      "videoSha256": "95711f5c84644b99fbcfe4805aa054255df7180601dfbcb8688f2933ac839023",
+      "manifestShaMatches": true,
+      "durationSeconds": 97.125,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-15",
+      "videoSha256": "a21c4a58599f5bc68f842036d4eef07ceb67aad249c925c93a33a3c65bfd89e9",
+      "manifestShaMatches": true,
+      "durationSeconds": 101.70833333333333,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": true,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-16",
+      "videoSha256": "6f3fb66637f0265290d4c6ddcddbc4f35200fabcc17d533eb60e1907ee08d93f",
+      "manifestShaMatches": true,
+      "durationSeconds": 52.458333333333336,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A3-12",
+      "videoSha256": "05eafdb34fc1a4afe698b6c5480ccaa3b5acf8137577aa198f27eadcdf8ffbf0",
+      "manifestShaMatches": true,
+      "durationSeconds": 47.458333333333336,
+      "kind": "working_draft",
+      "rootIndependentCurrentShaGate": false,
+      "subjectiveListeningAccepted": false
+    }
+  ],
+  "remoteAssetsBackedUp": false,
+  "releaseBundles": [],
+  "inProgress": [
+    "SYS-A2 formal19scene single-writer render and three-block voice ASR collection",
+    "A108/A109 final SHA independent QA",
+    "A110/A111 independent source-preview QA",
+    "Native OpenDesign snapshot and mixed-license/font audit",
+    "GitHub stage packaging/restore verification"
+  ],
+  "nextExecutableAction": "Recover current SYS-A2 existing run and all ASR; do not submit duplicate speech. Finish exact current hash QA, portable native snapshot, real Release upload and isolated redownload.",
+  "auth": {
+    "publicWipStageAtDeadline": true,
+    "source": "Direct user request verified in management chat on2026-10-20T01:17:38Z"
+  },
+  "noCredentialsIncluded": true
+}
