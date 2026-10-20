@@ -91,5 +91,6 @@
     }
   ],
   "freezePriorityUTC": "2026-10-20T03:17:38Z",
-  "executionPhase": "restore_and_bounded_cleanup_only"
+  "executionPhase": "paused_by_explicit_user_request",
+  "resumeRequiresHumanInstruction": true
 }

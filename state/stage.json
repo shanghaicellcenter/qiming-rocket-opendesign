@@ -244,10 +244,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
       "restorePhase": "base",
       "freshRestore": {
-        "status": "fresh_public_redownload_all_member_SHA_and_isolated_pages_passed",
+        "status": "actual_public_member_reconstruction_passed",
         "members": 815,
-        "receipt": "state/recovery-evidence/core-remote-restore-receipt.json",
-        "browserPages": 5
+        "actualMergedApplicationReopen": false,
+        "receiptLocal": "work/rocket-recovery-20261020/receipts/opendesign-native-core-20261020.tar.gz.merged-members.json"
       }
     },
     {
@@ -317,9 +317,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
       "restorePhase": "base",
       "freshRestore": {
-        "status": "pending_fresh_public_redownload_full_members_and_reopen",
-        "members": null,
-        "receipt": null
+        "status": "actual_public_member_reconstruction_passed",
+        "members": 8,
+        "actualMergedApplicationReopen": false,
+        "receiptLocal": "work/rocket-recovery-20261020/receipts/qiming-priority-editable-sources-03-of-03.tar.gz.merged-members.json"
       }
     },
     {
@@ -331,10 +332,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
       "restorePhase": "base",
       "freshRestore": {
-        "status": "fresh_public_archiveSHA_all154member_stream_and_independent_copy_reread_passed",
+        "status": "actual_public_member_reconstruction_passed",
         "members": 154,
         "actualMergedApplicationReopen": false,
-        "receipt": "state/recovery-evidence/postdeadline-recovery/qiming-legacy-outlined-and-late-voices.tar.gz.merged-members.json"
+        "receiptLocal": "work/rocket-recovery-20261020/receipts/qiming-legacy-outlined-and-late-voices.tar.gz.merged-members.json"
       }
     },
     {
@@ -360,9 +361,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
       "restorePhase": "base",
       "freshRestore": {
-        "status": "pending_fresh_public_redownload_full_members_and_reopen",
-        "members": null,
-        "receipt": null
+        "status": "actual_public_member_reconstruction_passed",
+        "members": 50,
+        "actualMergedApplicationReopen": false,
+        "receiptLocal": "work/rocket-recovery-20261020/receipts/qiming-priority-native-media-interactive-02-of-02.tar.gz.merged-members.json"
       }
     },
     {
@@ -403,10 +405,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
       "restorePhase": "final_small_last",
       "freshRestore": {
-        "status": "helper_fresh_public_download_all108member_write_reread_passed_and_root_independent_merged_copy_passed",
+        "status": "actual_public_member_reconstruction_passed",
         "members": 108,
         "actualMergedApplicationReopen": false,
-        "receipt": "state/recovery-evidence/postdeadline-recovery/helper-tiny-public-isolated-restore.json"
+        "receiptLocal": "work/rocket-recovery-20261020/receipts/qiming-FINAL-small-v3-public.tar.gz.merged-members.json"
       }
     }
   ],
@@ -417,7 +419,7 @@
     "qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz",
     "qiming-FINAL-small-v3-public.tar.gz"
   ],
-  "freshFullMemberVerifiedArchives": 6,
+  "freshFullMemberVerifiedArchives": 8,
   "freshSingleEditableFileReopenVerified": "A1-04 only",
   "sameMergedWholeProjectRestoreVerified": false,
   "allStageSourcesAndMediaUploaded": true,
@@ -446,7 +448,7 @@
     "restorePhase": "final_portable_overlay"
   },
   "exactCurrentTechnicalFullPlaybacks": 21,
-  "freshFullMemberVerifiedArchiveCount": 6,
+  "freshFullMemberVerifiedArchiveCount": 8,
   "publication": {
     "payloadsUploaded": 12,
     "bytes": 4213722653,
@@ -466,11 +468,11 @@
         "receipt": "state/recovery-evidence/postdeadline-recovery/helper-tiny-public-isolated-restore.json"
       }
     },
-    "freshFullMemberVerifiedArchives": 6,
+    "freshFullMemberVerifiedArchives": 8,
     "sameMergedWholeProjectRestoreVerified": false
   },
   "uploadedBigArchiveCountConfirmed": 12,
   "uploadedBigArchiveBytesConfirmed": 4213722653,
-  "executionPhase": "restore_and_bounded_cleanup_only",
+  "executionPhase": "paused_by_explicit_user_request",
   "futureProduction": "deferred_requires_user_resume_after_elapsed_production_window"
 }
