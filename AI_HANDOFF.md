@@ -1,3 +1,5 @@
+> 当前执行阶段覆盖：三小时制作窗口已结束，本轮仅 `restore_and_bounded_cleanup_only`。完整226章目标保留但未实现；`FULL226_COURSE` 为 `deferred_requires_user_resume`，不要从旧69批续作段启动新章节、配音或GPU渲染。现有恢复队列在运行，读取最新checkpoint和本地执行状态后继续验证已有12包。
+
 # 给下一位AI的续作交接
 
 这是WIP阶段存档。21段有声核查稿共1901.125秒，所有226章仍未完成最终验收；accepted BOM/custom/systems均为0。先读state/checkpoint.json、state/backlog.json与RESTORE.md。早包中的台账可能较旧，以按规定顺序应用后的最后checkpoint和逐附件manifest为准。

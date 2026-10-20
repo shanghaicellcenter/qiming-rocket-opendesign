@@ -1,0 +1,28 @@
+{
+  "phase": "restore_and_bounded_cleanup_only",
+  "status": "active",
+  "previousTurnClassification": "progress",
+  "fullObjectiveComplete": false,
+  "newProductionAllowed": false,
+  "completedStagePayloads": 12,
+  "currentRestoreDownload": null,
+  "canonicalCourses": "deferred_requires_user_resume",
+  "diskBeforeBytes": 1746046976,
+  "originalSourcesDeleted": 0,
+  "updatedAtUTC": "2026-10-20T04:38:15.392230+00:00",
+  "activeDownloads": [
+    {
+      "session": 41463,
+      "archive": "qiming-priority-editable-sources-01-of-03.tar.gz"
+    },
+    {
+      "session": 52946,
+      "mode": "serialized additional recovery queue; all downloads distinct targets"
+    }
+  ],
+  "freshWholeArchiveMemberVerifications": 6,
+  "mergedArchivesVerified": 3,
+  "mergedPathsVerified": 1077,
+  "mergedWholeProjectReopen": false,
+  "diskNowFreeBytes": 3666132992
+}

@@ -1,0 +1,156 @@
+{
+  "schema": "qiming-assembly-existing-source-portability-gap-v1",
+  "auditedAtUTC": "2026-10-20T04:41:37.872166+00:00",
+  "currentPhase": "restore_and_bounded_cleanup_only",
+  "finding": "旧母片及hierarchy引用路径不可达；当前对应母片可编辑制作源尚未定位。不能据此声称已确认某个已知.blend丢失。",
+  "knownUnavailableReferences": [
+    {
+      "declaredBy": {
+        "path": "${WORKSPACE_ROOT}/outputs/rocket-v2/assembly-review/接入与核查状态.json",
+        "exists": true,
+        "bytes": 465,
+        "sha256": "c83f65b1ad0f181b28265d155be25c55e6f561974bdfa475846c3d768bed077b"
+      },
+      "jsonField": "source",
+      "target": {
+        "path": "${SIBLING_WORKSPACE_ROOT}/new-chat/work/assembly-film/silent-master.mp4",
+        "exists": false
+      },
+      "declaredKind": "silent rendered MP4, not editable blend"
+    },
+    {
+      "declaredBy": {
+        "path": "${WORKSPACE_ROOT}/work/rocket-v2/assembly-sequence.json",
+        "exists": true,
+        "bytes": 11430,
+        "sha256": "0df8bf94f5135e63cb166da2b9471646e2395c49b667547f9da6095c0738ae4a"
+      },
+      "jsonField": "sourceHierarchy",
+      "target": {
+        "path": "${SIBLING_WORKSPACE_ROOT}/new-chat/work/native-cad/vehicle.hierarchy.json",
+        "exists": false
+      },
+      "declaredKind": "native hierarchy JSON; local replacement exists but reference was not rewritten"
+    }
+  ],
+  "preservedLocalAssets": [
+    {
+      "path": "${WORKSPACE_ROOT}/outputs/rocket-v2/assembly-review/原CAD逐组归位_无声核查母片.mp4",
+      "exists": true,
+      "bytes": 15855465,
+      "sha256": "19f66326f8c707d0d73bc03a6054b5f1c551c8234b44a71e717cbe900a1b06ca"
+    },
+    {
+      "path": "${WORKSPACE_ROOT}/outputs/rocket-v2/assembly-review/silent-timeline.json",
+      "exists": true,
+      "bytes": 1404,
+      "sha256": "d96a94b54bce0396c9581da0e22bbcba610fda72a92ef677a32d064bf44aaf89"
+    },
+    {
+      "path": "${WORKSPACE_ROOT}/outputs/rocket/source-inputs/partner-cad/native-cad/vehicle.usdc",
+      "exists": true,
+      "bytes": 70328219,
+      "sha256": "93be117e7bdd28f2ccba30a532f8c9eb728fdf0857d63e8d12c24dd4b21d1d58"
+    },
+    {
+      "path": "${WORKSPACE_ROOT}/outputs/rocket/source-inputs/partner-cad/native-cad/vehicle.hierarchy.json",
+      "exists": true,
+      "bytes": 4176465,
+      "sha256": "73b81ad82022a9ac421e27468fe1bec59e6c95538d96df1f0bd8d6cc29a1732f"
+    },
+    {
+      "path": "${WORKSPACE_ROOT}/work/rocket-v2/assembly-sequence.json",
+      "exists": true,
+      "bytes": 11430,
+      "sha256": "0df8bf94f5135e63cb166da2b9471646e2395c49b667547f9da6095c0738ae4a"
+    },
+    {
+      "path": "${WORKSPACE_ROOT}/work/rocket-v2/assembly-previs-plan.md",
+      "exists": true,
+      "bytes": 6102,
+      "sha256": "107238672aa46da03c454188a40fb854a652f4793afadc3ca33f287a9699d5ef"
+    }
+  ],
+  "publicPackageEvidence": {
+    "table": {
+      "path": "${WORKSPACE_ROOT}/work/rocket-recovery-20261020/merged-restore-plan.json",
+      "exists": true,
+      "bytes": 2108470,
+      "sha256": "47e028d467b05c3033b8217097b6dba0431e70c1b64b50c52c1d7718b3aa8331"
+    },
+    "tableSelector": "finalWinnerTable",
+    "finalMemberPaths": 6336,
+    "selectedAssemblyAndGeometryMembers": [
+      {
+        "archivePath": "outputs/rocket-v2/assembly-review/silent-timeline.json",
+        "sizeBytes": 1404,
+        "sha256": "d96a94b54bce0396c9581da0e22bbcba610fda72a92ef677a32d064bf44aaf89",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "outputs/rocket-v2/assembly-review/原CAD逐组归位_无声核查母片.mp4",
+        "sizeBytes": 15855465,
+        "sha256": "19f66326f8c707d0d73bc03a6054b5f1c551c8234b44a71e717cbe900a1b06ca",
+        "winningArchive": "qiming-priority-native-media-interactive-01-of-02.tar.gz",
+        "winningRank": 8
+      },
+      {
+        "archivePath": "outputs/rocket-v2/assembly-review/接入与核查状态.json",
+        "sizeBytes": 466,
+        "sha256": "7f4d649217596a8c576029ffb9d2335f14af9436f3dd2b79573169e2aeb53b7b",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "outputs/rocket/source-inputs/partner-cad/native-cad/vehicle.hierarchy.json",
+        "sizeBytes": 4178373,
+        "sha256": "407dfc9cd034d33be3fdada1da0fb6a151ff5b42f866a56e991bc9dc3dde02b8",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "outputs/rocket/source-inputs/partner-cad/native-cad/vehicle.name-source-map.json",
+        "sizeBytes": 839377,
+        "sha256": "16cde67cf71de76e083026064aa068ed02b0fd6d9126336c300f675514e6effd",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "outputs/rocket/source-inputs/partner-cad/native-cad/vehicle.usdc",
+        "sizeBytes": 70328219,
+        "sha256": "93be117e7bdd28f2ccba30a532f8c9eb728fdf0857d63e8d12c24dd4b21d1d58",
+        "winningArchive": "qiming-priority-native-media-interactive-01-of-02.tar.gz",
+        "winningRank": 8
+      },
+      {
+        "archivePath": "work/rocket-v2/assembly-previs-plan.md",
+        "sizeBytes": 6102,
+        "sha256": "107238672aa46da03c454188a40fb854a652f4793afadc3ca33f287a9699d5ef",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "work/rocket-v2/assembly-sequence.json",
+        "sizeBytes": 11431,
+        "sha256": "5f7865dcfdf269413fff5ad618c7839f707a7ae1b177e67d0c010eb4012cfeb9",
+        "winningArchive": "qiming-production-source-voice-01-v2.tar.gz",
+        "winningRank": 3
+      },
+      {
+        "archivePath": "work/rocket-v2/native-selected.blend",
+        "sizeBytes": 20211350,
+        "sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "winningArchive": "qiming-priority-editable-sources-03-of-03.tar.gz",
+        "winningRank": 6
+      }
+    ],
+    "publishedBlendPathsCount": 95,
+    "assemblyFilmOrSilentMasterNamedPaths": [],
+    "inspectionScope": "Names and manifest SHA identities only; no package retrieval or .blend scene inspection this task",
+    "limits": "发布清单保存了母片/时间轴/计划/原生几何；不能由没有相同文件名推断所有95个blend均不含有关场景，也不能把native-selected或causal-course自动当母片编辑源。"
+  },
+  "allowedRecoveryNext": "root可向已获授权的Anatomy/partner chat索取已有逐组归位编辑源、生成脚本/scene映射及旧工程或公共恢复入口；本轮不新建动画/重建母片。",
+  "originalOrRepoModified": false,
+  "newJobsOrDownloads": 0
+}

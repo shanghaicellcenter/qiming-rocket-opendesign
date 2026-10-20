@@ -1,32 +1,32 @@
 {
   "schema": "qiming-current-backlog-v2",
   "preparedAtUTC": "2026-10-20T03:59:23.188583+00:00",
-  "factsCutoffUTC": "2026-10-20T04:12:54.966997+00:00",
+  "factsCutoffUTC": "2026-10-20T04:43:51.171505+00:00",
   "fullCourseCompleted": false,
   "tasks": [
     {
       "id": "P0_FINAL_OVERLAY_AND_TINY",
       "priority": 0,
-      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
-      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
+      "status": "stage_payloads_published_and_API_verified",
+      "next": "12 actual payloads retained in Release; continue restore-only phase. This is not whole-course completion."
     },
     {
       "id": "P0_FREEZE_AND_PUBLISH",
       "priority": 0,
-      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
-      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
+      "status": "stage_payloads_published_and_API_verified",
+      "next": "12 actual payloads retained in Release; continue restore-only phase. This is not whole-course completion."
     },
     {
       "id": "P0_ROOT_HANDOFF_SYNC",
       "priority": 0,
-      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
-      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
+      "status": "stage_payloads_published_and_API_verified",
+      "next": "12 actual payloads retained in Release; continue restore-only phase. This is not whole-course completion."
     },
     {
       "id": "P0_MEDIA_AND_RAW_COVERAGE",
       "priority": 0,
-      "status": "required12_payloads_uploaded_exact_API_verified_root_final_docs_push",
-      "next": "Read exact actual URLs/size/SHA and order from checkpoint. No new TTS needed. Remaining7 big archives and finaltiny fresh recovery, merged engineering reopen and subjective hearings pending."
+      "status": "stage_payloads_published_and_API_verified",
+      "next": "12 actual payloads retained in Release; continue restore-only phase. This is not whole-course completion."
     },
     {
       "id": "P0_CORE_RESTORE",
@@ -37,8 +37,8 @@
     {
       "id": "P0_REMAINING_REMOTE_RESTORE",
       "priority": 0,
-      "status": "4_archives_full_fresh_member_verified_7_other_bigarchives_pending",
-      "next": "Core815/original385/sourcevoice2344/media-delta127 fresh full members verified; recovered A104 opened/rendered and selected deltaSH040decoded. Remaining7 large archives and finaltiny fresh/merged whole project remain pending."
+      "status": "6_archives_fresh_verified_6_other_bigarchives_pending_partial_merged1077",
+      "next": "Continue only actual live recovery queue and editable01 download, preserving original inputs. Whole6336-path merged root and actual applications remain incomplete. No new chapter, TTS or GPU production."
     },
     {
       "id": "A2_FINAL_DRAFT",
@@ -67,7 +67,7 @@
     {
       "id": "FULL226_COURSE",
       "priority": 2,
-      "status": "incomplete_zero_finalaccepted",
+      "status": "deferred_requires_user_resume",
       "remaining": {
         "canonicalPlanned": 226,
         "representedPilotdraftIds": 21,
@@ -75,7 +75,7 @@
         "customDrafts": 0,
         "canonicalPrincipleP01P08Drafts": 0
       },
-      "next": "Resume69batchledger and1156plannedactions, sourceposition/feature/sentencegates;9systems/172BOM/34custom+8principles+3framing, assembly/QC/simulation/realtestevidence remain whole-scope acceptance requirements."
+      "next": "Full objective preserved, incomplete; production window elapsed. Do not launch new69batch/TTS/render from automatic continuation; current authorized phase is recovery and bounded temporary cleanup only."
     },
     {
       "id": "HUMAN_AUDIO_VISUAL_ACCEPTANCE",
@@ -90,5 +90,6 @@
       "next": "Keep unique unfinishedsources unless corresponding actual remote recovery and dependencies verified under user cleanup rules. No whole ni/appdata/Desktop/sharedtools/remoteenv deletion."
     }
   ],
-  "freezePriorityUTC": "2026-10-20T03:17:38Z"
+  "freezePriorityUTC": "2026-10-20T03:17:38Z",
+  "executionPhase": "restore_and_bounded_cleanup_only"
 }

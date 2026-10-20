@@ -1,0 +1,4088 @@
+{
+  "archive": "opendesign-native-core-20261020.tar.gz",
+  "members": 815,
+  "atUTC": "2026-10-20T04:32:25.753290+00:00",
+  "provenance": "retained isolated extraction of previously completed actual public archive download",
+  "originalPublicDownloadReceipt": "${WORKSPACE_ROOT}/work/rocket-deadline-publish/core-remote-restore-receipt.json",
+  "originalPublicDownloadReceiptSHA256": "a52dc3fda4b1c3fce4713d0753429df3551783ae686e8efae4e424e1853bca05",
+  "allRetainedPublicBytesAndIndependentCopiesSHA256Matched": true,
+  "hardLinksUsed": false,
+  "actualMergedApplicationReopen": false,
+  "records": [
+    {
+      "archivePath": "OpenDesign/project/LICENSE.txt",
+      "sha256": "272b50278c150552653384975a09cf6f421a31b982f7546920dc10c5ff218430",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/app.js",
+      "sha256": "e26b0aae2a550ca5ee8793b0b9b7a2eca5e7f3942a2412ffeb88921451e3194f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/asset-manifest.json",
+      "sha256": "2a6e17940ff4c3b538539f06e25a2fd0fc3c0f7bc1ab7b4056236a9973b7f9c4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-01.webp",
+      "sha256": "18fb675a02e0f31852c8f25bc7888829e09cb84b6ddfe561e8f1b6cd536370dd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-02.webp",
+      "sha256": "50477db73e492855ed3ade72bda22b12adc13ceba1e959d2bad76941a4336232",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-03.webp",
+      "sha256": "b0f9900cdedd4a9f875f18b1a92b872dede3508deef87caaabc42faafb131669",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-04.webp",
+      "sha256": "d3460cf262a50bb540067e3ad6f0dd5025175dda25a8a4c588192d34f49feb61",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-05.webp",
+      "sha256": "5a5347370eed9e0373a22a5a1ddcf369426221a5e28ab44f7d0d4886924856b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-06.webp",
+      "sha256": "2ee6ef301db44e06cc0027003244fe20d6d306b679aea12ef4f29d1eca2bd394",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-07.webp",
+      "sha256": "62a9bbce6b15ae4c3276dccf19b9f179573119229105599d0c0a5a9e08d575bd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-08.webp",
+      "sha256": "9acc3df230c4beb05bc9fa3b57a2c7da0b4f886cd71f50ac9e78f2a508b9c726",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-09.webp",
+      "sha256": "6ce8e83bc13b439e162c81a3e9e4b84d89171ddd41045dafca81c386df940090",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-10.webp",
+      "sha256": "2a9792c414b5941c1064cfa475088cc305713e200935ae7330b23434c42f0b9f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-11.webp",
+      "sha256": "23f8c029c71f2afe4f1af964d37d3e2a1a4d28ea4616c41dc9a3b37653828326",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-12.webp",
+      "sha256": "b232144112215faee6859af98ee537a862c5057ea1be120f9bcfb606fb5c87c5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-13.webp",
+      "sha256": "c5a94fd70dde0b66d7c3ddcaa968405fdce4580560a8e354bfdf44f7ba9bf9a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-14.webp",
+      "sha256": "a7eac3bd67f73c141fcc944d25d09e409dab075a42eb16b64e4570a6426ebcf2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-15.webp",
+      "sha256": "ff241c2808bea94ab4c1319848d7161d38929d26635eb02b9f1a854fdbbc57c3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-16.webp",
+      "sha256": "da158935667c095cf2dea9b6fa5f967d01a7ec3fcd15f44a06e8904a8dfce550",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-17.webp",
+      "sha256": "6d43765c87f8ff91a740178170abb62dc1b23e7ee80ab92088919ddd1edac24b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-18.webp",
+      "sha256": "4379d98cba1f53584a5e02915c096dfad4f398f91eef03894f5a7bdb91e9484f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-19.webp",
+      "sha256": "1ec15506fbb7900ef4f1df26eaa3e17b25ca0ed17c354065132542d05dba276e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-20.webp",
+      "sha256": "6ed717066f7e9436c95b83c42ea734d1b72b43d4b7146210af251d8552ea41eb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-21.webp",
+      "sha256": "b6edabdf351c1588243884f368d19022fab6323dac86d56fb5602307e1fbfdb2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-22.webp",
+      "sha256": "8d952391da6820bc03e48a226c2731380175a6b70e74ddf4c7e149d4ee6eca23",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-23.webp",
+      "sha256": "c3ecdfed2b7339012d7decc337942880e134a029ab2632f07da56aa4d4817052",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-24.webp",
+      "sha256": "c0b85c85b6ac29cc8554c893c2f8379c7e23ac173c42b6eea64f2f7d20d6189d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-25.webp",
+      "sha256": "6dea945e15ac2dd554dcd21564eae1f3ff7be06af89324e751c25506d0d0fa39",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-26.webp",
+      "sha256": "8550032bbcf4a66173e565dd895a7ae283c9352f7bb3500fe9e1e9c9e1b1f83c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-27.webp",
+      "sha256": "f9e839b7672f1392e1d453b2589785354a03300970543890e64336c57cd06f03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-28.webp",
+      "sha256": "f8f7b67b8e179e5bf1c8158584f2b2af27a22303c1ff0d6b4f7ee567bd07816d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-29.webp",
+      "sha256": "2b10de02cd910f56c2763c8d302d3dd343320b3c94bee21cf0d5c5cf00edac3d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-30.webp",
+      "sha256": "93490274cf8852672c46303e286a932b7cb4fe5c7a117e84067396199c41fe20",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-31.webp",
+      "sha256": "22909222bc7e916c306e6fd94f69b093259fa0a177e40b7ea2e2e166fb9d58f2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-32.webp",
+      "sha256": "cb0b62309f14e4f9abf335be7a93c76eff0c3392437fe3dc089b49b17176457b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-33.webp",
+      "sha256": "e91f5d7dce472e32ea1909a03222a6de60aa97c83186ba044e5e0a557d0d0b75",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/components/CAD-34.webp",
+      "sha256": "6f4ff1fcb0b9a15291629c51b1b078cb6346359e3cceac4f799a982657614e2a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A3-10.webp",
+      "sha256": "b73859abc505dc6f6624a552f6526a88af6d72d67bb4a267520b6565281e69f9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A3-11.webp",
+      "sha256": "546b515473d6be769cdef9b4e590dc7783a184f0f10051458355337e8e27e5e2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A3-12.webp",
+      "sha256": "c317d049b54329c987939f7586237b8202ec28fa3042fd3d903fbb04ab944d69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A6-19.webp",
+      "sha256": "da18f13438d149fa25aa5eeefe0967d021b73dfa98ebe7a45aad3c6128e87251",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A7-04.webp",
+      "sha256": "c8645ba5fa2058b58a3c29a659f84106ea14a755c22f0050e4ab9a86732e30fc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/A7-14.webp",
+      "sha256": "c59f57142b9ca06c515845abec98c50ffd165bf100aa9c3aa4e65cad4f97ecd8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/B1-01.webp",
+      "sha256": "68b698893d8ef279590a9b74c804e6e57a85619706a5791bba32fde3b1a260f4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/B1-02.webp",
+      "sha256": "f497080878489bd684cf6924e0665d5b4465d1116fc057fce96322201921a045",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/B1-05.webp",
+      "sha256": "e9f3e705abfa33f8240991023671e0730071f5a7befd7fa2299cece831a4fdc6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/B1-06.webp",
+      "sha256": "edc1d91a5b49a446b8af4d50a87efe51182df2be329a10af3058d3c78098b6a7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/B1-07.webp",
+      "sha256": "fbbff201cc3820ebd6e36163946c24ae17d5723b6010dc5639301e4c93efd604",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/C1-04.webp",
+      "sha256": "24bce7d389ec96cc11da5e04f5d76858f25d26c856f7f19f499e98864e422d4f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/C1-10.webp",
+      "sha256": "52b706ed9c7900025a1562ce687646f8582240c144194bcff7dc47ce531b334a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/C1-15.webp",
+      "sha256": "30141a74206edc99587c8c8a0d1d40bce4bb1b54a6b065760c469727b668e711",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/function-details/C1-18.webp",
+      "sha256": "5cb12a43257b5a0d6f9afd6bfcf24ab2c4f253ff6f4c500b5b73e0e23c3ddea0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/A3-01.webp",
+      "sha256": "d3ba702a486521eec08329413d6c22c3d6a161885d366a3587ec8106726271d7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/A7-05.webp",
+      "sha256": "24fe7435472f7f7d9cf55106fb340aa861f516305eb49985552babad0644c7af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/A7-06.webp",
+      "sha256": "bded763b95dc7fad88e6a7160e8553b5a18c9c09bc930274669c523e3a01dd68",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/A7-18.webp",
+      "sha256": "2cd938912a0e44afca0196589152f342a4ace0ba9f60572b5b84be912fe5b2c7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/B1-03.webp",
+      "sha256": "b27b0a588fcc66f33711afe37dde16f817933bcc793efa4b19f6534dadea9e69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/B1-04.webp",
+      "sha256": "f8270764cd54a9b4ced722aaed0408b3d65df6b80b07c351a83026d4eb5c71fb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-01.webp",
+      "sha256": "0ed974e9cf5b85b81ed26cf72ca6a63d3ab4cbd25c770be0e02d1539ccbc9ed0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-02.webp",
+      "sha256": "90266e5709e6f356b3cf4cfaf536c70b585ec748304472092ca9b5d0a0532ec5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-03.webp",
+      "sha256": "65822ca729c66d04145a683152c54beff18ff3b4282aa11bf4508c5cddb47707",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-05.webp",
+      "sha256": "b97b11a558bcc33d13b16d6a91b0ff22a40c150ec70280231d4d4a750cc56d03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-06.webp",
+      "sha256": "234fccc85b2cb26fcfb94fc9cefc4d6af16b3e8261f35c452acd339e209adb5b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-07.webp",
+      "sha256": "8f11690c163908f4b0b809b6be77f30e249bc4d39a6b53180f551c2fe5e89a69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-08.webp",
+      "sha256": "1328ae9ab70abc2713f7dad18abdb9efd4cbb689e95b1ff169e72c4286a490bb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-09.webp",
+      "sha256": "5d7c82bab6d7bce1d86c409551d0869f13dc2f546856893ed165bfee9e4fabbc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-11.webp",
+      "sha256": "6d39bd19345268410157025d06665f481580a7eabbb26bebcce2662c32050de2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-12.webp",
+      "sha256": "e525d48a6db5379cff6f586f7875a2635bc593ce99d9cdaaf15b7422d1d2f55f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-16.webp",
+      "sha256": "42e9df493936939ad061878e84d82d59ef919e9bfd58fbabe26a0be9d9a2d8ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-17.webp",
+      "sha256": "25806dbee4594e56d11cf8d86c0072b22945319d2ac0b8201c9ea86ceb08d112",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-20.webp",
+      "sha256": "f5cff142fbcca6c18829186fc12e168ffd948aed1b83739ea39c3aa9f5493a03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-27.webp",
+      "sha256": "e2378994da4e6bb99192d057853e6617b2c6d6d393987534d721dae2be18d978",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-28.webp",
+      "sha256": "00bc7218ce3cfd75e5792c37d82640f11184dcaebb94a0265b21b856d57e01a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/manual-details/C1-33.webp",
+      "sha256": "a940416d50b07c2964e22b4fce2ece544d8f30488073220667d55f75fea6a684",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-0230c77c8d96.webp",
+      "sha256": "041f92e040f0034a7c1982e39858ccd50645ed81a1ab9f23cc3428b5c7ba0707",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-02bb844f595f.webp",
+      "sha256": "216ee68046d2158ec47ac38a6cb1979199e7e6b92913d6d73aac3cbccf0fbda0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-0433b6c0ff75.webp",
+      "sha256": "0b6000214602a84b7870c61fce959cfe89697c6ec192b13020efbe1c14990b1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-055902a9c1ee.webp",
+      "sha256": "2555248cb68845ee2fb2ca29c3359f81d41886592e3a104378e4bb5fd912fd69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-056879a5f278.webp",
+      "sha256": "b1099e1be7da934dbc83ed2231383bab671d4baaef7c566b32402c25c4a70025",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-060b773a1957.webp",
+      "sha256": "b25892395ffbce1ab9a4fcd6b5798d61e9779a82e5e35d06950111db79182641",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-085a92a9df72.webp",
+      "sha256": "02008a9f2f0dcffd4e5b4b58d275348925bfdadd65f4e0e4abf34e3510aff3fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-0caf822c9d8d.webp",
+      "sha256": "1bd7d4bdc14bfae0cf9e513e9c6ab3c9090533b4a19e58b2d1261d4690f948ff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-0ce19943a146.webp",
+      "sha256": "f4dfdf08333927034a11e17614a5bf7855f6f3aa83bb646d645434f481b1c7da",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-1401d45048bb.webp",
+      "sha256": "264886abdc677bd09c6123169fa33da90b22a4a63d8dbe3d20faa4a117ae052a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-1714d3487d45.webp",
+      "sha256": "662729c7fecf86cb348b3e47003b2ea153239de9f43e03213d745ec3fb2250cd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-175e03d465e6.webp",
+      "sha256": "627b4c320ab14e44e5239273c1ec6b7a99de302a736535f012f1f7e2bef5b172",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-18563809e64d.webp",
+      "sha256": "243d8cb97b5d184c66c9372f7d7216cb54e50aca7f5198b670af4ba8fcfd879d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-18e0630fb4ad.webp",
+      "sha256": "056249dfc9d915a56d88f367aed72a90c9a79c57cb77a5e48eea80dac6524a2b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-1ec2760a7e2e.webp",
+      "sha256": "04e1b3404cfa1dd3ade0c6db51cd024be36410ae5988efc9b92acb9fc8d3919f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-250a0febc7e8.webp",
+      "sha256": "086e07868fd341a9bdbfb37317f0387d873b1a24b3395d1035fcb1be0d45d1a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-271119554a43.webp",
+      "sha256": "9b0d6fd044feae42fb4025c94cf90ca3de000f274fb0afffeba0c3aecc8b4eb4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-2b4801fe0e99.webp",
+      "sha256": "e3da01df637ef4b7dc36e10e156c3a6eb19c746ce03c2ee66070977a4f77ae09",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-2b97b4c8a682.webp",
+      "sha256": "e1dadac56196a0d8934adfaa123ac2fa341dc4479af7c5511c903483499934d1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-2be757fd7d8f.webp",
+      "sha256": "826b47d416cdf97c215da40ec46b71ee2554a30a6b597bc97cb095731786539c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-2ca5610a1d4c.webp",
+      "sha256": "e3c0f39ed08972fc1a515058d14a7e336ef93760b0118248405f3e0acc79527b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-335245e678d2.webp",
+      "sha256": "e6a68ae792a854ef409efd616a81121bafc842765dea47248ca02ac02e872517",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-35f93877551f.webp",
+      "sha256": "aa334a3465a1d4728fb8df7dfb02835faf073c1aeefb5ae3feb196fc7b5c4f7a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-40399f8cca8d.webp",
+      "sha256": "e6eb3d819078ccc8496a738ce5eb295c1fc014c72ce641c66c35abc4e25ca588",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-45a10f33c705.webp",
+      "sha256": "7b1292bda3af81ae07751d2355b07757a40ddfb6d38ad26b90eee6fef96bbb97",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-485edbbba121.webp",
+      "sha256": "7f323399e331b9ae1f6dfa905514de20e9f0d9f2daa7f1824f0b54c9858e5b14",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-4b53abda90e2.webp",
+      "sha256": "4d1e9648aff8fdd7a15551427a7b27fce4f67a6e927f9b30370a7a7cd0e1c394",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-4ca1a4123c0b.webp",
+      "sha256": "13fdcf8da2c86052f29d29c8d5afab4339864aaf84a727149da372e6efd27e58",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-4f99c7a38e6b.webp",
+      "sha256": "875591b9a6cf1e565eeecb89ec82ebde3d00e60086ebc05d1d991dd3ded9a38c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-5189f50e0651.webp",
+      "sha256": "003e601464fe2811c5e1bb82b2a50ff07efbbf36e4934ec59eff6648f63e554e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-51d67cb6ef77.webp",
+      "sha256": "6205ff4bae6cbb06b9ba077e94ba85cc1cefea88f5ec634a96054ad70ff9403e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-5256f263ff22.webp",
+      "sha256": "25c67273e5ce7ff83c75156bd9377e1b2f9d2329e549f75d2a0974ca6a0c8505",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-5b72f4b592e6.webp",
+      "sha256": "187789a8c80e7228e948ca838aa223407d0b09e715f405ff14bcb64272d763d3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-5f7f34c2a890.webp",
+      "sha256": "c7e125c2944d40399551209718b321326f008f65c478e07c0f5c44591d08fa48",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-5fe6c18c5258.webp",
+      "sha256": "8f5a5bbf5e2cbbc69cc32a84ecaf8cde7aada3ef1309a650edaad98f92a470af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-63b1d1bea87a.webp",
+      "sha256": "8ebc53af7a38d94abb168b226c39a92611013f169a5e907d9ec4fa52b58ec2f8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-650b88b2f6da.webp",
+      "sha256": "0d0a84b27d7182e8ef0e88ffb8b01d0a6b387e83797ce404fa993b9861ccd6b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-679541dd3eaa.webp",
+      "sha256": "b30917a6cc7a85cb950c72cdf2d8508222ede275fb01a25a2647346388522409",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-6c376e1df750.webp",
+      "sha256": "a7b11ac7de24ce2315dee78982a3457ae5c858b452058d9e556c3af0c5475cf5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-74a73dcd84a5.webp",
+      "sha256": "3662f96cc98717418a9badc8a45319a7f9ead7aba7842b1a11fa679451ff3554",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-765bd8f4165f.webp",
+      "sha256": "7390ebbc84acd94c592eee20c6cb8a686edc17811d90d1476e00c05d99d58804",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-76ddb072defa.webp",
+      "sha256": "ecdb93da2457bf7bdffb5e30755e9b16eeac263f7d759b4ca612af1229e1dddf",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-77fb8f5ed713.webp",
+      "sha256": "20c6dc330e198b2cb7526331f126606f3d3afc1d4ccc26c14632c6b7e0d7c166",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-7a7c1cbe5ec2.webp",
+      "sha256": "6c7b693fb82f30111fc581d9e56ee38b8d34e5ca6df5a171e0a77fd5771417ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-7d1bf3b9f315.webp",
+      "sha256": "9dbc3b7ac886b4d91ce9f8b742d18d4e6dc22efd675d4f2720cb23ec63ca4a8a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-7e0b5fb801c5.webp",
+      "sha256": "44346e28ea0cc4b93d0c285993cc346f64dda1f21c830e2ac261a35d77371fe7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-7e453b5522a6.webp",
+      "sha256": "dc42228f51c18b15b9b4389a081e76f06c1912ecaea59ec219b92084e67f89ef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-7e4e4c384b21.webp",
+      "sha256": "5a16fc4a71a7ad4548cd0024ad9fdde8d9a219579d0e0e09031280434b0ecb25",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-807c8829815e.webp",
+      "sha256": "f8c4c3b78ccba250ceb1ede86e8c158ee157afe3824dce38ce5362e20d97809e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-830822d716f9.webp",
+      "sha256": "5f480317135332f08fb3e387fd991f500486d665d16e00385c1a7a7027335698",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-83dfeecfede0.webp",
+      "sha256": "0e600f3ed98d5f1e5fd52253c063b92702fcda454a36e73c92c304532ce02b5a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-84678faf407b.webp",
+      "sha256": "4e19286b4930b956ccbf7f6544aa4129086cc5936315a69a0c7f32745a490d1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-88786acd0813.webp",
+      "sha256": "060bde40c5df3db78fb0a41d41c93dcc63998345647561936850fecb21e5cb7b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-8b2d76b8991a.webp",
+      "sha256": "96c1f5397190cde7113d7d0ec74cf8c8a8ee867b6ec96fdb21be335bd7694499",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-8b369a1cd4bc.webp",
+      "sha256": "a68e67f276279a5330a5fb90b780880b62fd538125757917b15ab00a3fd0034a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-8fb97cb82a69.webp",
+      "sha256": "797d320a5c87231815d8d67f42c4ee3e3383ce6e24100199e97f2fa8c1449a0a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-94fb7c507833.webp",
+      "sha256": "c81b8884542d1fa60fe5b791048105f983dcc56b51ce602827600966bb5c083e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-981f36c5d642.webp",
+      "sha256": "e0df8188feca248cf570d42ac5744e47e3f341aa6eb7bccd1055d3ed5b71d7da",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-a39da9eb217f.webp",
+      "sha256": "97f0a8411471ee86117e253d63f1848e206b474bddfad39e37033c7f0c1400c5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-a44eb9f8e5a5.webp",
+      "sha256": "76ee1aa09f4d1e1148d456a6bdc65e14a7b25a17182839445317c896af3a3c1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-a724096741cd.webp",
+      "sha256": "46aa19789512206e7fc6bc984b21dc9266a1bef8e49dd0d151d30ededfc956cd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-abe68ffa03d5.webp",
+      "sha256": "1fd4d0b95972753d64ba97a3d0873c6db0dc1ddafbf696569c2e64c21cfc3368",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-ae4facf8a93f.webp",
+      "sha256": "2815d16468b8a2cc0404828689debbb038ab733fda2dd8581b655b48c71aa45d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-b166e51ec2a5.webp",
+      "sha256": "2690f286e64e95d885404866c00d65652f4e4d451cd500401d991ffa66f039a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-b368627a1dd9.webp",
+      "sha256": "26746a7230bc8f6c6f36c913dd9485fd31bb8451cfd59d158f793464819817a6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-b565f12d8b0f.webp",
+      "sha256": "fbd1813e6c9872dd7966a122436652dd05efe4a77d59c5b909e8d24cb070c990",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-b669139dd9a6.webp",
+      "sha256": "2402629de30db818bf4e323c553076cb216ca3702c10bae7ba18015eaae5af06",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-ba125c325791.webp",
+      "sha256": "15be85c524330047da4851aee4fbef0ef3d7e61059530b5901f36f8b82386f38",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-bca692b29b90.webp",
+      "sha256": "877a4a8782a64a4210708b6a98f71397b7011df71bb26ed395dae7e84f120f3c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-c0083e926f8d.webp",
+      "sha256": "6e789803fd02ec924da2b796360eb6715b4e5565920c1f2d85d4607558c1118c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-c49b6e145048.webp",
+      "sha256": "564a097342b559d1d195a6fb05829a1121d5e69886705966d9528016aaf1172b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-c5b7018a1965.webp",
+      "sha256": "91a5f33b948254764de8e800931ede6a19794b4c1589654efc84ab2e08b8e4b6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-c7caa6e1f290.webp",
+      "sha256": "8ee9d9f2d02c9577a9b8d6c6e5f24f70197b3e0ee9cdce843fbc695fa579b855",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-c963e4ef0631.webp",
+      "sha256": "199e20fede9175df7f981bb99bb8c0d48153af72d19f05920bb16d8936826c4b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-ca0b4dfaebf5.webp",
+      "sha256": "880879711ea9a8a376ff86f60913a2cb22ac374876b567b5dd48b16a123da669",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-cba174b676bf.webp",
+      "sha256": "d36b7c9e14a5f6acc2d46a14ec5a8abb63a16b182e7a5b7d2f7a1ddc37f58eff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-d189656f5f87.webp",
+      "sha256": "a8c54160710c5529bd7f081abf73d38c396529dc454c3dbbdb6b50b16de4bd9a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-d2b952b78dbe.webp",
+      "sha256": "543b8f3b25346397b0488d5e1a84628e3e14636428c0a58568722695b45f8b9e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-d7fb91085df4.webp",
+      "sha256": "30fab8555b344396dc9432988cf8470bd849b684f0cc61534c70ddca801a1dca",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-db7fcde691c0.webp",
+      "sha256": "30348f4160353cdf862f2da0ccbc2e64475e5255e0889072414cb41b478e2c00",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-dccea3eca78e.webp",
+      "sha256": "08e4999b7946457561b05df43a43690c898931434370efeb71f7af39c4e65454",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-dd36b8cf95a7.webp",
+      "sha256": "09f93814d7274ebee40690be286f4846e3eb96730d670a3dd31e16bdddf1245a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-de54d62b251d.webp",
+      "sha256": "928b73aa185b3ef5e46842ebf61ed873ea62c0c0f9e65c2fcace09f3df579eef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-e387aae5d1da.webp",
+      "sha256": "79525408ff9eeb59e4f938b95300206055f26b542df09e9adf8f32e916ddee61",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-e5dc717a4600.webp",
+      "sha256": "bc3ab262c88a86426675e38c9f0082b4b8252c89f9f92d1d2d0ae6bfd11d30db",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-e78887a08b61.webp",
+      "sha256": "aae607406dffaf373df3edf2202ebf15d1feb5d01c1ca177cdc073edbdbd61fd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-ea035a20f879.webp",
+      "sha256": "8f80d0f2f27c08511aa2f2bb96691064fea1f2079132cfd6ff0328ec1ab54aa4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-eae1b95bda88.webp",
+      "sha256": "766074308c82a48d61d6049da1911632e8be36fbc0403ba2890b9c3a87a49bc7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-ec1abccd2f66.webp",
+      "sha256": "cb491e26fd77b9fc889e85d0c72f11b2df4035798ffc94d10537f70d8ffa8f1e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-f35b2788a604.webp",
+      "sha256": "ecf7e3bf1deffe7cc240b5d6eb5592dec415f431e0b43cf2875143118f3733a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-f3ca32c57691.webp",
+      "sha256": "1228bea48c9e6ce4742f9785af801ca1b789ea3b6b214634c03046fc3b7b85ae",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-f7f823c0e6cf.webp",
+      "sha256": "d171be0d0c70dda3e2baa8e6bf3b4e14396bf2301c43b540dbf59dbc48d5780d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-faa3f60506b3.webp",
+      "sha256": "f5877408ee05f0871e38ff96db3379d35d88ab62b6e2a9f79143cb59dff9f808",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/native/native-fe88e719322e.webp",
+      "sha256": "379c9cb1370cfc96e2955fd1d57c8474d36bb51a908737f468691d6132509ee5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A1.png",
+      "sha256": "b8a8e94afd506723f73642591dc8c274f1e52aa101d096fdf6f07327fce92b78",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A2.jpeg",
+      "sha256": "361c66fdd23e24b54678d74c7cb8ccdaba7f93e5337eed4fc9efa3c37382f2ee",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A3.png",
+      "sha256": "002a73b2988b89c1cea3fe7d5af91a639005a28e738a8fd084075156387a5407",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A4.jpeg",
+      "sha256": "bc7b57a917c386a2844fe868a5163690269c0203884e4dd0a637126c544567a8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A6.jpeg",
+      "sha256": "a0b1cc80a6785557e88b14104f8b1dd62058f91deda1d6a19f6b04296e500d62",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-A7.jpeg",
+      "sha256": "f1ba1156cc517d7d7d98119a3ece65d966252c7a9b73f0ac83e662d4a536cf31",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-propulsion.jpg",
+      "sha256": "77a2f5470bcbfec76e7ecf29c3a764c9cb9f184857dbfc7c8e2a761d3b065f62",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/reference-whole.jpg",
+      "sha256": "2d099420ff51e648e9d8df2848446679dfbf3ea6219828acd00b35843254e723",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/rocket-exploded.webp",
+      "sha256": "6dd75aa827f6f90555b8dd0240f78c6e4720848f5872f70f047eafc7d03ce443",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/rocket-overview.webp",
+      "sha256": "16a396b803b00a8aa7c7c534127f7556e23970e033673ef4c209af63337bdadd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/A7-01.webp",
+      "sha256": "5a6804c4a2ffc3ac5a4652d2e9a8e50da8a6be5dd5420a403572e2d9d8332adb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/A7-16.webp",
+      "sha256": "01c712521e46a6b78181f86a02b2b4c8875215b271c5b6e5debe747a4cf39b2d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-19.webp",
+      "sha256": "8241e52239e93f871e77467a830e905924ea1d85c2d319d292eed3d201f26464",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-21.webp",
+      "sha256": "f2c1baa265b100fb0f41f810b1560ed0e9e926139fc41eaf5d7765dd33a942ac",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-22.webp",
+      "sha256": "7e6c892d2b176921563a699f6fe99fe22a16ca7286a3cf0d9bd00f502630d70d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-23.webp",
+      "sha256": "ebb0b43a3cbe1444aa803f2e3e3f812a6b44b05b8e9f7eee6dfe9917e74a0af7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-24.webp",
+      "sha256": "9515eea40c1674cb13d39dd072c9250135c6390ad5a5012081297890a950e91e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/source-details/C1-25.webp",
+      "sha256": "643758d386a298bf4ff77b1485c5e31399a0d54d4263b8e71cb884b67677a21c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A1-01.webp",
+      "sha256": "c4e9f355e5dce3e5bd426aaa79e768115bc45b557c040e90099b12be8a3b6f60",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A1-02.webp",
+      "sha256": "d739a550d3c07b19e13ffd0662652ebf955aa3f403e557355e755c7b1b229b58",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A1-03.webp",
+      "sha256": "4070b45301ae89e04504d48f8ce2cc560aadf6bf1dfb25d76082d4a464aaeb1d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A1-04.webp",
+      "sha256": "8ae253a4f07a78c8e54a43b5ec9c58821254f9f311712664e62568436c988810",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A2-11.webp",
+      "sha256": "9f1e09e46503e297a8c70b9764e6b86535919962bc78615f04df86b5c38cdc85",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A2-15.webp",
+      "sha256": "286ccb2097fed644b298d6f8a7d7238b45a472aec6745e3fc4c8d0514b54a7db",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A3-13.webp",
+      "sha256": "ab2079b0f2218ff4d022b9a3dbef09fe269484b354ac170cfa4321987d2ef2c1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A4-01.webp",
+      "sha256": "cf66249ac171bfd0c2c6ba8bdbdafc940d61fe2edc22df0d905882a7d8566d47",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A4-02.webp",
+      "sha256": "cd6a9712734690c403c4d68a4d54c0a0004f5ab0f6ec7709a328518efd58f562",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A4-03.webp",
+      "sha256": "c2def68f7c427fad98f4c49762384cf0dcc1a25d71818bf0a12f4089c160e70c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A6-09.webp",
+      "sha256": "541c333e07c230cb02842506fe6428b0a6c2780d4ce9bba629d85d1e9f8f87a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A6-15.webp",
+      "sha256": "d67e6ee52595d5c1ebb0d2e447198d03742751a3bb5156ac5b3a6e0eab945cc6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A6-17.webp",
+      "sha256": "ac1297f3dff4972b3277214b601e5f79c8eeb83ee0575e0499dc7e23a3b344bd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A7-02.webp",
+      "sha256": "2fd6b4383000183cad7a89108d191b4850f730274e2880b4a81cb03fbd4dea4a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/A7-03.webp",
+      "sha256": "b7962359a06322692e6610dc30090cd27f93fa13ff0f0ea125b43af73ded5ec4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/C1-34.webp",
+      "sha256": "3b97be3e9c7291aec3d64c84f834238e70e1476019785728c9888efbb89daa3e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/assets/stock-details/C1-35.webp",
+      "sha256": "b4817b7898db841bad56b5648fa0ff6b5a65bcdb4d33a285bf3ed016519ea8c6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/brand.js",
+      "sha256": "426d9ed8de5f2cf9162addd98a6a02503257218aabbfe1be3e15230e617bffeb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/LICENSE.txt",
+      "sha256": "272b50278c150552653384975a09cf6f421a31b982f7546920dc10c5ff218430",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-01.webp",
+      "sha256": "18fb675a02e0f31852c8f25bc7888829e09cb84b6ddfe561e8f1b6cd536370dd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-02.webp",
+      "sha256": "50477db73e492855ed3ade72bda22b12adc13ceba1e959d2bad76941a4336232",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-03.webp",
+      "sha256": "b0f9900cdedd4a9f875f18b1a92b872dede3508deef87caaabc42faafb131669",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-04.webp",
+      "sha256": "d3460cf262a50bb540067e3ad6f0dd5025175dda25a8a4c588192d34f49feb61",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-05.webp",
+      "sha256": "5a5347370eed9e0373a22a5a1ddcf369426221a5e28ab44f7d0d4886924856b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-06.webp",
+      "sha256": "2ee6ef301db44e06cc0027003244fe20d6d306b679aea12ef4f29d1eca2bd394",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-07.webp",
+      "sha256": "62a9bbce6b15ae4c3276dccf19b9f179573119229105599d0c0a5a9e08d575bd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-08.webp",
+      "sha256": "9acc3df230c4beb05bc9fa3b57a2c7da0b4f886cd71f50ac9e78f2a508b9c726",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-09.webp",
+      "sha256": "6ce8e83bc13b439e162c81a3e9e4b84d89171ddd41045dafca81c386df940090",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-10.webp",
+      "sha256": "2a9792c414b5941c1064cfa475088cc305713e200935ae7330b23434c42f0b9f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-11.webp",
+      "sha256": "23f8c029c71f2afe4f1af964d37d3e2a1a4d28ea4616c41dc9a3b37653828326",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-12.webp",
+      "sha256": "b232144112215faee6859af98ee537a862c5057ea1be120f9bcfb606fb5c87c5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-13.webp",
+      "sha256": "c5a94fd70dde0b66d7c3ddcaa968405fdce4580560a8e354bfdf44f7ba9bf9a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-14.webp",
+      "sha256": "a7eac3bd67f73c141fcc944d25d09e409dab075a42eb16b64e4570a6426ebcf2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-15.webp",
+      "sha256": "ff241c2808bea94ab4c1319848d7161d38929d26635eb02b9f1a854fdbbc57c3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-16.webp",
+      "sha256": "da158935667c095cf2dea9b6fa5f967d01a7ec3fcd15f44a06e8904a8dfce550",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-17.webp",
+      "sha256": "6d43765c87f8ff91a740178170abb62dc1b23e7ee80ab92088919ddd1edac24b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-18.webp",
+      "sha256": "4379d98cba1f53584a5e02915c096dfad4f398f91eef03894f5a7bdb91e9484f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-19.webp",
+      "sha256": "1ec15506fbb7900ef4f1df26eaa3e17b25ca0ed17c354065132542d05dba276e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-20.webp",
+      "sha256": "6ed717066f7e9436c95b83c42ea734d1b72b43d4b7146210af251d8552ea41eb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-21.webp",
+      "sha256": "b6edabdf351c1588243884f368d19022fab6323dac86d56fb5602307e1fbfdb2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-22.webp",
+      "sha256": "8d952391da6820bc03e48a226c2731380175a6b70e74ddf4c7e149d4ee6eca23",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-23.webp",
+      "sha256": "c3ecdfed2b7339012d7decc337942880e134a029ab2632f07da56aa4d4817052",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-24.webp",
+      "sha256": "c0b85c85b6ac29cc8554c893c2f8379c7e23ac173c42b6eea64f2f7d20d6189d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-25.webp",
+      "sha256": "6dea945e15ac2dd554dcd21564eae1f3ff7be06af89324e751c25506d0d0fa39",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-26.webp",
+      "sha256": "8550032bbcf4a66173e565dd895a7ae283c9352f7bb3500fe9e1e9c9e1b1f83c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-27.webp",
+      "sha256": "f9e839b7672f1392e1d453b2589785354a03300970543890e64336c57cd06f03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-28.webp",
+      "sha256": "f8f7b67b8e179e5bf1c8158584f2b2af27a22303c1ff0d6b4f7ee567bd07816d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-29.webp",
+      "sha256": "2b10de02cd910f56c2763c8d302d3dd343320b3c94bee21cf0d5c5cf00edac3d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-30.webp",
+      "sha256": "93490274cf8852672c46303e286a932b7cb4fe5c7a117e84067396199c41fe20",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-31.webp",
+      "sha256": "22909222bc7e916c306e6fd94f69b093259fa0a177e40b7ea2e2e166fb9d58f2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-32.webp",
+      "sha256": "cb0b62309f14e4f9abf335be7a93c76eff0c3392437fe3dc089b49b17176457b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-33.webp",
+      "sha256": "e91f5d7dce472e32ea1909a03222a6de60aa97c83186ba044e5e0a557d0d0b75",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/components/CAD-34.webp",
+      "sha256": "6f4ff1fcb0b9a15291629c51b1b078cb6346359e3cceac4f799a982657614e2a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/fuel-route.glb",
+      "sha256": "07b36719066249964dbfdc320365a6136772bceb7cb9fa1d54cb63bf1eb37719",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A3-10.webp",
+      "sha256": "b73859abc505dc6f6624a552f6526a88af6d72d67bb4a267520b6565281e69f9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A3-11.webp",
+      "sha256": "546b515473d6be769cdef9b4e590dc7783a184f0f10051458355337e8e27e5e2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A3-12.webp",
+      "sha256": "c317d049b54329c987939f7586237b8202ec28fa3042fd3d903fbb04ab944d69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A6-19.webp",
+      "sha256": "da18f13438d149fa25aa5eeefe0967d021b73dfa98ebe7a45aad3c6128e87251",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A7-04.webp",
+      "sha256": "c8645ba5fa2058b58a3c29a659f84106ea14a755c22f0050e4ab9a86732e30fc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/A7-14.webp",
+      "sha256": "c59f57142b9ca06c515845abec98c50ffd165bf100aa9c3aa4e65cad4f97ecd8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/B1-01.webp",
+      "sha256": "68b698893d8ef279590a9b74c804e6e57a85619706a5791bba32fde3b1a260f4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/B1-02.webp",
+      "sha256": "f497080878489bd684cf6924e0665d5b4465d1116fc057fce96322201921a045",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/B1-05.webp",
+      "sha256": "e9f3e705abfa33f8240991023671e0730071f5a7befd7fa2299cece831a4fdc6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/B1-06.webp",
+      "sha256": "edc1d91a5b49a446b8af4d50a87efe51182df2be329a10af3058d3c78098b6a7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/B1-07.webp",
+      "sha256": "fbbff201cc3820ebd6e36163946c24ae17d5723b6010dc5639301e4c93efd604",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/C1-04.webp",
+      "sha256": "24bce7d389ec96cc11da5e04f5d76858f25d26c856f7f19f499e98864e422d4f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/C1-10.webp",
+      "sha256": "52b706ed9c7900025a1562ce687646f8582240c144194bcff7dc47ce531b334a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/C1-15.webp",
+      "sha256": "30141a74206edc99587c8c8a0d1d40bce4bb1b54a6b065760c469727b668e711",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/function-details/C1-18.webp",
+      "sha256": "5cb12a43257b5a0d6f9afd6bfcf24ab2c4f253ff6f4c500b5b73e0e23c3ddea0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/A3-01.webp",
+      "sha256": "d3ba702a486521eec08329413d6c22c3d6a161885d366a3587ec8106726271d7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/A7-05.webp",
+      "sha256": "24fe7435472f7f7d9cf55106fb340aa861f516305eb49985552babad0644c7af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/A7-06.webp",
+      "sha256": "bded763b95dc7fad88e6a7160e8553b5a18c9c09bc930274669c523e3a01dd68",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/A7-18.webp",
+      "sha256": "2cd938912a0e44afca0196589152f342a4ace0ba9f60572b5b84be912fe5b2c7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/B1-03.webp",
+      "sha256": "b27b0a588fcc66f33711afe37dde16f817933bcc793efa4b19f6534dadea9e69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/B1-04.webp",
+      "sha256": "f8270764cd54a9b4ced722aaed0408b3d65df6b80b07c351a83026d4eb5c71fb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-01.webp",
+      "sha256": "0ed974e9cf5b85b81ed26cf72ca6a63d3ab4cbd25c770be0e02d1539ccbc9ed0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-02.webp",
+      "sha256": "90266e5709e6f356b3cf4cfaf536c70b585ec748304472092ca9b5d0a0532ec5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-03.webp",
+      "sha256": "65822ca729c66d04145a683152c54beff18ff3b4282aa11bf4508c5cddb47707",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-05.webp",
+      "sha256": "b97b11a558bcc33d13b16d6a91b0ff22a40c150ec70280231d4d4a750cc56d03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-06.webp",
+      "sha256": "234fccc85b2cb26fcfb94fc9cefc4d6af16b3e8261f35c452acd339e209adb5b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-07.webp",
+      "sha256": "8f11690c163908f4b0b809b6be77f30e249bc4d39a6b53180f551c2fe5e89a69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-08.webp",
+      "sha256": "1328ae9ab70abc2713f7dad18abdb9efd4cbb689e95b1ff169e72c4286a490bb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-09.webp",
+      "sha256": "5d7c82bab6d7bce1d86c409551d0869f13dc2f546856893ed165bfee9e4fabbc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-11.webp",
+      "sha256": "6d39bd19345268410157025d06665f481580a7eabbb26bebcce2662c32050de2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-12.webp",
+      "sha256": "e525d48a6db5379cff6f586f7875a2635bc593ce99d9cdaaf15b7422d1d2f55f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-16.webp",
+      "sha256": "42e9df493936939ad061878e84d82d59ef919e9bfd58fbabe26a0be9d9a2d8ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-17.webp",
+      "sha256": "25806dbee4594e56d11cf8d86c0072b22945319d2ac0b8201c9ea86ceb08d112",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-20.webp",
+      "sha256": "f5cff142fbcca6c18829186fc12e168ffd948aed1b83739ea39c3aa9f5493a03",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-27.webp",
+      "sha256": "e2378994da4e6bb99192d057853e6617b2c6d6d393987534d721dae2be18d978",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-28.webp",
+      "sha256": "00bc7218ce3cfd75e5792c37d82640f11184dcaebb94a0265b21b856d57e01a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/manual-details/C1-33.webp",
+      "sha256": "a940416d50b07c2964e22b4fce2ece544d8f30488073220667d55f75fea6a684",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/motion-manifest.json",
+      "sha256": "60ba015d461b7c1a97e0177844e50e451a68a75d9927bc91073532f58be2f38b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-0230c77c8d96.webp",
+      "sha256": "041f92e040f0034a7c1982e39858ccd50645ed81a1ab9f23cc3428b5c7ba0707",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-02bb844f595f.webp",
+      "sha256": "216ee68046d2158ec47ac38a6cb1979199e7e6b92913d6d73aac3cbccf0fbda0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-0433b6c0ff75.webp",
+      "sha256": "0b6000214602a84b7870c61fce959cfe89697c6ec192b13020efbe1c14990b1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-055902a9c1ee.webp",
+      "sha256": "2555248cb68845ee2fb2ca29c3359f81d41886592e3a104378e4bb5fd912fd69",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-056879a5f278.webp",
+      "sha256": "b1099e1be7da934dbc83ed2231383bab671d4baaef7c566b32402c25c4a70025",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-060b773a1957.webp",
+      "sha256": "b25892395ffbce1ab9a4fcd6b5798d61e9779a82e5e35d06950111db79182641",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-085a92a9df72.webp",
+      "sha256": "02008a9f2f0dcffd4e5b4b58d275348925bfdadd65f4e0e4abf34e3510aff3fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-0caf822c9d8d.webp",
+      "sha256": "1bd7d4bdc14bfae0cf9e513e9c6ab3c9090533b4a19e58b2d1261d4690f948ff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-0ce19943a146.webp",
+      "sha256": "f4dfdf08333927034a11e17614a5bf7855f6f3aa83bb646d645434f481b1c7da",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-1401d45048bb.webp",
+      "sha256": "264886abdc677bd09c6123169fa33da90b22a4a63d8dbe3d20faa4a117ae052a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-1714d3487d45.webp",
+      "sha256": "662729c7fecf86cb348b3e47003b2ea153239de9f43e03213d745ec3fb2250cd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-175e03d465e6.webp",
+      "sha256": "627b4c320ab14e44e5239273c1ec6b7a99de302a736535f012f1f7e2bef5b172",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-18563809e64d.webp",
+      "sha256": "243d8cb97b5d184c66c9372f7d7216cb54e50aca7f5198b670af4ba8fcfd879d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-18e0630fb4ad.webp",
+      "sha256": "056249dfc9d915a56d88f367aed72a90c9a79c57cb77a5e48eea80dac6524a2b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-1ec2760a7e2e.webp",
+      "sha256": "04e1b3404cfa1dd3ade0c6db51cd024be36410ae5988efc9b92acb9fc8d3919f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-250a0febc7e8.webp",
+      "sha256": "086e07868fd341a9bdbfb37317f0387d873b1a24b3395d1035fcb1be0d45d1a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-271119554a43.webp",
+      "sha256": "9b0d6fd044feae42fb4025c94cf90ca3de000f274fb0afffeba0c3aecc8b4eb4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-2b4801fe0e99.webp",
+      "sha256": "e3da01df637ef4b7dc36e10e156c3a6eb19c746ce03c2ee66070977a4f77ae09",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-2b97b4c8a682.webp",
+      "sha256": "e1dadac56196a0d8934adfaa123ac2fa341dc4479af7c5511c903483499934d1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-2be757fd7d8f.webp",
+      "sha256": "826b47d416cdf97c215da40ec46b71ee2554a30a6b597bc97cb095731786539c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-2ca5610a1d4c.webp",
+      "sha256": "e3c0f39ed08972fc1a515058d14a7e336ef93760b0118248405f3e0acc79527b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-335245e678d2.webp",
+      "sha256": "e6a68ae792a854ef409efd616a81121bafc842765dea47248ca02ac02e872517",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-35f93877551f.webp",
+      "sha256": "aa334a3465a1d4728fb8df7dfb02835faf073c1aeefb5ae3feb196fc7b5c4f7a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-40399f8cca8d.webp",
+      "sha256": "e6eb3d819078ccc8496a738ce5eb295c1fc014c72ce641c66c35abc4e25ca588",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-45a10f33c705.webp",
+      "sha256": "7b1292bda3af81ae07751d2355b07757a40ddfb6d38ad26b90eee6fef96bbb97",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-485edbbba121.webp",
+      "sha256": "7f323399e331b9ae1f6dfa905514de20e9f0d9f2daa7f1824f0b54c9858e5b14",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-4b53abda90e2.webp",
+      "sha256": "4d1e9648aff8fdd7a15551427a7b27fce4f67a6e927f9b30370a7a7cd0e1c394",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-4ca1a4123c0b.webp",
+      "sha256": "13fdcf8da2c86052f29d29c8d5afab4339864aaf84a727149da372e6efd27e58",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-4f99c7a38e6b.webp",
+      "sha256": "875591b9a6cf1e565eeecb89ec82ebde3d00e60086ebc05d1d991dd3ded9a38c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-5189f50e0651.webp",
+      "sha256": "003e601464fe2811c5e1bb82b2a50ff07efbbf36e4934ec59eff6648f63e554e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-51d67cb6ef77.webp",
+      "sha256": "6205ff4bae6cbb06b9ba077e94ba85cc1cefea88f5ec634a96054ad70ff9403e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-5256f263ff22.webp",
+      "sha256": "25c67273e5ce7ff83c75156bd9377e1b2f9d2329e549f75d2a0974ca6a0c8505",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-5b72f4b592e6.webp",
+      "sha256": "187789a8c80e7228e948ca838aa223407d0b09e715f405ff14bcb64272d763d3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-5f7f34c2a890.webp",
+      "sha256": "c7e125c2944d40399551209718b321326f008f65c478e07c0f5c44591d08fa48",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-5fe6c18c5258.webp",
+      "sha256": "8f5a5bbf5e2cbbc69cc32a84ecaf8cde7aada3ef1309a650edaad98f92a470af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-63b1d1bea87a.webp",
+      "sha256": "8ebc53af7a38d94abb168b226c39a92611013f169a5e907d9ec4fa52b58ec2f8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-650b88b2f6da.webp",
+      "sha256": "0d0a84b27d7182e8ef0e88ffb8b01d0a6b387e83797ce404fa993b9861ccd6b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-679541dd3eaa.webp",
+      "sha256": "b30917a6cc7a85cb950c72cdf2d8508222ede275fb01a25a2647346388522409",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-6c376e1df750.webp",
+      "sha256": "a7b11ac7de24ce2315dee78982a3457ae5c858b452058d9e556c3af0c5475cf5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-74a73dcd84a5.webp",
+      "sha256": "3662f96cc98717418a9badc8a45319a7f9ead7aba7842b1a11fa679451ff3554",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-765bd8f4165f.webp",
+      "sha256": "7390ebbc84acd94c592eee20c6cb8a686edc17811d90d1476e00c05d99d58804",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-76ddb072defa.webp",
+      "sha256": "ecdb93da2457bf7bdffb5e30755e9b16eeac263f7d759b4ca612af1229e1dddf",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-77fb8f5ed713.webp",
+      "sha256": "20c6dc330e198b2cb7526331f126606f3d3afc1d4ccc26c14632c6b7e0d7c166",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-7a7c1cbe5ec2.webp",
+      "sha256": "6c7b693fb82f30111fc581d9e56ee38b8d34e5ca6df5a171e0a77fd5771417ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-7d1bf3b9f315.webp",
+      "sha256": "9dbc3b7ac886b4d91ce9f8b742d18d4e6dc22efd675d4f2720cb23ec63ca4a8a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-7e0b5fb801c5.webp",
+      "sha256": "44346e28ea0cc4b93d0c285993cc346f64dda1f21c830e2ac261a35d77371fe7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-7e453b5522a6.webp",
+      "sha256": "dc42228f51c18b15b9b4389a081e76f06c1912ecaea59ec219b92084e67f89ef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-7e4e4c384b21.webp",
+      "sha256": "5a16fc4a71a7ad4548cd0024ad9fdde8d9a219579d0e0e09031280434b0ecb25",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-807c8829815e.webp",
+      "sha256": "f8c4c3b78ccba250ceb1ede86e8c158ee157afe3824dce38ce5362e20d97809e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-830822d716f9.webp",
+      "sha256": "5f480317135332f08fb3e387fd991f500486d665d16e00385c1a7a7027335698",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-83dfeecfede0.webp",
+      "sha256": "0e600f3ed98d5f1e5fd52253c063b92702fcda454a36e73c92c304532ce02b5a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-84678faf407b.webp",
+      "sha256": "4e19286b4930b956ccbf7f6544aa4129086cc5936315a69a0c7f32745a490d1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-88786acd0813.webp",
+      "sha256": "060bde40c5df3db78fb0a41d41c93dcc63998345647561936850fecb21e5cb7b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-8b2d76b8991a.webp",
+      "sha256": "96c1f5397190cde7113d7d0ec74cf8c8a8ee867b6ec96fdb21be335bd7694499",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-8b369a1cd4bc.webp",
+      "sha256": "a68e67f276279a5330a5fb90b780880b62fd538125757917b15ab00a3fd0034a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-8fb97cb82a69.webp",
+      "sha256": "797d320a5c87231815d8d67f42c4ee3e3383ce6e24100199e97f2fa8c1449a0a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-94fb7c507833.webp",
+      "sha256": "c81b8884542d1fa60fe5b791048105f983dcc56b51ce602827600966bb5c083e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-981f36c5d642.webp",
+      "sha256": "e0df8188feca248cf570d42ac5744e47e3f341aa6eb7bccd1055d3ed5b71d7da",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-a39da9eb217f.webp",
+      "sha256": "97f0a8411471ee86117e253d63f1848e206b474bddfad39e37033c7f0c1400c5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-a44eb9f8e5a5.webp",
+      "sha256": "76ee1aa09f4d1e1148d456a6bdc65e14a7b25a17182839445317c896af3a3c1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-a724096741cd.webp",
+      "sha256": "46aa19789512206e7fc6bc984b21dc9266a1bef8e49dd0d151d30ededfc956cd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-abe68ffa03d5.webp",
+      "sha256": "1fd4d0b95972753d64ba97a3d0873c6db0dc1ddafbf696569c2e64c21cfc3368",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-ae4facf8a93f.webp",
+      "sha256": "2815d16468b8a2cc0404828689debbb038ab733fda2dd8581b655b48c71aa45d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-b166e51ec2a5.webp",
+      "sha256": "2690f286e64e95d885404866c00d65652f4e4d451cd500401d991ffa66f039a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-b368627a1dd9.webp",
+      "sha256": "26746a7230bc8f6c6f36c913dd9485fd31bb8451cfd59d158f793464819817a6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-b565f12d8b0f.webp",
+      "sha256": "fbd1813e6c9872dd7966a122436652dd05efe4a77d59c5b909e8d24cb070c990",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-b669139dd9a6.webp",
+      "sha256": "2402629de30db818bf4e323c553076cb216ca3702c10bae7ba18015eaae5af06",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-ba125c325791.webp",
+      "sha256": "15be85c524330047da4851aee4fbef0ef3d7e61059530b5901f36f8b82386f38",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-bca692b29b90.webp",
+      "sha256": "877a4a8782a64a4210708b6a98f71397b7011df71bb26ed395dae7e84f120f3c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-c0083e926f8d.webp",
+      "sha256": "6e789803fd02ec924da2b796360eb6715b4e5565920c1f2d85d4607558c1118c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-c49b6e145048.webp",
+      "sha256": "564a097342b559d1d195a6fb05829a1121d5e69886705966d9528016aaf1172b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-c5b7018a1965.webp",
+      "sha256": "91a5f33b948254764de8e800931ede6a19794b4c1589654efc84ab2e08b8e4b6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-c7caa6e1f290.webp",
+      "sha256": "8ee9d9f2d02c9577a9b8d6c6e5f24f70197b3e0ee9cdce843fbc695fa579b855",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-c963e4ef0631.webp",
+      "sha256": "199e20fede9175df7f981bb99bb8c0d48153af72d19f05920bb16d8936826c4b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-ca0b4dfaebf5.webp",
+      "sha256": "880879711ea9a8a376ff86f60913a2cb22ac374876b567b5dd48b16a123da669",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-cba174b676bf.webp",
+      "sha256": "d36b7c9e14a5f6acc2d46a14ec5a8abb63a16b182e7a5b7d2f7a1ddc37f58eff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-d189656f5f87.webp",
+      "sha256": "a8c54160710c5529bd7f081abf73d38c396529dc454c3dbbdb6b50b16de4bd9a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-d2b952b78dbe.webp",
+      "sha256": "543b8f3b25346397b0488d5e1a84628e3e14636428c0a58568722695b45f8b9e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-d7fb91085df4.webp",
+      "sha256": "30fab8555b344396dc9432988cf8470bd849b684f0cc61534c70ddca801a1dca",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-db7fcde691c0.webp",
+      "sha256": "30348f4160353cdf862f2da0ccbc2e64475e5255e0889072414cb41b478e2c00",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-dccea3eca78e.webp",
+      "sha256": "08e4999b7946457561b05df43a43690c898931434370efeb71f7af39c4e65454",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-dd36b8cf95a7.webp",
+      "sha256": "09f93814d7274ebee40690be286f4846e3eb96730d670a3dd31e16bdddf1245a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-de54d62b251d.webp",
+      "sha256": "928b73aa185b3ef5e46842ebf61ed873ea62c0c0f9e65c2fcace09f3df579eef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-e387aae5d1da.webp",
+      "sha256": "79525408ff9eeb59e4f938b95300206055f26b542df09e9adf8f32e916ddee61",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-e5dc717a4600.webp",
+      "sha256": "bc3ab262c88a86426675e38c9f0082b4b8252c89f9f92d1d2d0ae6bfd11d30db",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-e78887a08b61.webp",
+      "sha256": "aae607406dffaf373df3edf2202ebf15d1feb5d01c1ca177cdc073edbdbd61fd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-ea035a20f879.webp",
+      "sha256": "8f80d0f2f27c08511aa2f2bb96691064fea1f2079132cfd6ff0328ec1ab54aa4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-eae1b95bda88.webp",
+      "sha256": "766074308c82a48d61d6049da1911632e8be36fbc0403ba2890b9c3a87a49bc7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-ec1abccd2f66.webp",
+      "sha256": "cb491e26fd77b9fc889e85d0c72f11b2df4035798ffc94d10537f70d8ffa8f1e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-f35b2788a604.webp",
+      "sha256": "ecf7e3bf1deffe7cc240b5d6eb5592dec415f431e0b43cf2875143118f3733a4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-f3ca32c57691.webp",
+      "sha256": "1228bea48c9e6ce4742f9785af801ca1b789ea3b6b214634c03046fc3b7b85ae",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-f7f823c0e6cf.webp",
+      "sha256": "d171be0d0c70dda3e2baa8e6bf3b4e14396bf2301c43b540dbf59dbc48d5780d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-faa3f60506b3.webp",
+      "sha256": "f5877408ee05f0871e38ff96db3379d35d88ab62b6e2a9f79143cb59dff9f808",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native/native-fe88e719322e.webp",
+      "sha256": "379c9cb1370cfc96e2955fd1d57c8474d36bb51a908737f468691d6132509ee5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native-piston.glb",
+      "sha256": "d64debcd7c6c24cfb5e98b5d28405e3ced4a099b4b26ade17c45bd9a1c4a58e2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native-piston.json",
+      "sha256": "69627d13ecebf4f03c007f5f520be38e9bcc411dbd29eb87cc3750cfc30867e4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native-valve.glb",
+      "sha256": "bf58aae3488477ee8966e8182b095d9b5ccba8e62aae5d4f310130850aa62564",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/native-valve.json",
+      "sha256": "1f1eed4f20cb02c07cca928ac575c107560057859989eccf168eaccee1470502",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/piston-cavity-profile.json",
+      "sha256": "7d022d1ee82ce711d159d5d1d7fd1fbe1447d32364d3c796cc65f75a80bcc2fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/reference-propulsion.jpg",
+      "sha256": "77a2f5470bcbfec76e7ecf29c3a764c9cb9f184857dbfc7c8e2a761d3b065f62",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/reference-whole.jpg",
+      "sha256": "2d099420ff51e648e9d8df2848446679dfbf3ea6219828acd00b35843254e723",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/rocket-overview.webp",
+      "sha256": "16a396b803b00a8aa7c7c534127f7556e23970e033673ef4c209af63337bdadd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/A7-01.webp",
+      "sha256": "5a6804c4a2ffc3ac5a4652d2e9a8e50da8a6be5dd5420a403572e2d9d8332adb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/A7-16.webp",
+      "sha256": "01c712521e46a6b78181f86a02b2b4c8875215b271c5b6e5debe747a4cf39b2d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-19.webp",
+      "sha256": "8241e52239e93f871e77467a830e905924ea1d85c2d319d292eed3d201f26464",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-21.webp",
+      "sha256": "f2c1baa265b100fb0f41f810b1560ed0e9e926139fc41eaf5d7765dd33a942ac",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-22.webp",
+      "sha256": "7e6c892d2b176921563a699f6fe99fe22a16ca7286a3cf0d9bd00f502630d70d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-23.webp",
+      "sha256": "ebb0b43a3cbe1444aa803f2e3e3f812a6b44b05b8e9f7eee6dfe9917e74a0af7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-24.webp",
+      "sha256": "9515eea40c1674cb13d39dd072c9250135c6390ad5a5012081297890a950e91e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/source-details/C1-25.webp",
+      "sha256": "643758d386a298bf4ff77b1485c5e31399a0d54d4263b8e71cb884b67677a21c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A1-01.webp",
+      "sha256": "c4e9f355e5dce3e5bd426aaa79e768115bc45b557c040e90099b12be8a3b6f60",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A1-02.webp",
+      "sha256": "d739a550d3c07b19e13ffd0662652ebf955aa3f403e557355e755c7b1b229b58",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A1-03.webp",
+      "sha256": "4070b45301ae89e04504d48f8ce2cc560aadf6bf1dfb25d76082d4a464aaeb1d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A1-04.webp",
+      "sha256": "8ae253a4f07a78c8e54a43b5ec9c58821254f9f311712664e62568436c988810",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A2-11.webp",
+      "sha256": "9f1e09e46503e297a8c70b9764e6b86535919962bc78615f04df86b5c38cdc85",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A2-15.webp",
+      "sha256": "286ccb2097fed644b298d6f8a7d7238b45a472aec6745e3fc4c8d0514b54a7db",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A3-13.webp",
+      "sha256": "ab2079b0f2218ff4d022b9a3dbef09fe269484b354ac170cfa4321987d2ef2c1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A4-01.webp",
+      "sha256": "cf66249ac171bfd0c2c6ba8bdbdafc940d61fe2edc22df0d905882a7d8566d47",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A4-02.webp",
+      "sha256": "cd6a9712734690c403c4d68a4d54c0a0004f5ab0f6ec7709a328518efd58f562",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A4-03.webp",
+      "sha256": "c2def68f7c427fad98f4c49762384cf0dcc1a25d71818bf0a12f4089c160e70c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A6-09.webp",
+      "sha256": "541c333e07c230cb02842506fe6428b0a6c2780d4ce9bba629d85d1e9f8f87a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A6-15.webp",
+      "sha256": "d67e6ee52595d5c1ebb0d2e447198d03742751a3bb5156ac5b3a6e0eab945cc6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A6-17.webp",
+      "sha256": "ac1297f3dff4972b3277214b601e5f79c8eeb83ee0575e0499dc7e23a3b344bd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A7-02.webp",
+      "sha256": "2fd6b4383000183cad7a89108d191b4850f730274e2880b4a81cb03fbd4dea4a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/A7-03.webp",
+      "sha256": "b7962359a06322692e6610dc30090cd27f93fa13ff0f0ea125b43af73ded5ec4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/C1-34.webp",
+      "sha256": "3b97be3e9c7291aec3d64c84f834238e70e1476019785728c9888efbb89daa3e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/assets/stock-details/C1-35.webp",
+      "sha256": "b4817b7898db841bad56b5648fa0ff6b5a65bcdb4d33a285bf3ed016519ea8c6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/audio/lesson-01.wav",
+      "sha256": "bde7514296d51b8aef6bde21806c4c6b0504b3cf60c161d61c13bfd5d6e8cd2d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/brand.js",
+      "sha256": "426d9ed8de5f2cf9162addd98a6a02503257218aabbfe1be3e15230e617bffeb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/course-data.js",
+      "sha256": "c016152c2271f6c8be032aa569cabc85ccbcf57e7974883fd4f33e064b62176d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/course.css",
+      "sha256": "5195160b6d4e114341d6c4a37a41c87e6208147a25956b903526baf9e6e50d9a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/course.js",
+      "sha256": "2bf547baa135de6866b62202ca52c5ead5f6657dd1339789fff7368483d45adc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/index.html",
+      "sha256": "0515b1995a382637807802118318256e817d479ae54c395902f535b27cf47573",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/machine.html",
+      "sha256": "30a927365cc5dcc58b3518aec797b2f617b36618acd0b2260789e8bdcff59ed7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/principles-machine.html",
+      "sha256": "5ffe4bfe4731cb4f378e43dbcf32918fa51b0bec87c5da4bf7f2d9b07167dd6d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/LICENSE",
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.cjs",
+      "sha256": "f41a071cca3809c22b09736cbddaa6898ae69be95aa9540c8b72def74925379c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.module.js",
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.module.min.js",
+      "sha256": "08fd7545d13d2c7fb65ab691530a802dafefd638596501854f267d0fb13c39e7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.webgpu.js",
+      "sha256": "16edb0f093241201a0c2df879cd1c9c8d9914aecf80e08ecea3f95436b416d57",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.webgpu.min.js",
+      "sha256": "3f95260c4b998b6b50d96e886a5e82885eb8c8043a7c3863ce11ce3dc597ef41",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.webgpu.nodes.js",
+      "sha256": "0dfde6f54553826b0ec4bf141520557604d01d083cb578447888242cf77fe1fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/build/three.webgpu.nodes.min.js",
+      "sha256": "e4c730cef7c5da475e550f2a74dc7140517b114c741f44124b980e04b5a99236",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/Addons.js",
+      "sha256": "af0232114c28d0b790053e66a49347ad4b0494a53bfda69a0935e32c5586ed1c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/animation/AnimationClipCreator.js",
+      "sha256": "1c972c3a5c29b62f85a51e3421def77c652e74b34d33b493f22a71eb1a5173ce",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/animation/CCDIKSolver.js",
+      "sha256": "36b31607c3bf41d50f2db7f64ff42defe2a7189b259891d58e2b2d1de3d00baa",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/animation/MMDAnimationHelper.js",
+      "sha256": "4dfec80a9925730e7b2841a5075dcd81b5b56e2867a35ada4c3ef247a5bd21ce",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/animation/MMDPhysics.js",
+      "sha256": "cfdfa1232e74a2c05c9f7dccb43ee5f44ef27d92b33a59062d810bdec7598ffa",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/capabilities/WebGL.js",
+      "sha256": "6e290d361b970f43b7d75a12cc0e8d57bb0d3c7ee29170d38e3b5da3c24962ce",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/capabilities/WebGPU.js",
+      "sha256": "d17692b2df6bf4fafc8e9573e82184a2a5adcb264939a4878cf9bba5b929805e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/ArcballControls.js",
+      "sha256": "819adb7b1f41e5fea6114a5d87e8dfd01525acb229a797f7be0b32c0af9a21d0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/DragControls.js",
+      "sha256": "ccfef01268154ff0e8bf9509325c59ee68fda9c69db1268ca3fa71503eefca50",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/FirstPersonControls.js",
+      "sha256": "6097e3dfb4885cf043ed5ee6c573badbc1093ad99f90265582a16a00a1952b4b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/FlyControls.js",
+      "sha256": "da56652639f2539745676eeff9377c2e2b1f9a4dbc8993f6130351672f198e8b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/MapControls.js",
+      "sha256": "83d22280adf0d68db4ca02e6ccafda13936a2aa11ed2ed9427bbb31c0f883772",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/OrbitControls.js",
+      "sha256": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/PointerLockControls.js",
+      "sha256": "3bcdd5827137a5fe531735ad8785d909ba898a904829638c58f1d7961bc38888",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/TrackballControls.js",
+      "sha256": "5ec947668c3744d7852d06519c34270acb588a4b2bf56a0bf01cedae7ce0e931",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/controls/TransformControls.js",
+      "sha256": "9848ad589dfcf5f3769d0836472cb37cc46e6e0b36eb42ebcf7c898d0072e8ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/csm/CSM.js",
+      "sha256": "00fee31a76add3eaae58dd4dcfd8250238aa5159fcaceac84928eb1ee6cee1b5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/csm/CSMFrustum.js",
+      "sha256": "480f52c5e8fd6770ee70a73dfb9452b581209e0fd3355278bf2ac6c76edb156a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/csm/CSMHelper.js",
+      "sha256": "745efb8b8465950696ec0fb1d656d0366f1d4300283c52a31b331afcde7a4987",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/csm/CSMShader.js",
+      "sha256": "56fcdf2ae6e33368da2fef9e4c3a5c14a83c1b2f5e6973216fab52e0d1a4f755",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/csm/CSMShadowNode.js",
+      "sha256": "2dca956e096fa01b008e165c69ddbdded37e07627e13eb7c0a8972712d6ba337",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/curves/CurveExtras.js",
+      "sha256": "7a885b15e2078fac929b6a69fce7e1ebe9a0fa1163c2fcc58fc2d49e16f42a19",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/curves/NURBSCurve.js",
+      "sha256": "4fc55e96461c026087aaaed056ae8f31f4eaf320a3c193de5f744578c77940cb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/curves/NURBSSurface.js",
+      "sha256": "3497055fb57038a81f94c7114d11116af2b82141aac3e608255e47c285276b28",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/curves/NURBSUtils.js",
+      "sha256": "0abeeab213f423c6ea7170abe045e6d27d63c0a1164e67de1da881e0e5c7480f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/curves/NURBSVolume.js",
+      "sha256": "68af73026dc14a8c65f9919c40545911687b1bcc91ce690960ff099608aa61f6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/AnaglyphEffect.js",
+      "sha256": "671cd74a8420c3829719869941578bf45fd961240f19f1bb3292d86c1e03f5b7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/AsciiEffect.js",
+      "sha256": "99412db5e96c576a0952b4b542d67c1f201b54c4a05619519711061ddc58b4af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/OutlineEffect.js",
+      "sha256": "47e32c04cad992957d6551cae361c6649a546f7e02bc1f2bb5c3971a00fd5698",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/ParallaxBarrierEffect.js",
+      "sha256": "cccf80e3609b60413bff76874373eeab9fa2356c0831434f9f4dc0257fe24f51",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/PeppersGhostEffect.js",
+      "sha256": "da1ba4385a64f364d293ce100a99b48fc4fc50d0f7089f937e202a42574dadd2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/effects/StereoEffect.js",
+      "sha256": "dcbd00ce27672ad7c6480f8cfbc97dc1572308d312fa00bc6a4ab0ee00704d72",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/environments/DebugEnvironment.js",
+      "sha256": "66105772567af7dad5722c8064e76fbd0940de967b091d2ccb21e64336e8acf5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/environments/RoomEnvironment.js",
+      "sha256": "85869bdd22f7cf0b22e68dcefe6cb710480af0f5c901a76f7a7764fd07fc8014",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/DRACOExporter.js",
+      "sha256": "4bee5dab62596fde2a0c50a897af673f4c5919acd77238cdb1ad29b009b588b4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/EXRExporter.js",
+      "sha256": "119b49aae85e1b904a8f0ba1fe9104da052e8cd37b31b75b6c23120f98a17382",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/GLTFExporter.js",
+      "sha256": "76526d2be01c3fdf17c8efcf7c1c67dfd1ef30ede3196865eb69fa49196f80aa",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/KTX2Exporter.js",
+      "sha256": "5711f67c3f477ec60df9a98eb3bf93fc9afb455fd624237cefa979999e101b32",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/MMDExporter.js",
+      "sha256": "8ebac7d953106021cf22e65cb32a563a2e9daa1902774ec51f3dce69dfb2f362",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/OBJExporter.js",
+      "sha256": "66390a529d3c24246258cd62e255e4b3910624d9ccdf8a502ef7e49043672eaa",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/PLYExporter.js",
+      "sha256": "b1bb48293a57004f8809417b54a4e88def69e3b5ad028ec66202f680e9c40992",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/STLExporter.js",
+      "sha256": "d64440877b68a973c9c2fe6a0474c9c9ab996a12f1fa835fbc4ffa29158f176b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/exporters/USDZExporter.js",
+      "sha256": "70489f9bca7aed4f6e5b3bcdb2accc446816059aacdd68f3f20ae6caeb38fd10",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/BoxLineGeometry.js",
+      "sha256": "b4c04e901e226796034404a4b1e28867ad12d274da44bddd2962723e2fe2ae18",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/ConvexGeometry.js",
+      "sha256": "9bcf80281a538592fbac81507628adf2c8450dd52f15530492725d76085ebf92",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/DecalGeometry.js",
+      "sha256": "884737788b3478472186472f6315f37412b41132f90df82ec6d8700ffa1e57fd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/InstancedPointsGeometry.js",
+      "sha256": "cf08f5a715f853a8c808667704736409b736ae0815b1df1d0192f98bbbc7e479",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/ParametricGeometries.js",
+      "sha256": "110bf0196d733aa1db044f8fb765a783d32fd41f275d2ffa1d20a576ee05669c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/ParametricGeometry.js",
+      "sha256": "4522829cc0495d66f0c32af2139b002c0990c74b99b44209a68e3b55c62e89fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/RoundedBoxGeometry.js",
+      "sha256": "d20aeaf7077c459a8d952d215738d7b44fba028440bb862d84b622a34f0c80bb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/TeapotGeometry.js",
+      "sha256": "42af94c527f45e54883e3c023fb687dabe0035472a5a5e0e6ae0fbb6a4315d76",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/geometries/TextGeometry.js",
+      "sha256": "8d521febde27408b8b4bce887936445bfd801521147e63dc3b1f7ac1d066857c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/LightProbeHelper.js",
+      "sha256": "e1beec8084c4132138179ef7ed75920691bb6e1aaafe50b2559bf4f56e958127",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/LightProbeHelperGPU.js",
+      "sha256": "053a4f16dad804ac6961abc9b503a42380dec94c6d3475ea926713ffaa114b36",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/OctreeHelper.js",
+      "sha256": "5663aac925f4dc145c5515be021b8f36ba3954e3581e0ff9f353620544ef1715",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/PositionalAudioHelper.js",
+      "sha256": "265a41b8ac2e7ce803c3c09f6ba67dcf4fa73802bfcad2630fc56551f6c0ae7c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/RectAreaLightHelper.js",
+      "sha256": "20ff68a6715dff48336dabae386bdbf2c9667f86251e8ce899579cf0ce15d7a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/TextureHelper.js",
+      "sha256": "2de622986b2fb17bca5c2670647ad2a96d618025a44bc5a0f51d96ca07dd5319",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/TextureHelperGPU.js",
+      "sha256": "38ab31baf7d4f49ad819a5151deb47619547b627f43ea988088b2f562c908fcc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/VertexNormalsHelper.js",
+      "sha256": "5a6a349af20f191330b292722b52676f6205d8db1253d68f1cbefd5630244cba",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/VertexTangentsHelper.js",
+      "sha256": "383a4bdf92e0760f9404b6bb06e188345f175c6fa020bae58ada760b170d3b46",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/helpers/ViewHelper.js",
+      "sha256": "2898eeb913e3f125e185b2e9e0e91c0cc278b676b3bad4cfb0afbe6e8a5446c5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/interactive/HTMLMesh.js",
+      "sha256": "cfb5d7c0cb431f4fe3aaeaa531a5f5d221e60a30e60422757eb9bc5044421ebe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/interactive/InteractiveGroup.js",
+      "sha256": "a274946a4b7f04cdb0fff14a983e430e574298ad684720b4c25a24c2fc152d5b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/interactive/SelectionBox.js",
+      "sha256": "09aeaa40f1dc2df211606ae550a79d1eadb6affe40a5b9d953b5fa43118f41fb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/interactive/SelectionHelper.js",
+      "sha256": "833d1eaec340c24547899d16d9ce14dc3968487997f8b73e1b726c28ba8536f1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/ammo.wasm.js",
+      "sha256": "3fa63c584d4732f72b954c5ea105f1faca99559c95c57ce7bb738d3497f98228",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/ammo.wasm.wasm",
+      "sha256": "16be07b989963bddebfef66eab28a4387536eb37014d9df1531dab380bd96a93",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/basis/README.md",
+      "sha256": "930b11bbbb742b2525491b0964f0462d63d8b21383c0623ec4c98c43d53723c6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/basis/basis_transcoder.js",
+      "sha256": "8478b5b6d6b74e7d3082b89f6417321d8d1dc0307f2b30d4484bb11b441696a1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/basis/basis_transcoder.wasm",
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/chevrotain.module.min.js",
+      "sha256": "026047366a9bdd0961eb79857fd5d84db204589942193012aabe7e3bee381045",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/README.md",
+      "sha256": "8b9d277bf5743f4ce8d85d63c16690071b53f81796e877d4d395af943bde02a0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/draco_decoder.js",
+      "sha256": "30e4d486fa020737af10e3c56197693e5b904bdc05b8bfa5d7b06751dec6da04",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/draco_decoder.wasm",
+      "sha256": "c55a594e8ffd18426d36b27fea9618af3df5e173640a3e56d46f09d76f0574f2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/draco_encoder.js",
+      "sha256": "d5c653caf242556ddff9370e86979b8b5c6131bc196be388698a85dc2e1bb59b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/draco_wasm_wrapper.js",
+      "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/gltf/draco_decoder.js",
+      "sha256": "8625489da79a805f4f2a7d511c3e52d8b4085608a9d2a4d5f4f9de5db0aea04f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/gltf/draco_decoder.wasm",
+      "sha256": "a680d927bed9cb864ddbd63521868891af2bfbe755092761b4837487618df8ac",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/gltf/draco_encoder.js",
+      "sha256": "6d4132d7b68d26d20a43a1ed59ff4b4a694fbaad41b339158db050dbd0e68f56",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js",
+      "sha256": "8bb2952d2ba7d67e1414f8df819410cb0434a666be53f671fff75f68843d76f6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/ecsy.module.js",
+      "sha256": "f3ad24a3c35afaa75b0d84898ab8f25e86ddc3f48a7adb05432a3e506518cb32",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/fflate.module.js",
+      "sha256": "209a4412eb48ce609edb4391992a792ffcc3983d30ee7e2b0b89a8c470f3cd8a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/ktx-parse.module.js",
+      "sha256": "34a3a68f08db30a353802c5a762c5dcd89a168a1b56567019ef4a7563ceaf4d4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/lil-gui.module.min.js",
+      "sha256": "5e31e7fc4d3a1268550b948463eabe06c7a6c03c158ccb99c78616d2c9682518",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/lottie_canvas.module.js",
+      "sha256": "4f83b7691f4ba3c4e4c7eec45af7c55814012cab3683811dc5eda088e12cbe5a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/meshopt_decoder.module.js",
+      "sha256": "01f48524f4bac6141eaba07e94cc36e7ee56f311796fa6117c159842941b0468",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/mikktspace.module.js",
+      "sha256": "a27a8e3c71d2d47eab93c57e84d9190925df42cdbd820e07be15c8edc789c7ca",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/mmdparser.module.js",
+      "sha256": "77562d8a91949633814a6ce1f4060dcb95b1a672e8549f41e6524eb6f1c30c68",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/motion-controllers.module.js",
+      "sha256": "c2d631f67ff39ef82abccb21f680e1f64337b63ebe744d2b39d779e27c28c7bb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/opentype.module.js",
+      "sha256": "6897287898532ec3b9e33e1db73bdd9fd3c6131101ea0c0f62da000a0584b2fb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/potpack.module.js",
+      "sha256": "f69a7f3173b088188a936ef203da9fc74175dee3443ca7804a060b3f19efc6c8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/rhino3dm/rhino3dm.js",
+      "sha256": "d596c47905b9c5b63c418de158f26e3f71b1957aed19478e135e05801c6fcb85",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/rhino3dm/rhino3dm.module.js",
+      "sha256": "62ee449c1f24327fb0b68fc550e261ea5379c844c079a4cd643438001cc97837",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/rhino3dm/rhino3dm.wasm",
+      "sha256": "6b2db3e30f39828d53aedcd8d55def981c2ad438747cc2cacd6a2f2d0f77acfc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/stats.module.js",
+      "sha256": "2c71a2f70e89c69e46c2e285fb171bac3dcfd498a85400e94ad5aaf6044ffc06",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/surfaceNet.js",
+      "sha256": "a3b63a8038ed712471310583d91ba8c0afb29dfd99ab80e41afca354f69ed4ff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/tween.module.js",
+      "sha256": "b61c18c59bff9810f43d5750849fde620b225ff4e9013dc51bcece4b027d69a9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/utif.module.js",
+      "sha256": "728b196cb49f7349abc4055df9ad8e1e99f93fddeb22e1fb2334436c9997adeb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/libs/zstddec.module.js",
+      "sha256": "5cbf818e842628a4464e748594a6deae18ceddda3c2f541e7b3a0ff5fc7611e2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lighting/TiledLighting.js",
+      "sha256": "7d348ecc2f0f592e58992e961ad75f0cada01b13b929f3acaa79382965d8ed02",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lights/LightProbeGenerator.js",
+      "sha256": "6effd9a100622a63c159132e95207ed31cf35e524179b679483500d160753817",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lights/RectAreaLightTexturesLib.js",
+      "sha256": "438c9aa76f101f1f515e09ce674fb062a3ea04d33fc2d0320b0b9755fd17f5d2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lights/RectAreaLightUniformsLib.js",
+      "sha256": "b35b74887bd558a05cd39be33e278a37852187591161f10ad5d96c9c2893343c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/Line2.js",
+      "sha256": "f926f3c903983abbf10e7a30dc5908df71dc6a20117eb67f0f758344d4a76f93",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/LineGeometry.js",
+      "sha256": "b7e1952c8891dc7840a9119ce03eeb547825663c831851bd73baf305d4c61c46",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/LineMaterial.js",
+      "sha256": "4a58808a6e3a48f2a98eb2a410022ae648f801eaae89d457fcd662b077a7cf27",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/LineSegments2.js",
+      "sha256": "9dcce823f86d7f00c4faa8c80ea3833fa86bf4957f394a1f64f3b126f6eea661",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/LineSegmentsGeometry.js",
+      "sha256": "213a12e0e1ea878495d4998817cb83b1945441f19194267dba108c3a9e8f31ac",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/Wireframe.js",
+      "sha256": "1c44a60a582e155c8688239a70ef2fb81f799ce257e0a7657385d3a75bce9d68",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/WireframeGeometry2.js",
+      "sha256": "bf802669f6711de43ab351adaa0979ce55a4024db1aa5af48af3355a1adf9d84",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/webgpu/Line2.js",
+      "sha256": "f03fd2650ee891ab6c179fa1c487093502f2260fd9f02a1ced258cf381ade8c3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/webgpu/LineSegments2.js",
+      "sha256": "73aa5ebe9c93c763f99db44fd0de12ff0db47f20fc6f599afcb3174dcda49bf9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/lines/webgpu/Wireframe.js",
+      "sha256": "98bca01223d43ab04bfab48a488f0c673c6db79ce0317620d7fb44491093b571",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/3DMLoader.js",
+      "sha256": "e2e14b6e303a1da3a31c1865afa5b15b4856aa2d241eebf2b6ae54f256146ed3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/3MFLoader.js",
+      "sha256": "814e4105f863699f89081667e1e5ed3c907c722f57be8897e83fd7ae75685ab4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/AMFLoader.js",
+      "sha256": "d42cb6c70cf28f51ca8517a6f340205b16d92f124b574d5ac613ebdec799aad5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/BVHLoader.js",
+      "sha256": "7a991d754a320a824fe04ee5f9a974bc3b016d1554453ec0b276c1d4070bae00",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/ColladaLoader.js",
+      "sha256": "f306e36d44e80cad00db4e978f9e19dd720c849bd979569dfa95dc1e4348bf1a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/DDSLoader.js",
+      "sha256": "29cf8ee9593bcf20a8bab28c9cda1861fbcd7eea9d21ba90cf766fd6fd09b027",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/DRACOLoader.js",
+      "sha256": "8a90b39b6c0d7faa70410cdd19348029a83a9f2d5f71e11b665a5f48330a4c72",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/EXRLoader.js",
+      "sha256": "9ab29edbe812c6f48fd70910643d15433d5efcd0e4e2a2ca24b2bcb9a7eefe6b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/FBXLoader.js",
+      "sha256": "67575e554e5cde301dc7275c5c29f12b3fe9431484bbcfdaea51fcd5108e83c4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/FontLoader.js",
+      "sha256": "1f0da5a44cf7051a4a3b348dc483315e48fb90fb9b85898d0dd3cb077afe30d8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/GCodeLoader.js",
+      "sha256": "a9c814a6a8297552aca0d650e376c7c02d05e000c1b57e047473dc1eaa2d6863",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/GLTFLoader.js",
+      "sha256": "45139faddd5aaf48ed2d62203d976e5cbd703db1a592de40527f9f6cf58abd44",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/HDRCubeTextureLoader.js",
+      "sha256": "078ae037f7bc25c2d0dd4db1876714cd49578fe43363c38934606a37bf71c7ff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/IESLoader.js",
+      "sha256": "7ee2b5e4d3364d622277b87cd175bf57c4b843814a753c743ca6623d9683d843",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/KMZLoader.js",
+      "sha256": "2a979b6980e9005d3323b11f9beddc5ea9bb4bd9528fb8347529ce3cd2506abb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/KTX2Loader.js",
+      "sha256": "fbf80e9b0237ffe2e58132d3fcb124a4a62fbd17f9716418ccf865708c2344df",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/KTXLoader.js",
+      "sha256": "17f37655f2b0f9c21cff79b1d282ef99a832a07d617252bb6ecfd438f94d7018",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LDrawLoader.js",
+      "sha256": "b3a5d388bcd4868fb009a643df0b9bcf6ff512aa80fe986bd0774de492b1b1c4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LUT3dlLoader.js",
+      "sha256": "4bd3284b6bb2e545919e6e23f04d09855c5577a9e517b1dab22aa598a89b126a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LUTCubeLoader.js",
+      "sha256": "ac574c5fe468b28075417d16392d707f8a0c610cb93ba576b306d2905e40ef36",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LUTImageLoader.js",
+      "sha256": "d2d21264650eb610d25baf3c8fb705da2007ed45c3785b4f395605aaebc59683",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LWOLoader.js",
+      "sha256": "7f870f3d6cb08bfc1e599beb7124950029e6cb179208d095ad992796f55f5395",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/LottieLoader.js",
+      "sha256": "fcef3cdcd942c3dfffd273d8349078f00820d0b0d9b1f5b64a3de7c3ae3e2098",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/MD2Loader.js",
+      "sha256": "041209718f22166b6d2c3133b54e009b33e085d56c4458b38c9bb818ccd73dff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/MDDLoader.js",
+      "sha256": "b39dd6679452c11386c0128c059e5aa8325224b0b07efa609f5d3a1f8c7a4d04",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/MMDLoader.js",
+      "sha256": "ea805ba7f189b335572be9604d132371d76a1295b7f2bbceffe481986cea4839",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/MTLLoader.js",
+      "sha256": "6e0819c7be4ed1d30205eb3003b149ccbc6e018602fe460d297a7393d4f712ef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/MaterialXLoader.js",
+      "sha256": "eb203d1b3acfdda7e119dbf8dc901ff8a5104e951a10f3bd1733ac3d75f7fbbf",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/NRRDLoader.js",
+      "sha256": "dd1b6528fa0ac6be5dfb7d2971e2a063aa33d7644e0dff478c3af5a9c4669859",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/OBJLoader.js",
+      "sha256": "d7623bf8959fdbb95302730d5fe1510484b6d16ed975c90f43312ee57546c540",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/PCDLoader.js",
+      "sha256": "3c01ec1cbc6c0e36fa18709ded49d36f06bd63a1c5deef9055bcc3dadc8a8b96",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/PDBLoader.js",
+      "sha256": "8518a2592d2a2b7c37c808b6c2609c91e586fb547abbf9ccaa93cfd223d6cae1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/PLYLoader.js",
+      "sha256": "9361ab8f82e88f827f65f9800b1dc8cceea5f84be81b3815afef502bfe65065f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/PVRLoader.js",
+      "sha256": "e7efb2230ae0d31a36da4225532c09bee037d6e34524748859e1c3ddc12e45ad",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/RGBELoader.js",
+      "sha256": "f0e87d0008d9484d31358b32befd1bf80e4301f77573cc9a7cf7d871cc3f64b4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/RGBMLoader.js",
+      "sha256": "6da56090879d081f2e378b5b843f7ec2b450e8a2cefba9ed4b76dfe66da17705",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/STLLoader.js",
+      "sha256": "a0a83c88b269c94e25b690fae770d350c4728c81853195186976be7af0f8a3b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/SVGLoader.js",
+      "sha256": "7839736ad83df8c25d339f2c1e3b7f49c595e4d444b54905f26bece24702f51f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/TDSLoader.js",
+      "sha256": "dd0989eea0aef821a515ec0f9602cad26ea5290589e7ca779eb9b2b80f6dfb37",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/TGALoader.js",
+      "sha256": "ce938459ed99d5234f9665270cca8552464d0d1703a094e49760631e6b14c7a3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/TIFFLoader.js",
+      "sha256": "985882df773cc536fd3d2f7630830ef431ab7812770bf5bd684fc482ecb261b3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/TTFLoader.js",
+      "sha256": "726398fbbf9e913c35139d13be0405a01fee4acb243efb16765b15cd26b9cb3c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/USDZLoader.js",
+      "sha256": "b781c5ffc37d3184666bf10b2f7ab822df0841d02313052258f8af1cd061b368",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/UltraHDRLoader.js",
+      "sha256": "3f2d0bbc7a937e201d44edb73771653da1bb222364a90795ced6a0a00c4c0a96",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/VOXLoader.js",
+      "sha256": "2b50de8dd21dcd108717b4b5cadd6a5662e70705121172de1b091b416ba425e5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/VRMLLoader.js",
+      "sha256": "0e8827f3d2e9644bde7bf202c17c7ed2773f4bbf59774ec9f026fba86bf760e3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/VTKLoader.js",
+      "sha256": "5595c37bd613e79d81c56e3253d240b57fbd8fea0923d94d57cc0a8c4d46a6ce",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/XYZLoader.js",
+      "sha256": "343b1e18f30adc913e5e4ac081e62624ad2dbd0b8ff6f1d7b01435f6c6084770",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/lwo/IFFParser.js",
+      "sha256": "ed5c4469d64ec5abb311eb7d11ef92f178a206d96647fe0b7c5241d0d6f54a53",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/lwo/LWO2Parser.js",
+      "sha256": "8fd8159c6a4c91a421a667660abbaa83244ead6581586b65abbbe2ab4af5dec6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/loaders/lwo/LWO3Parser.js",
+      "sha256": "6b56d4b581d40a1525f687273231b67c8bc6a4dbdedf7d544e6c8925e63c17c0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/materials/LDrawConditionalLineMaterial.js",
+      "sha256": "edc635850895dbec3606ccc4ee9f612e0d797824f3318010afdb70069053ead4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/materials/LDrawConditionalLineNodeMaterial.js",
+      "sha256": "c3a7a1221b99ca60eeb7c267235b3bdb76aa774f230b63ed994f852b97c78cfd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/materials/MeshGouraudMaterial.js",
+      "sha256": "5fb2b99cfaa26485e267a4c7c51669e49dc26c2488473709b961812d09196e27",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/materials/MeshPostProcessingMaterial.js",
+      "sha256": "5e94c85ded126719a5dde433e016101638674718472cbf493413556a361a805e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/Capsule.js",
+      "sha256": "f95b66544e38da6046b2df81099f58a5f465942a332a5873ac873bfabbfbbae2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/ColorConverter.js",
+      "sha256": "3169304f8671c0cf3a566c79c7453e8fd309158a60360a4c9605bd23b47e1279",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/ColorSpaces.js",
+      "sha256": "56981604d66cccc26558c710afe08a15177030f8dd3842255d1cc53b4c9b7f3b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/ConvexHull.js",
+      "sha256": "782e7e422c8d308cd686bacfd23356bda884f01727f9fc4a7a75bcff441bd1ad",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/ImprovedNoise.js",
+      "sha256": "a199c945dcae1b0fd7db1503909c4d0da53b448461f4f96f2c8724b13f9bccc0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/Lut.js",
+      "sha256": "83e6f531c3d44bd57bdf6d8510fdd10f0eb48c89657f9e9af4c6e2557174cae8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/MeshSurfaceSampler.js",
+      "sha256": "a31e980aee9b16b96568bd61514e78435cf6a50d4b8515fb9a90ae5e88c35ada",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/OBB.js",
+      "sha256": "34469ec9dd12128fef91a41e3e2276b45717313ea7906c43a7c549cd7d0a7608",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/Octree.js",
+      "sha256": "591e5eb2c37ef76223c36059070d3efb9441116f3b953937a7317634cfe23d24",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/math/SimplexNoise.js",
+      "sha256": "9b8d541b77b0ddc79afaa6a1de8941452c191b8b9006f04e7b8fc422e2b263f7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/ConvexObjectBreaker.js",
+      "sha256": "04f6f35a04bc275717e5f2282185bd7d537bf28f84df50a1f669efd9dc8b7a7a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/GPUComputationRenderer.js",
+      "sha256": "3b22e4b1879ba4e71099bb7639b906592f5a2bc62ee20e19fa48de06d38368f6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/Gyroscope.js",
+      "sha256": "3184e2c4b5a184a6e1595f7863e7d3b3f8c3c9ffa1f4674b31dfb4b5f943b6f8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/MD2Character.js",
+      "sha256": "10e2eab3db9b74c241c8b6dc1b3b06e077e30e07236a6f95f7fa452f5166f1b1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/MD2CharacterComplex.js",
+      "sha256": "c80e386a6e7e64628458f6f882feb475d2d3e115eb27a723324509e02da3c4b0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/MorphAnimMesh.js",
+      "sha256": "cce50c2bce123d15eb23fe8f25b1bb1945c73f7215970135cab82dd8ea7a8e40",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/MorphBlendMesh.js",
+      "sha256": "85cbad6cafff00d808a6f7a14fb726d3130ecd2c8906216186b59553419be952",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/ProgressiveLightMap.js",
+      "sha256": "8938409e38770292247ae85fb828ad6ba7bb601c85f65a9966176c331ca07356",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/ProgressiveLightMapGPU.js",
+      "sha256": "faaeddd0965b9de6f7917c278e63ca7b18dcab314bcc009739a17fc4dbc65070",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/RollerCoaster.js",
+      "sha256": "7820a7435fe043fef7f59ae022e6a9da3ce4d74db537b5674a1da200ef55595c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/Timer.js",
+      "sha256": "178a953d2e03bd7ec3f79199dbffd29828a3d8ad83fc02daa4d57dec34bd3901",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/TubePainter.js",
+      "sha256": "fb35505ef9bb15a1bf01ebc8e207f7153102b50152616656af1edf4825f2c2e1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/Volume.js",
+      "sha256": "34cbd9f463af5f46f084facef87c3f0a31009a4b531eddc4638f633c7b2a9ef1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/misc/VolumeSlice.js",
+      "sha256": "52bd0499344972c28d9a7ed384dca543e547e09546f3d3e2721eef0174629b51",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/modifiers/CurveModifier.js",
+      "sha256": "43c5ca9c0749a5a3c9a012b28c4a3ba09c5c5872589591d75a20dc8d2d9aaf95",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/modifiers/CurveModifierGPU.js",
+      "sha256": "d3b31e3d1b81c6172f7d094f79ba0b1d52bd167532e175a68c2bec470fa70002",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/modifiers/EdgeSplitModifier.js",
+      "sha256": "27502f689c09249685d996067004825fc51db82d0b90bf584744102b76959789",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/modifiers/SimplifyModifier.js",
+      "sha256": "d9d4bd01d6d5f2a72b904b2c270bac132edaa9fc19b1522c023a42e8712383ef",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/modifiers/TessellateModifier.js",
+      "sha256": "9dd9a093bc2485542eed9ec81fa8b9992dda4b06840f6c249884a6715c0b3b4e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/GroundedSkybox.js",
+      "sha256": "c4c28796445c5c747c911fe20dc325d4c93ea9e5dc02cc7f58f6e68c6271b249",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/InstancedPoints.js",
+      "sha256": "f4cbfcea9d05162fca899c5702d619a69c9104631962d601eef0ff73be80f1f4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Lensflare.js",
+      "sha256": "4116ac515a968a0147662d664fcbe6ea489791f0198da750a09d23502edbbae8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/LensflareMesh.js",
+      "sha256": "d6f01b7526bb583476f095e3dc24f549aede46a232462fe1576ea8eb280ab8f8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/MarchingCubes.js",
+      "sha256": "b1c67207e4d2ab22c6550e57a8b9104896df2598e9bc513ffc4dc50238975e7b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Reflector.js",
+      "sha256": "012ecf98f5fc9bd262871e33d79392a25c04c2573ed68852eb3b8d2d39f9808b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/ReflectorForSSRPass.js",
+      "sha256": "5c12782bd428e3b6b0048ea81f7ff35e229a1586b06dca7b48a44f32c1d517d1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Refractor.js",
+      "sha256": "2d70bf5bca91dd3509eb4d43e8341f68e50a63fc7e348e2a84d853f27f643416",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/ShadowMesh.js",
+      "sha256": "30805a78126e7689709bde90b747ad96ce1e6488db235e03e24f7d9ea998c8e8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Sky.js",
+      "sha256": "eacd17d5debec3b909d1208304d70024a59c38c58b6533fcd4711f8a6a0b63bc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/SkyMesh.js",
+      "sha256": "3392f8ac644f0345dccc2c4b486ab5519b64bae3966679475d7c8969a36c4970",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Water.js",
+      "sha256": "57eccb0c10e5d6c86a4e92a99f53a006c7c66a7fdc3102a0e141dfca3c614594",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Water2.js",
+      "sha256": "916fa5dea9e9addaacd45f1c08a5648d89939b495c81b027adb068b430a022f1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/Water2Mesh.js",
+      "sha256": "d0f335435c97a1f67394fcee1193e176d591ac5c1b3b5fbdc84492a82b833838",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/objects/WaterMesh.js",
+      "sha256": "19fa665d232299f362d02e5523a28234c026ac0e7e5fcce555d4eee042123dcb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/offscreen/jank.js",
+      "sha256": "227fa078e8d6666235671863b3124dfc26a71fded08e8ff64d5faa97269c063a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/offscreen/offscreen.js",
+      "sha256": "5eda897e26a3c75963d7b82bfe89b482c2a1eae83d981b4e8211c8d0d52239d6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/offscreen/scene.js",
+      "sha256": "1ead6935a1268592c1882f99fd58fdeda1ea76e2afbfdaf98868a92b55d1fb1d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/physics/AmmoPhysics.js",
+      "sha256": "4a181a4f692481921f0bc88f2c7fef1ae870fbf3f2780a4bd711b222f86416a0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/physics/JoltPhysics.js",
+      "sha256": "86249e9dc792452f10a13195f87f8fed6409d8fa526a5f942a4281de8c4f52a6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/physics/RapierPhysics.js",
+      "sha256": "6ea79d3c6ad0dd897e1c413ab9e546bb53922d1d0942946e0a2112d978a9a018",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/AfterimagePass.js",
+      "sha256": "94e09c05292bd23edf817dac65d86d844c0ede8c13b670daa8896d3cca1d68b7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/BloomPass.js",
+      "sha256": "08bf2db46cbf428cb2e57eef58c9f20afb347f8965b861de859306f4c5803ec4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/BokehPass.js",
+      "sha256": "581ad606035764f92a6c5124980ddeb78c09cb076d2bdeb6c760ca9d0a8332ec",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/ClearPass.js",
+      "sha256": "b2a7e0a47231d96c91509016b4b67e23b3aea5f2f1fc30d38c7ed614f9bf354c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/CubeTexturePass.js",
+      "sha256": "b9a1962de0f1c680dbfb37d7db3252548faf54e1e8b7da3b83c5af88d0ee4866",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/DotScreenPass.js",
+      "sha256": "730669469fc5bfa71c1f6cf57f0e15dfc216c712f78d0d99356cb41758caf27d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/EffectComposer.js",
+      "sha256": "d234e578618fa816955ebdc059c049c577e203e650e33cf22bde3f232c29e669",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/FilmPass.js",
+      "sha256": "d9b5aafe5cb1b6ed953613fd4befe1a2ab06c8832048aca8d5299f004af014b2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/GTAOPass.js",
+      "sha256": "980b036767c439cf2aadd0e869b2e51b2ec00736a75a5ad1bb69dddb03254fe8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/GlitchPass.js",
+      "sha256": "58789a6186ef16e20c0fd6ff6f2c7ee433a7af4263ab1fec290d52763e025ab1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/HalftonePass.js",
+      "sha256": "6a88432e447c011a64a830225f28e2f6b4c7560eba0f694ea40791e276c72019",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/LUTPass.js",
+      "sha256": "7939088c8b4dd87a80e4db7ddebfbc0d63d72cdb590c737401a06991ac6bda3c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/MaskPass.js",
+      "sha256": "328cf7db0da5d9be83ffe39d54b01d5ac1fddf108cc98182ddbb056f5c8b537f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/OutlinePass.js",
+      "sha256": "e8c321139fcbdd86872f50d40f0210303e060bd54e5e9c50ecf305b8af4a43f0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/OutputPass.js",
+      "sha256": "32f879d2179087676631c799857a885586b3cdd13b9731bd3b13f06428bd58b7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/Pass.js",
+      "sha256": "b3c6128340eaa37e40a6a2f1b738e894c855239417d50959759b34a2b5e89f92",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/RenderPass.js",
+      "sha256": "6c9b8a539ea16e898f65e4760f14937ef9ea94043bd9842c141e0301f41903e8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/RenderPixelatedPass.js",
+      "sha256": "6baa0d748dda9cb800730f5168f16e66b149ce652dbfd2aac21e270ba52e3363",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/RenderTransitionPass.js",
+      "sha256": "9dbfa48efb5c2f86515c77914ff7e0c70da5a23cc913bc25a72bbf84fde04731",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SAOPass.js",
+      "sha256": "9fc615e0ae7a7d050accca359d869dd3e12fe6939fdd9a064476a13f255b43d3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SMAAPass.js",
+      "sha256": "f3508e3e17f40c1358921b5c7eb3ab60460d97b06fdadf6b0d40b52d3842c44a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SSAARenderPass.js",
+      "sha256": "f19335e2246ce140a66f337d2d17e17225620482d458e81b9e51c0f4ec362ebd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SSAOPass.js",
+      "sha256": "e7be94aeecfb6af31e0d1227bb1b0a8ca4f42629dfd8952c584e5a1557bcdd15",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SSRPass.js",
+      "sha256": "f4c5bc731035c7f174a87817e694e768f01a47cb2fb9184b1921606306165ab6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/SavePass.js",
+      "sha256": "1df86199043b9bc82d2025f3dc93446fc4ce72c0c2b157109f5ad90b98153d56",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/ShaderPass.js",
+      "sha256": "3b28a1ee27e0eb96c0eab137a1f442ccf127a926904eced2d51e125ec44af781",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/TAARenderPass.js",
+      "sha256": "8ccf7e2c45a364ae2bc610f89efb58f19eaa8c4f834504ff1a54ddaaa8e284a2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/TexturePass.js",
+      "sha256": "25e5e500c1dcdc7c4cf9706c7adebf6f9033da3d22d06753173fb88dc45e3d1b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/postprocessing/UnrealBloomPass.js",
+      "sha256": "3bd23a1097af75c7002d0ffc21a6c14f45c4dd701dbaf737030dfc61fb7c64d9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/renderers/CSS2DRenderer.js",
+      "sha256": "7de0bb70e3c1d6da58416353ed7140a7a7743ece99d73b56eb62bc2dd79bfed5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/renderers/CSS3DRenderer.js",
+      "sha256": "5fbc4f012917c03eebd0c145ab334b3524faa39eb8feca30dc5a2d003968e761",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/renderers/Projector.js",
+      "sha256": "43eb75b7867bb41eab9a48fc52d8893fad5f177a16e8e3c7d0e847cedbf67d6e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/renderers/SVGRenderer.js",
+      "sha256": "880ed81566b6c3d7e59693c7e366b355aa8814143a43bf9212885125e0b3b74e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ACESFilmicToneMappingShader.js",
+      "sha256": "89c260d14baeca95ccb9446989a29582b00b938eccd238c23f9520bb3a72df98",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/AfterimageShader.js",
+      "sha256": "cc97e9abf49de21aed313f69a1faafbc0ba91bbd4739735a60dd9d4e569cc86b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BasicShader.js",
+      "sha256": "35a4869476224379c0d6be4ff89b266034eb9e012c02ac447ceaeb7ecce74614",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BleachBypassShader.js",
+      "sha256": "43a6b963f155d7c79556bbb32dd1116fcd8b4486f4447104f47a62a9c9f51ea2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BlendShader.js",
+      "sha256": "6cf2d069f5c28d33b30e99487797d5c16d5fca8211d715c16619e4c8522b42ea",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BokehShader.js",
+      "sha256": "a6558cc4baf2c372c192828e9fffcf088d22f80291ac72a13a5be6d3b7a18ddc",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BokehShader2.js",
+      "sha256": "d6b85194a6373645ceb5f721011586ee1e154d7fdbf34840233996b41b44c73d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/BrightnessContrastShader.js",
+      "sha256": "2c46e1cb27675f2a5dbe78f48d42be56ed5ef5a70c3a15e702fdaa4673f826fd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ColorCorrectionShader.js",
+      "sha256": "873d3e1656a8c3e8f7376ac19a9eff32cd8e1d6e64e7e6ac4c2af5e3f23ba548",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ColorifyShader.js",
+      "sha256": "7a8dd6e1d77689d86bf9a167ebf49fa6f776c1d4cc20eab80db85c88f653499c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ConvolutionShader.js",
+      "sha256": "c7a7cab01cba2cd52194a666456bd1ad255537dc72e679eaacd3d7d00d9987af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/CopyShader.js",
+      "sha256": "4e3346db194db56a596cd074e9bdb39fb5eb52040c333e0d29dc4eb1324d3b1d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/DOFMipMapShader.js",
+      "sha256": "a553b699bfccff6ea7cd0fc12b541e9fd493761d953cadb85384362b5c848d67",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/DepthLimitedBlurShader.js",
+      "sha256": "8eadec80ac7f53e4dcdb7bec462c23d09f5ad0607be60671beed6c74001be996",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/DigitalGlitch.js",
+      "sha256": "5c059f7b87b8e5a1bf40826d5868f60a770cb4ca72d4b01e83607a6c282aea25",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/DotScreenShader.js",
+      "sha256": "19387f17f3b6074af88d59a4fa0d98fe60e5f82f6ace8eae34501d40bfeebbad",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ExposureShader.js",
+      "sha256": "ae8a5bfe0945fbe93bb5184fd79cf2dc6e5a2c7fa6fb9bcccd1bbb98ab155476",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/FXAAShader.js",
+      "sha256": "b2c45ad02565a8e6b6fe8e11de18a4f25294fb845777d20651592864614ae310",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/FilmShader.js",
+      "sha256": "4c29573e2e49c3da33ed5071e08f1dd45726a5e84c6e3c7f67f0f4433be8be6c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/FocusShader.js",
+      "sha256": "11f0e99b2cf145422d230c7e8a3b8aeb70a7f50faa5c1745088e322d2c2fa426",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/FreiChenShader.js",
+      "sha256": "144d4b256fb880086a843cda15cf1add803be87efa0803369675bec2d4b1b948",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/GTAOShader.js",
+      "sha256": "e1f5dd89bca4ee679a4aca50c3ef3513926be71f6860c38e31a62cc9d7120b39",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/GammaCorrectionShader.js",
+      "sha256": "2c4be26ffe907ea9b7486d29c89b3113602ff8b6dd819600d9fee44aa05c2b05",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/GodRaysShader.js",
+      "sha256": "98321a26b72ed87cb30b06056841c236f633781b343d1fc505ca1e0ada52d3ba",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/HalftoneShader.js",
+      "sha256": "8b4b1bfd35c20f4aa41288b58e2c31cd3cdffd9d39437aa7cfafde7f9d0a93c1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/HorizontalBlurShader.js",
+      "sha256": "e8cec0d56a044755e010a1a14e5232900e3f0eef7d214e82511d3fd327f281fe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/HorizontalTiltShiftShader.js",
+      "sha256": "f733ecf595f8eb186e0af47cc935d0544b45e6d2f238631860126f73573b8230",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/HueSaturationShader.js",
+      "sha256": "ba960bb1c0598eaea11af0d91e2a4ffa1eda0d13dd35ef7e3fca4dc212222432",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/KaleidoShader.js",
+      "sha256": "c5f0bae91442692752acb0a27851070e298e734ec0972f98ce89e441fc14d2bd",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/LuminosityHighPassShader.js",
+      "sha256": "9f4866f9abb2d96fd83eec46ba4bf2165b22155a7a37ff425c0f60eba18007cb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/LuminosityShader.js",
+      "sha256": "bd9850de54d357a5b27ab863a4b64732df203d693c23596638f2823272dbd55c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/MMDToonShader.js",
+      "sha256": "b1e01ab0442c3c04ec7fbfb024c15d7636c1ff94de260a839ab4ecbd69ffca5b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/MirrorShader.js",
+      "sha256": "aec9c8d51eff48acd6e2c622f7820344d606c815f487a7eb26565e61fc4a6b58",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/NormalMapShader.js",
+      "sha256": "65a7a09c2cbe73dbf011ade21cb0b5518de359a2e5f678a45f04d5cb9e415ca7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/OutputShader.js",
+      "sha256": "4944cecd49c0d4d1520a4d927bde8a590fd43f041ee913252b9451855a01d0f0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/PoissonDenoiseShader.js",
+      "sha256": "3dab419b23529f8fd59e2713458502f9f51d2dd3af3e1285dc671fcc451d49fb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/RGBShiftShader.js",
+      "sha256": "b3d756910ecc52cecc388a0201dea6d257374d6285c3b4239bba4168775484b1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SAOShader.js",
+      "sha256": "ea612bd0e94f37eaa8b28572bb8a1d6284886bd0b9f0317333e47824cb15338a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SMAAShader.js",
+      "sha256": "3c7e942a25cb09dd431e395e6e91904715a834b2a6e62ec0b9b77c2f8655c369",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SSAOShader.js",
+      "sha256": "bd5cda34d6b52941c1121b77947664848af10dc68febd453dfdc56c59e58ba06",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SSRShader.js",
+      "sha256": "89af520f75efdf71146a94d3315fd24f8164263813f6c90ad34e5e585b604c12",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SepiaShader.js",
+      "sha256": "b2410131c866ae100a85219cc71f6378863e1a121174af132e1b39866e097a86",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SobelOperatorShader.js",
+      "sha256": "8c05b27af385d799909b1c8e02db912b157801b46fc6c1ffff875891ac75668e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/SubsurfaceScatteringShader.js",
+      "sha256": "928fcd768893b34e9b846518e061f2f909914895c97aad734d2b92bb2027324d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/TechnicolorShader.js",
+      "sha256": "9955296180bb4ed8c72fa3781ad4ae2947c53fd184b3deec7c0dd7cd4fdd9544",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/ToonShader.js",
+      "sha256": "63ce45397f4cd3eb003835a4b6e0fa3be6c26525936f30cf76b4012f7f003e6c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/TriangleBlurShader.js",
+      "sha256": "15a55da6652447f09ff1a2865fe2f40e9d3dd3aa7c5c69692df790fa9ccaa1b6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/UnpackDepthRGBAShader.js",
+      "sha256": "50d69438a19835067fa46f10d2e83a54b340525941ae9786ad9d5f7f6cc6ad7f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/VelocityShader.js",
+      "sha256": "2610ed7c95635d7d4098a43f5d5bdd4a2a730605eb114191cc1cebb743abbec1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/VerticalBlurShader.js",
+      "sha256": "2453354690a83991ceb76253d62393ab5feeec537e12ecb6aac06ca90d046661",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/VerticalTiltShiftShader.js",
+      "sha256": "ad1184ac6ff50cf6f9110f7cf07c542bbb23ddff9d8538564a39425ef40fa172",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/VignetteShader.js",
+      "sha256": "e162f38b113d87015ac1e7304b1946bf7883d4c4cfd8fd4a001604a907f93f67",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/VolumeShader.js",
+      "sha256": "e991be02a4a9a758ddef48c5f73f7b834b34a01502e9a19aa462602b4d577af1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/shaders/WaterRefractionShader.js",
+      "sha256": "401f1511adc027891128a68bf03f6d6891e29bf72557eca2fbcc237a205597be",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/textures/FlakesTexture.js",
+      "sha256": "77d458904f9c8e2090b6a9f0f6768a127eed6dbc78d7b6223b8c85b633e86b02",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/transpiler/AST.js",
+      "sha256": "04a5f03810d55016fb26eb7d04afda760b79368c752c7e3d6ead779381a6dabb",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/transpiler/GLSLDecoder.js",
+      "sha256": "ad32fbdea7c740d68498dc94a987d6567c84944f86ffe62fd4cb04f06ee38a40",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/transpiler/ShaderToyDecoder.js",
+      "sha256": "56973613971018688e7177b9fb93224f4958fc2bb92c0cd1caadea7796d35a88",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/transpiler/TSLEncoder.js",
+      "sha256": "7656ee6a8f1afe065c2c0aefc8fb9f2e7bd308bb18219da83a58eb79fbf1d612",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/transpiler/Transpiler.js",
+      "sha256": "0284992d1b2b021c13baa59e45c95058687ed53238dea7193a62d936d5a67eac",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/AfterImageNode.js",
+      "sha256": "aba2c9198340c98d6de4d5e2896017c2f44ab2e1d42e44b7fd9466af9303cbe9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/AnaglyphPassNode.js",
+      "sha256": "2e46bf70f0a1e00232559737b20bab90c757e7549667d7d6c1825b76cb736c1b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/AnamorphicNode.js",
+      "sha256": "94818df5109815c592cffd0e4075d80f94b92803c043a62694f0c3ce2d5325e6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/BleachBypass.js",
+      "sha256": "300cb71d1fdc32abe297b26332101f1a21aba777b65a7c6432e78659821895de",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/BloomNode.js",
+      "sha256": "70773bde843be7360f14c5e477c19295062da760d595ceb78daca795d1e51b0b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/DenoiseNode.js",
+      "sha256": "65b0fa915156745cc4acecef0b300eefe90454db4838819fad5f5e622ce140ab",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/DepthOfFieldNode.js",
+      "sha256": "c7f9defb577f19b59a8462c713237bb6f1b1fe11c7dced1ed0f83c945d8359b4",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/DotScreenNode.js",
+      "sha256": "5cae303503d7622b3d490456c4d8941d3a4f2a8fc2a2cefa03b4c72d965f738a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/FXAANode.js",
+      "sha256": "a2518e554191ca1f2c4f9faad6b4ab55ca4ff4513bb9969e7f4d4bd99dd56b3b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/FilmNode.js",
+      "sha256": "26bb0a6161316ef83bdaf03b074905585a509cc3aa3e0e083fa822953101aeed",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/GTAONode.js",
+      "sha256": "5f36161c2e64ed71ce64607a728a9ace795d066b941677ccbe80d6e3d9dc8e88",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/GaussianBlurNode.js",
+      "sha256": "d21fb982e673c3c53f32f31041e3d035cfa5acbc8b1a8bcdf142d4d37560c496",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/LensflareNode.js",
+      "sha256": "ce719ba137d94b5f23f9075c0d0cb2cbe9ab79ac8c58d7061772681a58f326d5",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/Lut3DNode.js",
+      "sha256": "4bd41a85fa1905014d597f9806bd06b9053e60877cfef5c84f660382dfc2aee6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/MotionBlur.js",
+      "sha256": "0faa6559943e28d6e7914a596c7d03dc81974a57c565f5efa10114264c9d2021",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/OutlineNode.js",
+      "sha256": "a9cc042cfa2051ae735987fb5100bda9a12116964b0674f3a2de9be5016ca304",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/ParallaxBarrierPassNode.js",
+      "sha256": "7800ce1137cdb58d8b00ea665791ca3150a1ce8f293a584872a5b062d8967348",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/PixelationPassNode.js",
+      "sha256": "9f793c4a77aabcd400019fc374a48533c684354535f901d035c67aa650b9a67e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/RGBShiftNode.js",
+      "sha256": "186fae95d4524cfb53fe192e4d704ba24bdc2cd9008c5bba3868191ea3f01c67",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/SMAANode.js",
+      "sha256": "8e59ee488df2b3a7bad7058b3fbb212a5ddca743ac8dd4e5e359ec3e8f21055d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/SSAAPassNode.js",
+      "sha256": "671c0517d737c0fbe41a6c790b9ab9407c890a6f7e393e5846694cd9709aebc8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/SSRNode.js",
+      "sha256": "8908d82e153ea759a36ac088c98c049b9d0bf3708167e268e2ed516e4ef21469",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/Sepia.js",
+      "sha256": "42a8c1eab9cdf24f92e1ebcdfe62ea8909088bace47baf79b268f304f910a8e7",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/SobelOperatorNode.js",
+      "sha256": "43e1170540753ad7b4d81b3a039ac095cb89ab4106e22f474d98ba4b541cf8d8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/StereoCompositePassNode.js",
+      "sha256": "158c815321f269df95d119040bd9c3978940e36227e31e6adcc7dd00c7815f2a",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/StereoPassNode.js",
+      "sha256": "23abad3baccf07fe81eff7c0677c0393d4ab566ec0c14b62f83db55bdd16a7f2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/TRAAPassNode.js",
+      "sha256": "544a33fc9dccf53cc9845917f317ced78d5da0d0d54b83c3ffdc10d9b06037d2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/TransitionNode.js",
+      "sha256": "8971776c181229ed1e999cf76aec779c358a7f5cc07aeca2df1053e69ec1257b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/display/hashBlur.js",
+      "sha256": "1314c665e159d5031fb12c56cceaa5bd3474c2553b36e52fbe39daa183e15e55",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/tsl/lighting/TiledLightsNode.js",
+      "sha256": "e0229e75ec6e7fa84869c5bea7cf8e3cde9b3719f2dcd225a53ab5706d249481",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/BufferGeometryUtils.js",
+      "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/CameraUtils.js",
+      "sha256": "cf55c12d72de6ba226d3db847a1f0691ff81b4e7879fcfe1865ec5824ce32bbe",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/GeometryCompressionUtils.js",
+      "sha256": "ec750dc764a0fee42abf7f237e9cd8ec26d45c22598d44271e200c295ecd1295",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/GeometryUtils.js",
+      "sha256": "f3dd8a7fbb69ec0a8bdfa06dfb758870e8d2aa1a887fa83992eeeee321cec34b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/LDrawUtils.js",
+      "sha256": "721bd941938f9ea671821c864862d6ad69afcdd5d2c990ee4791dbffc5d7d997",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/SceneUtils.js",
+      "sha256": "a0eee72d9b463a84ddbd1ed07b4a04948e7ba93503cc8672ab8e6f9d81eba7d8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/ShadowMapViewer.js",
+      "sha256": "4b2a1ae0f50dd13e82212f68b3bd9b4144b0adf6ae79eb219ae952d9b47dbee3",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/ShadowMapViewerGPU.js",
+      "sha256": "769f63c80cb2403ce518daed2df22e80cd795e8526593e0c49a44c8bc57e6737",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/SkeletonUtils.js",
+      "sha256": "ee412be1aa05f3051c2bda8ea89612c1ba70c5c87de62b56040282120d5eb991",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/SortUtils.js",
+      "sha256": "3c730b5f9e934edb00930d78b3b4e85e4a1b9cdde9b81ecae4618437c4589b22",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/UVsDebug.js",
+      "sha256": "8d6e973a38c4b8584c616c606835661ef3ea629ccba73a7d671a94bcb0985458",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/WebGLTextureUtils.js",
+      "sha256": "d9a427b2255891ac9f2bfa9c10e1eb2305abe79aaafb831583fc4a410307151c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/WebGPUTextureUtils.js",
+      "sha256": "1b54254ba1f1c64c375c0718e58eae278a7c8369b590afb36602e4f9d840c8d8",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/utils/WorkerPool.js",
+      "sha256": "94ff7b608caf3b827ffa95bd6092b9d174732b856915b38ed006b4f049f95675",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/ARButton.js",
+      "sha256": "7e80bc1464b1bb8818a86a31f296e3f2db44b66fc1bbd2024ca11dac21f6ce11",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/OculusHandModel.js",
+      "sha256": "db490cbb4b87027e73c7dd2adbf5faa20b744c7997b9731fa20844ef9edeeb0c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/OculusHandPointerModel.js",
+      "sha256": "65eda02a680dc1244d68c2d05c84dc2f1cf4865507d79e7f0a02159524c88d9c",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/Text2D.js",
+      "sha256": "30f8fd3141320f8761a3fa9b425a6b9b01df1803ed3842569f604ddbee88fed2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/VRButton.js",
+      "sha256": "ea36edbb0f2e72c3036927c6d5c137c750eb85f54385699a86ad30398307b55d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRButton.js",
+      "sha256": "0d180cb59298c907f5607e381e756c77d13b2866bb073e0553268676e5baad4e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRControllerModelFactory.js",
+      "sha256": "8d206dca7e9b6f9983d948f840947d9cc4cb34ce4d1513514e4ef047dd9532af",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XREstimatedLight.js",
+      "sha256": "218d36598cd69923572b948c7ec953e085a6622b9ae8294759dd46cc31b3016e",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRHandMeshModel.js",
+      "sha256": "0aededa95b07c59c24761e80ff00ac15ea01c901123cde78086b8b3fdfdf6884",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRHandModelFactory.js",
+      "sha256": "7be4083a6e94b7e8ef85bf5fb7f94743c0f0f8202fc96cfe48d9d18dce33b7f2",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRHandPrimitiveModel.js",
+      "sha256": "4de62dd4ac775092a546544d71199e296710c9dc4d6e314e5453e7fc3557b361",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/vendor/examples/jsm/webxr/XRPlanes.js",
+      "sha256": "1c3b5fdf0e89904aa4f0b733f3fbda1c9a7dd7d3918e71d1d4e6d125f9270a27",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/仿真平台实测记录.md",
+      "sha256": "c99c5dc0fd041409d15bf25a92a17ebb9c9d72e24e67016bf02db70858271113",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/仿真平台实测证据.json",
+      "sha256": "b7211f064d5625ddabc0c5fe4df1e91b5e75b328ddcc82726588c5dfe446d120",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/启明火箭_历史证据索引.json",
+      "sha256": "5d809ee64fb282fbd414bac767324fc6bc6c3d1514163b018f1559af7edbf069",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/启明火箭_实测与飞行证据.html",
+      "sha256": "cb8adc747ac450070591908f4aef98e4b4cacb3e8e7c8bb735fca5c38d8b2536",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/来源与版本核验.json",
+      "sha256": "a8308eb0ce0ae20b643074e81665b5829e6625b3d59a0158eb16e3cf6a5e6848",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/物项覆盖核验.json",
+      "sha256": "ceb4523e0766d81984e240dc347d84ddc0e664f0df47339d5cdc311434af976b",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/第一课_分镜与来源.md",
+      "sha256": "8cadff4ca3b1e8c40c5964ada31b7ebf8b7bc7ba037b1e828027cc717361cff1",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/course/逐件图片与身份核对.json",
+      "sha256": "6d50a31d1bc193a7e8ecdab6118781e0e74606393ff7fe8ba589544e1c74f0a9",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/data.js",
+      "sha256": "ac721c6d34ee6d4f9e4108c72aa67861ca47841745f197634d015a34ce1a2b33",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/index.html",
+      "sha256": "acb934ec47672458ea43f141677ecc0b7937b80289a5f53732f7c6502d783853",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/index.html.artifact.json",
+      "sha256": "1995acb065472cb5c47c9a7147ca7ccc0ff55b1a5310813d26e0eb4f2da614ee",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/native-assembly.html",
+      "sha256": "bbdc03b004fea5ff25e1bcac8dcea4014afbf3e9fdebde813e127c5d99caf764",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/reference-comparison.html",
+      "sha256": "ecf03bda98d83addb74dc47f646b4f676e59763d03a754aec5f435058d8de1f0",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/style.css",
+      "sha256": "28f1bec5d7e78cddfb0f79d094efdb7104c42b078e48d46b2e2d2812e11d09ab",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/内容数据.json",
+      "sha256": "e3d53ab25db10f51ec74d5e4f71a05c2a38c077b43abc0661890cfb433cd05e6",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/原生装配接入记录.json",
+      "sha256": "428accf1e2425dae8b2ab6c75ddcd8a41990e5aae7bfafc9cec3b3c2ffe87cff",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/来源与版本核验.json",
+      "sha256": "a8308eb0ce0ae20b643074e81665b5829e6625b3d59a0158eb16e3cf6a5e6848",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/物项覆盖核验.json",
+      "sha256": "fbadf6a07091bc9cc94534ce9c5fd98d7f3362b934c9b5571da446d1e2e91e8f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/project/逐件图片与身份核对.json",
+      "sha256": "42940ba2b90e9b4547677e8d9098eeb0fdd0f1e79483bf34077c44f815cc1479",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/metadata/conversations.json",
+      "sha256": "6448436cec9381c2179ec99dbd06e2da87b48af5e7686c7cd30f013ace487f04",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/metadata/messages.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/metadata/project.json",
+      "sha256": "aa55c3787910058f4a498e87a12733a90c1dc07d790cc4d645dc4656ca7745fa",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "OpenDesign/metadata/skills.json",
+      "sha256": "0f1f4337e26f3665dfb545d86fc3524eb6ba4c02617a0ad2d65c68f7bb31e356",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "README_RESTORE.md",
+      "sha256": "e92f39f518f09638dee2a9879b7d70f7e1ab6d9730ed4c79422dc7c3a6d0e13d",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "restore_opendesign_project.py",
+      "sha256": "c0b62fb11093e07b8d1acc665a12dfb75a453aee989c4ede49516e91d813909f",
+      "independentCloneRereadMatched": true
+    },
+    {
+      "archivePath": "verify_snapshot.py",
+      "sha256": "b33b7f55d1193fbb8fe7e2834139022b6e895da7b65cc5da56a3be6bc92e1c14",
+      "independentCloneRereadMatched": true
+    }
+  ]
+}

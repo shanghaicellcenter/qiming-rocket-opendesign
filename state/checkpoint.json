@@ -1,7 +1,7 @@
 {
   "schema": "qiming-current-checkpoint-v2",
   "preparedAtUTC": "2026-10-20T04:12:54.966997+00:00",
-  "factsCutoffUTC": "2026-10-20T04:12:54.966997+00:00",
+  "factsCutoffUTC": "2026-10-20T04:43:51.171505+00:00",
   "deadlineUTC": "2026-10-20T04:17:38Z",
   "freezePriorityUTC": "2026-10-20T03:17:38Z",
   "status": "WIP_21_review_drafts_not_complete",
@@ -210,9 +210,10 @@
         "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
         "restorePhase": "base",
         "freshRestore": {
-          "status": "pending_fresh_public_redownload_full_members_and_reopen",
-          "members": null,
-          "receipt": null
+          "status": "fresh_public_archiveSHA_all154member_stream_and_independent_copy_reread_passed",
+          "members": 154,
+          "actualMergedApplicationReopen": false,
+          "receipt": "state/recovery-evidence/postdeadline-recovery/qiming-legacy-outlined-and-late-voices.tar.gz.merged-members.json"
         }
       },
       {
@@ -281,9 +282,10 @@
         "uploadEvidenceCapturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
         "restorePhase": "final_small_last",
         "freshRestore": {
-          "status": "pending fresh public redownload; local108member streamSHA passed",
+          "status": "helper_fresh_public_download_all108member_write_reread_passed_and_root_independent_merged_copy_passed",
           "members": 108,
-          "sameMergedWholeProjectReopen": false
+          "actualMergedApplicationReopen": false,
+          "receipt": "state/recovery-evidence/postdeadline-recovery/helper-tiny-public-isolated-restore.json"
         }
       }
     ],
@@ -293,7 +295,7 @@
     "uploadedBigArchiveCountConfirmed": 12,
     "uploadedBigArchiveBytesConfirmed": 4213722653,
     "latestPublicAPIReadbackAtUTC": "2026-10-20T04:12:54.966997+00:00",
-    "freshFullMemberVerifiedArchiveCount": 4,
+    "freshFullMemberVerifiedArchiveCount": 6,
     "sameMergedWholeProjectRestoreVerified": false,
     "freshEditableReopen": {
       "id": "A1-04",
@@ -344,9 +346,10 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
       "restorePhase": "final_small_last",
       "freshRestore": {
-        "status": "pending fresh public redownload; local108member streamSHA passed",
+        "status": "helper_fresh_public_download_all108member_write_reread_passed_and_root_independent_merged_copy_passed",
         "members": 108,
-        "sameMergedWholeProjectReopen": false
+        "actualMergedApplicationReopen": false,
+        "receipt": "state/recovery-evidence/postdeadline-recovery/helper-tiny-public-isolated-restore.json"
       }
     },
     "selectedRequiredSnapshotPayloadsUploaded": true,
@@ -357,6 +360,12 @@
       "releaseTagPointsToInitialBaseline": true,
       "automaticSourceCodeZipIsNotCompleteStageSnapshot": true,
       "requiredPayloadArchiveCount": 12
+    },
+    "currentMergedRestore": {
+      "archives": 3,
+      "pathsVerified": 1077,
+      "scope": "core815+legacy154+publictiny108; independent copies checked against published bytes",
+      "complete": false
     }
   },
   "legacySourceInvariant": {
@@ -604,5 +613,7 @@
   ],
   "repoCommitAtDraftInput": "7725050470fd80467dd956728098c443cfbc46ec",
   "finalRepoCommit": "read current main git HEAD; this file is part of that commit",
-  "draftBoundary": "Selected required stage payloads all12 actually uploaded; full course and merged whole project restoration remain pending."
+  "draftBoundary": "Selected required stage payloads all12 actually uploaded; full course and merged whole project restoration remain pending.",
+  "executionPhase": "restore_and_bounded_cleanup_only",
+  "futureProduction": "deferred_requires_user_resume_after_elapsed_production_window"
 }

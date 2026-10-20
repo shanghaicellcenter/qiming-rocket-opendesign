@@ -36,3 +36,5 @@ core包根有README_RESTORE.md、restore_opendesign_project.py、OpenDesign/proj
 最后应用的实际补丁：[qiming-FINAL-small-v3-public.tar.gz](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz)。该包已包含旧小tail的必要安全内容；不要下载未发布的v1/v2或无public后缀试包。
 
 恢复入口的版本边界：Release标签wip-20261020仍指初始baseline；GitHub自动生成的Source code(zip/tar.gz)对应旧标签，不能当完整交接。请读取main分支及上列12个实际归档附件。已核对的最终payload交接版本为[e5b3ae6](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/tree/e5b3ae668b024e4b6a3394ef462e1e4929416322)；本段说明随后补于main，不改变12包字节。
+
+恢复进展补充（2026-10-20T04:43:51.171505+00:00）：新增legacy154与最后public小包108的真实fresh证据，现6包单包验证通过，另6大包及整体合并应用重开仍待。局部同一恢复根1077文件已逐SHA，不能写为完整恢复。详见state/recovery-evidence/postdeadline-recovery。

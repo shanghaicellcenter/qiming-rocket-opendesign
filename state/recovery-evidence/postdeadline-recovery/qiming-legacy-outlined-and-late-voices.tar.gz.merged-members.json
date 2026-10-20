@@ -1,0 +1,1406 @@
+{
+  "archive": "qiming-legacy-outlined-and-late-voices.tar.gz",
+  "archiveRank": 6,
+  "archiveBytes": 256772174,
+  "archiveSha256": "104d94e482dce60acb4c47a2ed1a5bc3ef79a4218557d210aff689c435a8b040",
+  "archiveSHA256Verified": true,
+  "startedAtUTC": "2026-10-20T04:29:49.416099+00:00",
+  "finishedAtUTC": "2026-10-20T04:29:50.776938+00:00",
+  "members": 154,
+  "allArchiveStreamsAndRestoredMembersSHA256Matched": true,
+  "independentAPFSClones": 154,
+  "hardLinksUsed": false,
+  "freeBeforeBytes": 3631902720,
+  "freeAfterBytes": 3631308800,
+  "sameMergedRoot": "${WORKSPACE_ROOT}/work/rocket-recovery-20261020/merged-stage",
+  "actualMergedApplicationReopen": false,
+  "subjectiveHearingOrWholeCourseAcceptance": false,
+  "records": [
+    {
+      "archivePath": "outputs/rocket/animation/causal-course-clarity.blend",
+      "sizeBytes": 35367502,
+      "sha256": "b37e5cfdcdab907004e04c0013a1a2bf3de05c70f9553dc58705c91f269dc72e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/animation/causal-course.blend",
+      "sizeBytes": 35343996,
+      "sha256": "f1ceea7fcc1691045269635b41c69a74b59feb1159283a41fd6a7b45822fcd3a",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A3-10.blend",
+      "sizeBytes": 1533514,
+      "sha256": "e43cb6351ee8454dc5bcb3ef0225a8670446f962faffc889fba4e5e922226697",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A3-11.blend",
+      "sizeBytes": 1226763,
+      "sha256": "288f14bd780e1b33e4a56678a286d028c1e032cd0a59090226f6e1162031c50c",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A3-12.blend",
+      "sizeBytes": 1271036,
+      "sha256": "5dffc7257e9a922ec86f564b8df857784bd9af481b418d6b1352105ca41b1b67",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A6-19.blend",
+      "sizeBytes": 1418898,
+      "sha256": "a39172b8bd1ebe81bb601813de690855b95135f4d5b09785c16f39d14a30ad02",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A7-04.blend",
+      "sizeBytes": 1153784,
+      "sha256": "a3e0a6fd9b07bf798fe72f928b02c8d3caf060725d49eca7e933bc518d05be87",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/A7-14.blend",
+      "sizeBytes": 1612071,
+      "sha256": "c21d37427c388a09650cbaea0031bd6d0878f0b50f0e6f23fe8df3b26b8376b0",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/B1-01.blend",
+      "sizeBytes": 1403960,
+      "sha256": "375a7ba20cb9bc74d0641fb3676ffa84b725ffc267b778071ede2845fb057c12",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/B1-02.blend",
+      "sizeBytes": 1468261,
+      "sha256": "72c751a6a4a3726160ff263906d281323b5c6ef01178515a4686dab3e14555a8",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/B1-05.blend",
+      "sizeBytes": 1241341,
+      "sha256": "92448b487f3236dc7de6569fd1e1a240c8ab22db0b87189d81b61fc6ce061277",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/B1-06.blend",
+      "sizeBytes": 1420883,
+      "sha256": "3571c697b5b877a463f0d2972af201bf8816ce2e5e29db0e5aa4b2e1a0fbe39b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/B1-07.blend",
+      "sizeBytes": 1544021,
+      "sha256": "29ef5960e819fd92b61e7abd124aa624b645011d9b20e30ead690598f76f9a2b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/C1-04.blend",
+      "sizeBytes": 1329959,
+      "sha256": "8337efe687269b05639f0b8915b9cf82ac63246f229e641418ab896ee58332fe",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/C1-10.blend",
+      "sizeBytes": 1456800,
+      "sha256": "0fde02c018661006bbe218a7706059528f9d9e047c6235ea5b7f3ea6d590786b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/C1-15.blend",
+      "sizeBytes": 1512470,
+      "sha256": "e62e1c7b1dc63775cb4a889a1e11e6d83b1a563fc9a7960c3ec3d64bed77e780",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/functional-sources/C1-18.blend",
+      "sizeBytes": 1444805,
+      "sha256": "f1a23ec5a46a53b01aa3ddfc3ffd259c1361aaff59f819643ac0830ac3690d3f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/A3-01.blend",
+      "sizeBytes": 3192096,
+      "sha256": "f9cccd49133bf2803fa81dbe7b9a3d7c9a3fad6a6712af0432f1037c0cacd92a",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/A7-05.blend",
+      "sizeBytes": 3552061,
+      "sha256": "f8839a2ddb89ff9758e9dd9e2850fce5ba569fedef0e3ac350db3435cf9766f9",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/A7-06.blend",
+      "sizeBytes": 3427132,
+      "sha256": "9faa6ba2240ec7cba699899304d0ebb69592cd3f8bd08d437a0fd11ae139f8eb",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/A7-18.blend",
+      "sizeBytes": 3759744,
+      "sha256": "feef380511a3afc76cff2996077ea8c8393399e5aec8bc68c633dec46724005b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/B1-03.blend",
+      "sizeBytes": 3910638,
+      "sha256": "0e7af2434acd2fe502a1aa791e5cc921a92ebb1b7947ec38bef25877c5019172",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/B1-04.blend",
+      "sizeBytes": 3763787,
+      "sha256": "33e5d0bbae98dd10fd79e80b23ad4b728461690f8601e0543a790422ed02568d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-01.blend",
+      "sizeBytes": 3843982,
+      "sha256": "2f3be8bd348c70591a6114f0ea759eaf47f808ebc1d029b8995029bee8c373f9",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-02.blend",
+      "sizeBytes": 3558482,
+      "sha256": "a9e25a32f0260b486fefdac55412b8c78a703f5d45fa911dd9353f7c56c606b5",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-03.blend",
+      "sizeBytes": 3747201,
+      "sha256": "dbeb0a744a239f0a34f2105be7dde61462f346b6b6376ac5e32186b54f5c2ce9",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-05.blend",
+      "sizeBytes": 3651090,
+      "sha256": "56ed74c6a53bc2c2bb0dc15b2e5afa692f3aa1b0a90ae1fcd1035297380cc4b3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-06.blend",
+      "sizeBytes": 3455035,
+      "sha256": "705a3ded58acddb18fa172e1d90d3f59fc639cad8faca6f6c4ddedd19fda6200",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-07.blend",
+      "sizeBytes": 3360497,
+      "sha256": "d18ce5dd7b1f60cd492277ab45ebcb152d5ad73061ff56e7b01bde1879235374",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-08.blend",
+      "sizeBytes": 2955175,
+      "sha256": "a3c818ac4109a7dfe6985b43e1fafdbdd3a439e0e8a1f7e18b52afd17ed98102",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-09.blend",
+      "sizeBytes": 4307406,
+      "sha256": "12a34e13bf61a0bed438857e728e85c9f01a4d4af07eeb0cdef2cc4df525515d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-11.blend",
+      "sizeBytes": 4545973,
+      "sha256": "55985553441124210a37adb6494aa747f51fd4904cb34fc3f996abf0a055a57d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-12.blend",
+      "sizeBytes": 4307647,
+      "sha256": "572255007532e43cc0f7097c1cffbdff576728fa51845af36800ce70f123a1b6",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-16.blend",
+      "sizeBytes": 4362019,
+      "sha256": "6b840b54fa786a032e23813012db40982651e7bd95d8786d4b078940b4328d39",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-17.blend",
+      "sizeBytes": 4511749,
+      "sha256": "6463fe787ab6079bc2433be4834bcf021a23f61c7fd48e31026909428d0084bc",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-20.blend",
+      "sizeBytes": 4194484,
+      "sha256": "9e963c078d54d6fd32bcd171d3f91e42b26c5934bace3bd8b43a252235f0dab0",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-27.blend",
+      "sizeBytes": 5011244,
+      "sha256": "26768f23d30aa97d419002928905a586f5f6fc6558bfc1bf80062724c69075ac",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-28.blend",
+      "sizeBytes": 4681941,
+      "sha256": "e44a065ae5015e3172f776feaf753cb54b1fb277e848bfd91533b2a632fa325d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/manual-detail-sources/C1-33.blend",
+      "sizeBytes": 3829727,
+      "sha256": "39444da522e5b31e5962e95942fac54446b8978aeb303b634a570e33880603da",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/A7-01.blend",
+      "sizeBytes": 2254803,
+      "sha256": "f7c6eb4b01200bc8a8c8969b7e1259d42e4cd593a1f93a2275a6ce7725db7323",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/A7-16.blend",
+      "sizeBytes": 2348659,
+      "sha256": "6d6b57089dc28b97914437b33e263abf3aa981f7dace14cc84cb25bd1cf5a076",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-19.blend",
+      "sizeBytes": 3190381,
+      "sha256": "1855e4935377bb9fe7da0129c3d8a61b1c60611ac27c7cf5bea06b0a9e2289b7",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-21.blend",
+      "sizeBytes": 3078016,
+      "sha256": "007430c2a5c0b859b2ce3fdf598596892879c4545f4dca36dfa908154ecfa32f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-22.blend",
+      "sizeBytes": 3096007,
+      "sha256": "b2f34b901008ca1f12918a3e5b86a9b94ddbab4d159b1f284fbec9b042dcc740",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-23.blend",
+      "sizeBytes": 2939660,
+      "sha256": "53a323a5f6b621526b94aa3cc6d920d6c742c997174a33181897b6eb15189b9b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-24.blend",
+      "sizeBytes": 3175404,
+      "sha256": "ba570d6aaf4a1d5d6a32297ed30d9e6944888ad95b9564cb8caf1106cabe4ea3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/source-detail-sources/C1-25.blend",
+      "sizeBytes": 2995035,
+      "sha256": "19c082159b3d696db6977aead91553942fec7d7777db231530add5291d87d8fb",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A1-01.blend",
+      "sizeBytes": 2121833,
+      "sha256": "8b5f47d70fec2f5ad5d200b4db5b767d442a470f2270113b14e766ea14a75f8f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A1-02.blend",
+      "sizeBytes": 2267825,
+      "sha256": "5d1508f9710c3eaa64262d5770cf238e5859eccae89d77ef2b39d79f5bc87cd9",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A1-03.blend",
+      "sizeBytes": 2077621,
+      "sha256": "1ae545c4a3f53f1cb32d6e94425f8b6f0a1b4712362d926a1550a1dbd65978f8",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A1-04.blend",
+      "sizeBytes": 2212146,
+      "sha256": "5f517e603880c09f44f1c3722c85505b94cd638e4ef9a42f0d54d2e48cd04034",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A2-11.blend",
+      "sizeBytes": 2492247,
+      "sha256": "7a9d37244009e8078175b8440a5b8eced5bb9b602fd871fde5b9916c43a17716",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A2-15.blend",
+      "sizeBytes": 2168251,
+      "sha256": "9f1e5258ea9313708b240d9d5f7fb951590eca0fea49558525e703b6ce5a9e28",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A3-13.blend",
+      "sizeBytes": 2254089,
+      "sha256": "da258814d5f5e7018de54e9f88489db46638c1097689df9d53f45c19f50698d6",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A4-01.blend",
+      "sizeBytes": 2214587,
+      "sha256": "f147c66eea12ae4aef81b7a4b1ecc616e34e8f5636da76bd6bfe233e619f06f5",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A4-02.blend",
+      "sizeBytes": 2334758,
+      "sha256": "63203ec0f0cd0de986543b7791058834d4b4be1d18f3a05c051e0d8b34757606",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A4-03.blend",
+      "sizeBytes": 2384774,
+      "sha256": "2d55b3000e964a483ebbcf1c7bf9b449415cfde44e0f7a7ca7977cb36cc07d8e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A6-09.blend",
+      "sizeBytes": 2164958,
+      "sha256": "6e450156f08d4573df2d075c0b3fbe55106b356c1581524076eaa83eaa5b0e7c",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A6-15.blend",
+      "sizeBytes": 2068518,
+      "sha256": "72e6b8750209a9e7767899e6ed70c94a04f6658cf4049ed6cc5ac96dd386adc2",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A6-17.blend",
+      "sizeBytes": 2159391,
+      "sha256": "243c7f549f4a7af0f2eae7bcb7780dfb8d0e6382c109b3ea4d98333a78bf1d6c",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A7-02.blend",
+      "sizeBytes": 2232023,
+      "sha256": "79908cc8c9b503543396046a910e77fd229c198c9f93d79363668061ecb736bc",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/A7-03.blend",
+      "sizeBytes": 2292234,
+      "sha256": "601dc3bbd166c0ba179273389e529a2e40804dcf1ff7fbed54363d40a4447a27",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/C1-34.blend",
+      "sizeBytes": 2572289,
+      "sha256": "056121b7351711a5ec0fca180f2bef461f18ee090d71280a1edb50c27a5668d5",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket/stock-detail-sources/C1-35.blend",
+      "sizeBytes": 2246560,
+      "sha256": "45a973d89d9ed304126036cfc0ec40628595932c084f23235378d61f8bd02ad3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-current.json",
+      "sizeBytes": 4471,
+      "sha256": "39a397902f2489db8266e7c548c7ee3fc164fd993550e4bb2a23608103530ebd",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/A1-10-processed-evidence.json",
+      "sizeBytes": 46311,
+      "sha256": "cd9e061dfed0c34db6307e866846b61bcc040e85d2736e703130147ef4e676f4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/A1-10.asr.json",
+      "sizeBytes": 5083,
+      "sha256": "8379eef9b39d18260d1917e989c7381336ad113be1dcc403eaeb6252c6f40ded",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/A1-10.gpu.asr.json",
+      "sizeBytes": 5083,
+      "sha256": "8379eef9b39d18260d1917e989c7381336ad113be1dcc403eaeb6252c6f40ded",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/A1-10.paraformer.json",
+      "sizeBytes": 25167,
+      "sha256": "e234f0bca019fd9a81c2c727409bb6f359b4312165f376807dd20717531feab4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/asr-reviews.json",
+      "sizeBytes": 9078,
+      "sha256": "975c801220a50808d0fd564b8dd70c64a1786a220688320069d90c6258302341",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/asr-status.json",
+      "sizeBytes": 2325,
+      "sha256": "8733fd36e13e5868614d4780cce3b1b60120b564474a3bdeda98db8d0d99acaf",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/collected-evidence.json",
+      "sizeBytes": 109825,
+      "sha256": "1d4d3c8055cafc98baf15721d36205b7c5ded70b0535e24c21e784a12eeae2cb",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/config.json",
+      "sizeBytes": 2236,
+      "sha256": "02e257327748c812d7b31fb82d73f9f06faff3732d45383663ce046d47e1a08a",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/generate.py",
+      "sizeBytes": 6356,
+      "sha256": "edbb700059fd4f3f6659b1954c91245b7f7babf1e00edb8a5f001b0bc517e8be",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/gpu-asr-reviews.json",
+      "sizeBytes": 9078,
+      "sha256": "975c801220a50808d0fd564b8dd70c64a1786a220688320069d90c6258302341",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/gpu-asr-status.json",
+      "sizeBytes": 2325,
+      "sha256": "8733fd36e13e5868614d4780cce3b1b60120b564474a3bdeda98db8d0d99acaf",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/launch-receipt.json",
+      "sizeBytes": 740,
+      "sha256": "ccb2d72a4595fc758f87a117e6bd8a9bdb34e07daaa43090b7e399e1dafc6ac1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/narration-jobs.snapshot.json",
+      "sizeBytes": 5610,
+      "sha256": "86c076bd0746874c0509886a3fde14398ac5936e349041d532087a465aa6824e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/paraformer-reviews.json",
+      "sizeBytes": 28381,
+      "sha256": "912072e9dbaa2e9b8b4aec49dd1143945c75a0a90de6a8ce857126c03738a5d4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/paraformer-status.json",
+      "sizeBytes": 248,
+      "sha256": "46db85210d795b56f12391db88f059b896ae5353307ce54f371fc863487802bc",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/paraformer_asr.py",
+      "sizeBytes": 3263,
+      "sha256": "7b7274857f92ea934a2605ab6afb269849296f01e4b463f0c080f87dd47b5f53",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/pipeline-status.json",
+      "sizeBytes": 438,
+      "sha256": "1735f7fe43b35f89faf35ba1bdc8f17063820fd88a6c45f87d2e2ba2504401d7",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/pipeline.py",
+      "sizeBytes": 1653,
+      "sha256": "47dd904b1056ac8410a6252a66c186150bd9a1721c491f3ae9923dbc066c87db",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/processed-summary.json",
+      "sizeBytes": 5494,
+      "sha256": "ad07baf76f3c0799339a6c95403e55c471ab1991360ca6764507d9be355772b8",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/processing-intermediates/A1-10-compressed.wav",
+      "sizeBytes": 4462158,
+      "sha256": "92b196392a01ddf6dd8d3fb2b14326bfbff898427106f45ac396dda096eb196e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/raw-audio/A1-10.wav",
+      "sizeBytes": 4462124,
+      "sha256": "50aa6e7d8752d7666ee5c005dc66ad3ed16efb8b93375cd12bb7abfc39635d00",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/results.json",
+      "sizeBytes": 4900,
+      "sha256": "41f77fd4e992fc31888c008d4d2c573b8c951543a619bed39a427522c34e040b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/status.json",
+      "sizeBytes": 234,
+      "sha256": "02b32793e19d1e682fe8c245e28b57c652641476a2844b6e6ad1548d7381389e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/whisper_asr.py",
+      "sizeBytes": 15239,
+      "sha256": "90214a2763c2684ca879a644d983443948103cf4742682fffb63810710c003e1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-10-20261020T020805Z/writer.json",
+      "sizeBytes": 212,
+      "sha256": "f9eeee5abb78feb7e9832d6cd38e15cdb11836cfce1277f2066256cf74856072",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket-v2/逐件动态样章/A1-10/A1-10_整段中文解说.wav",
+      "sizeBytes": 4462158,
+      "sha256": "ff51560beba0d0a44ba656db376ae6effba71c177753eba234e1ca42e1fcb185",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket-v2/逐件动态样章/A1-10/A1-10_配音与真实镜头边界.json",
+      "sizeBytes": 46311,
+      "sha256": "cd9e061dfed0c34db6307e866846b61bcc040e85d2736e703130147ef4e676f4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-current.json",
+      "sizeBytes": 4471,
+      "sha256": "fc47664e3a669766bc7a5a0d6a0701e311338aec032c5b0f875c2639b3dfe219",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/A1-11-processed-evidence.json",
+      "sizeBytes": 41222,
+      "sha256": "0e947c24116084f615d4f60c96874fbde75b231c209c2fd1979818568d41f1a1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/A1-11.asr.json",
+      "sizeBytes": 5925,
+      "sha256": "daa6bf81903397d1748100569fa6e8ccb110a23d5129d4e704f91b961b6e7f19",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/A1-11.gpu.asr.json",
+      "sizeBytes": 5925,
+      "sha256": "daa6bf81903397d1748100569fa6e8ccb110a23d5129d4e704f91b961b6e7f19",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/A1-11.paraformer.json",
+      "sizeBytes": 23186,
+      "sha256": "cdb197e1b9d36c953210bbbe45fb86f44a1da348d75a4a062e12e3aad95b7b3b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/asr-reviews.json",
+      "sizeBytes": 9329,
+      "sha256": "9a2a7c06f942d9481c61e7b0b1b11b7c851ed0151b14e558efd57191bc4a9698",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/asr-status.json",
+      "sizeBytes": 2325,
+      "sha256": "126475b7be8538b4ccf91360e9da6eb3c15608c88c7bb40f5cd33af5d75c0f43",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/collected-evidence.json",
+      "sizeBytes": 107616,
+      "sha256": "18ca440bc1b51879ea1697ddf5fb0cc9b362261c9bd56382d227176003a417fe",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/config.json",
+      "sizeBytes": 2236,
+      "sha256": "499026a1c0b1dc09e71b67cd47ffba30dfe488a83b3cb9aba1a6a8f95134c109",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/generate.py",
+      "sizeBytes": 6356,
+      "sha256": "edbb700059fd4f3f6659b1954c91245b7f7babf1e00edb8a5f001b0bc517e8be",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/gpu-asr-reviews.json",
+      "sizeBytes": 9329,
+      "sha256": "9a2a7c06f942d9481c61e7b0b1b11b7c851ed0151b14e558efd57191bc4a9698",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/gpu-asr-status.json",
+      "sizeBytes": 2325,
+      "sha256": "126475b7be8538b4ccf91360e9da6eb3c15608c88c7bb40f5cd33af5d75c0f43",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/launch-receipt.json",
+      "sizeBytes": 740,
+      "sha256": "f58b5a18ac643bd39fd46984cacd8d07b67906372fa82a4df29e7da9eaa78d37",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/narration-jobs.snapshot.json",
+      "sizeBytes": 4942,
+      "sha256": "6dfa93af8b75b2e989f2f226237bec06c0fabc244a632e8be8b41ebcf8e9781b",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/paraformer-reviews.json",
+      "sizeBytes": 26144,
+      "sha256": "ee999d7e4454609f9725fc6cd64820dd826ecf7f8472536fad65b25cf7a27cef",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/paraformer-status.json",
+      "sizeBytes": 249,
+      "sha256": "52f986cd0e738426f929d2f7d6ea70977f11664ee78e74cf6dcdb177e145bf28",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/paraformer_asr.py",
+      "sizeBytes": 3263,
+      "sha256": "7b7274857f92ea934a2605ab6afb269849296f01e4b463f0c080f87dd47b5f53",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/pipeline-status.json",
+      "sizeBytes": 438,
+      "sha256": "3e8d2c50f674af919d5cb373d53d09f641d2de5e88edbc72edc4177ae2bec527",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/pipeline.py",
+      "sizeBytes": 1653,
+      "sha256": "1fd99110ccdfbd894189f9100577f957237346f5efa7da2ba622c9ca9e926d6d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/processed-summary.json",
+      "sizeBytes": 3754,
+      "sha256": "8720dd0f0e7862844173e05232aa8d5eedb6a9fca28486a87a3fb947621d258e",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/processing-intermediates/A1-11-compressed.wav",
+      "sizeBytes": 3851598,
+      "sha256": "c69c489bd86b04b8e0ea9755c6c9f208e775741c34bcd471864d2fb02a72c539",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/raw-audio/A1-11.wav",
+      "sizeBytes": 3851564,
+      "sha256": "45d13f381b36d262deaa2c9fe2bce496e3474e48d15201ec5705b69eaaf50a96",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/results.json",
+      "sizeBytes": 4666,
+      "sha256": "eab1a937a954a4ce0a1574c49de3f6d84c72c0feeffb819d783af69f91073857",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/status.json",
+      "sizeBytes": 234,
+      "sha256": "59f02a4d778f5a895286c6a98d88669007949a507df8c9f665d269626a9ee5f4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/whisper_asr.py",
+      "sizeBytes": 15239,
+      "sha256": "90214a2763c2684ca879a644d983443948103cf4742682fffb63810710c003e1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "work/rocket-v2/breeze-A1-11-20261020T021403Z/writer.json",
+      "sizeBytes": 212,
+      "sha256": "dd52db1d6455b80c1dfc530acda52ca2bfc27e7f47dd00c3d10e609dafa1f22d",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket-v2/逐件动态样章/A1-11/A1-11_整段中文解说.wav",
+      "sizeBytes": 3851598,
+      "sha256": "9c6c7c8a932a900c2e9827ad6e2954f18dbcc9ab392b4288d0c3543ee9668728",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "outputs/rocket-v2/逐件动态样章/A1-11/A1-11_配音与真实镜头边界.json",
+      "sizeBytes": 41222,
+      "sha256": "0e947c24116084f615d4f60c96874fbde75b231c209c2fd1979818568d41f1a1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/legacy-source-readonly-audit.public.json",
+      "sizeBytes": 95180,
+      "sha256": "10f2573f9d8334e15cc13a05d75fb15f973c3bcb53d55f77a37bd4b8c04b5b38",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/legacy-release-source-conversions.public.json",
+      "sizeBytes": 338591,
+      "sha256": "7118f31c78a1dfb10fedd916d02170abc0224a61384758006cb33e1ed09e22cf",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/legacy-release-invariants.public.json",
+      "sizeBytes": 85926,
+      "sha256": "772529095112e8d202cdbf70487c0ab4b4a824e4b32b883d510601f6027d8bcc",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/font-rebuild-environment.public.json",
+      "sizeBytes": 7277,
+      "sha256": "fdef9587689c18b761de82e6cc3ac091e5e2b09ca2a18bac78e1de46164e2808",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/independent-package-v2-text-review.public.json",
+      "sizeBytes": 1343,
+      "sha256": "fb5b434fe36fea74b86cab6c4bfecb4196a111aed8b2d30bd5c74868f0d010a6",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/legacy-invariant-audit-history.public.json",
+      "sizeBytes": 956,
+      "sha256": "af0f8890bd3481306931d618c280b6917d994ad168cf8f893b14717659d17c09",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/test-history/legacy-release-invariants-initial-failure.recovered-tool-excerpt.log",
+      "sizeBytes": 1857,
+      "sha256": "b3bf851b7240af9aac93dc97dcbd7e104abc8388f6b94b78564e044d7f7103a7",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/test-history/legacy-release-invariants-final-pass.log",
+      "sizeBytes": 17642,
+      "sha256": "e49553bca2c44de6e4bae07756b6c3481f7ee9c44f5ba665db51972c8794078f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/test-history/camera-state-debug.log",
+      "sizeBytes": 364,
+      "sha256": "ea3e0c4c298812e436312b3081306f7e8232c4b47bd5c0964015b4b24ce902f7",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/test-history/camera-state-transient-difference.public.json",
+      "sizeBytes": 69,
+      "sha256": "4484ef3010705d5d81806f692cad4f09975d538a330fb7d3180936683a4931e4",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/audit_blend_release_dependencies.py",
+      "sizeBytes": 2150,
+      "sha256": "622095f3cb2adbdd402d84d2f46fa991c388d62ef001cf3e2425d5b5ab0284cd",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/audit_legacy_sources_readonly.py",
+      "sizeBytes": 2802,
+      "sha256": "6e63f982daabbd84778f9d3c7320ee4abc89de5a17864cfb61ca501a6c2bbd5f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/audit_selected_release_sources.py",
+      "sizeBytes": 2462,
+      "sha256": "db5265dc6d2f48d6ea420ae4679eb625e0089b80fc28ba008d04afd88cb4c094",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/clean_legacy_release_sources.py",
+      "sizeBytes": 2597,
+      "sha256": "7f1ae471304686a9f2aecfbb4a2466c2d6abca00e5d75574eed1a73a4b2cc399",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/clean_release_blend.py",
+      "sizeBytes": 3851,
+      "sha256": "69744572baaa1cb7df5e26c6bf01657f4eb522c6d8bb337b71e1d70e12637f52",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/clean_selected_release_sources.py",
+      "sizeBytes": 1257,
+      "sha256": "cf2bbea5f5dd78ffc31cd61f6746d853f7961637ee42b62acd20680d1ec97db3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/debug_camera_state_readonly.py",
+      "sizeBytes": 711,
+      "sha256": "4db770b1e0c7ddacddd895170ee79cd56327aeeb2c4a9c388d2560f278f72b3f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/pack_snapshot.py",
+      "sizeBytes": 3583,
+      "sha256": "0bcd63ab79e0583e573b5fad6968f6c01b5b48bca27a78472a7fa406a52d88d1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_actual_packs.py",
+      "sizeBytes": 5325,
+      "sha256": "a85bed87966da6858c3cabcd879cb74e967032ff154808841a247fea13bf2190",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_late_voice_increment.py",
+      "sizeBytes": 2536,
+      "sha256": "e45f991f9885a597f5f151d0e10cdf6e47a94a14efccf2918926404bf7c37ecf",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_legacy_voice_bundle.py",
+      "sizeBytes": 7324,
+      "sha256": "cfe88503beb093805e4a8e8b6603e86d9d8fc3bab1c9209c80ed246f5d674cf1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_minimal_resume_packs.py",
+      "sizeBytes": 8178,
+      "sha256": "a3b26558e9edde5d80fae71425970dee6cddc77f171dba060e75e94c87713438",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_opendesign_core.py",
+      "sizeBytes": 3591,
+      "sha256": "a1dc4b769d4a9ff154c04788df4eaf32e3b841b6f7a6dab891d860bbda279c33",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_original_sources.py",
+      "sizeBytes": 2455,
+      "sha256": "00d332810074ee7b62f98bd7148ee21174dddb24fd3036c6f7279f6b417791bf",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_priority_source_capsule.py",
+      "sizeBytes": 6809,
+      "sha256": "4dc1e1312a7fb4321ae97caf5fda332ac158c423fe0327caca24389c626c9f8a",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/prepare_remaining_priority_packs.py",
+      "sizeBytes": 6219,
+      "sha256": "bf51f109f82794ecedcea5f75e9ff8c63a6f2859379e54da3adf45fe2de74cd3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/restore_opendesign_project.py",
+      "sizeBytes": 2948,
+      "sha256": "c0b62fb11093e07b8d1acc665a12dfb75a453aee989c4ede49516e91d813909f",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/restore_workspace_paths.py",
+      "sizeBytes": 1414,
+      "sha256": "a1937c13bb72c4af46de3a2e6daaeba44f6c796f5b04a6624ac90d9f9fcbdaa9",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/test_legacy_outline.py",
+      "sizeBytes": 431,
+      "sha256": "6adbb70abe2c82060caa19d256c32a6be4aa766ae5d57b4136012565a631da06",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/verify_archive_stream.py",
+      "sizeBytes": 1728,
+      "sha256": "505385fa4351931d745f0d9c54329b84c1d66c7a5f1df0ef3b1962e6960316e3",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/verify_release_scene_invariants.py",
+      "sizeBytes": 6490,
+      "sha256": "df41852dcb15677de3d3f4c7ee196b05c831968fb1f015ce75ca1d656cfc8156",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-tools/packaging/verify_snapshot.py",
+      "sizeBytes": 783,
+      "sha256": "b33b7f55d1193fbb8fe7e2834139022b6e895da7b65cc5da56a3be6bc92e1c14",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "PRODUCTION_SNAPSHOT_RESTORE_UPDATE.md",
+      "sizeBytes": 2078,
+      "sha256": "13bde212bd3fb199009bde784279875cef16f2bab774900185b5d095fea865c1",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    },
+    {
+      "archivePath": "recovery-evidence/production-original-to-release-SHA-map.public.json",
+      "sizeBytes": 2372814,
+      "sha256": "593a964304f32e0104e13241c961c4d313372cf42f5cccee442249619c206ec6",
+      "archiveStreamSHA256Matched": true,
+      "independentCopyRereadMatched": true,
+      "APFSIndependentClone": true,
+      "promotedToCurrentRoot": true
+    }
+  ]
+}
