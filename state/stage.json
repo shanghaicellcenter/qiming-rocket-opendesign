@@ -387,70 +387,41 @@
       "uploadEvidenceCapturedAtUTC": "2026-10-20T03:57:42.812929+00:00",
       "restorePhase": "after_final_delta_v2",
       "freshRestore": {
-        "status": "pending_fresh_public_redownload_full_members_and_reopen",
-        "members": null,
-        "receipt": null
+        "status": "fresh_public_redownload_all127_member_SHA_write_reread_and_selected_media_decode_passed",
+        "members": 127,
+        "receipt": "state/recovery-evidence/qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz.json",
+        "sameMergedWholeProjectReopen": false
+      }
+    },
+    {
+      "name": "qiming-FINAL-small-v3-public.tar.gz",
+      "bytes": 4069157,
+      "sha256": "0e91ece04cd34a8a8cb155444c6a69a5b33f2bbb7faab41b3edf85b22aee31a5",
+      "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz",
+      "uploadState": "uploaded_exact_public_API_size_and_digest_readback",
+      "uploadEvidenceCapturedAtUTC": "2026-10-20T04:12:54.966997+00:00",
+      "restorePhase": "final_small_last",
+      "freshRestore": {
+        "status": "pending fresh public redownload; local108member streamSHA passed",
+        "members": 108,
+        "sameMergedWholeProjectReopen": false
       }
     }
   ],
-  "pendingFinalTiny": {
-    "name": null,
-    "bytes": null,
-    "sha256": null,
-    "url": null,
-    "uploadState": "pending_root_final_tiny_decision_and_confirmation",
-    "freshRestore": {
-      "status": "pending",
-      "receipt": null
-    },
-    "restorePhase": "final_tiny",
-    "note": "Do not invent archive name, SHA, URL or successful upload. Root fills only after actual creation/upload/readback."
-  },
+  "pendingFinalTiny": null,
   "restoreOrder": [
-    {
-      "phase": 1,
-      "name": "all_base_packages",
-      "archives": [
-        "opendesign-native-core-20261020.tar.gz",
-        "original-sources-20261020.tar.gz",
-        "qiming-production-source-voice-01-v2.tar.gz",
-        "qiming-priority-editable-sources-01-of-03.tar.gz",
-        "qiming-priority-editable-sources-02-of-03.tar.gz",
-        "qiming-priority-editable-sources-03-of-03.tar.gz",
-        "qiming-legacy-outlined-and-late-voices.tar.gz",
-        "qiming-priority-native-media-interactive-01-of-02.tar.gz",
-        "qiming-priority-native-media-interactive-02-of-02.tar.gz"
-      ]
-    },
-    {
-      "phase": 2,
-      "name": "FINAL_portable_overlay",
-      "archives": [
-        "qiming-FINAL-portable-overlay-v1.tar.gz"
-      ],
-      "status": "uploaded_exact_public_API_size_and_digest_readback"
-    },
-    {
-      "phase": 3,
-      "name": "AFTER_FINAL_delta_v2",
-      "archives": [
-        "qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz"
-      ]
-    },
-    {
-      "phase": 4,
-      "name": "final_tiny",
-      "archives": null,
-      "status": "pending_root_final_tiny_decision_and_confirmation"
-    }
+    "all9basearchives",
+    "qiming-FINAL-portable-overlay-v1.tar.gz",
+    "qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz",
+    "qiming-FINAL-small-v3-public.tar.gz"
   ],
-  "freshFullMemberVerifiedArchives": 3,
+  "freshFullMemberVerifiedArchives": 4,
   "freshSingleEditableFileReopenVerified": "A1-04 only",
   "sameMergedWholeProjectRestoreVerified": false,
-  "allStageSourcesAndMediaUploaded": false,
+  "allStageSourcesAndMediaUploaded": true,
   "allStageRemoteRestoreVerified": false,
   "repoCommitAtDraftInput": "7725050470fd80467dd956728098c443cfbc46ec",
-  "finalRepoCommit": "pending_root_commit_push_and_readback",
+  "finalRepoCommit": "read current main git HEAD; this file is part of that commit",
   "checkpoint": "checkpoint.json",
   "backlog": "backlog.json",
   "finalPortableOverlay": {
@@ -494,5 +465,7 @@
     },
     "freshFullMemberVerifiedArchives": 4,
     "sameMergedWholeProjectRestoreVerified": false
-  }
+  },
+  "uploadedBigArchiveCountConfirmed": 12,
+  "uploadedBigArchiveBytesConfirmed": 4213722653
 }
