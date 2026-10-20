@@ -349,7 +349,15 @@
         "sameMergedWholeProjectReopen": false
       }
     },
-    "selectedRequiredSnapshotPayloadsUploaded": true
+    "selectedRequiredSnapshotPayloadsUploaded": true,
+    "sourceEntryReference": {
+      "branch": "main",
+      "verifiedPayloadMetadataCommit": "e5b3ae668b024e4b6a3394ef462e1e4929416322",
+      "permalink": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/tree/e5b3ae668b024e4b6a3394ef462e1e4929416322",
+      "releaseTagPointsToInitialBaseline": true,
+      "automaticSourceCodeZipIsNotCompleteStageSnapshot": true,
+      "requiredPayloadArchiveCount": 12
+    }
   },
   "legacySourceInvariant": {
     "pairs": 64,

@@ -31,3 +31,5 @@
 21份精确当前SHA均已完成1倍速整段离线技术播放（新SYS-A2/A110/A111全帧且0掉帧）；均为静音技术检查，不计主观听审。当前播放器有21卡、170章跳转和424条字幕核查材料。
 
 最后应用的实际补丁：[qiming-FINAL-small-v3-public.tar.gz](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-FINAL-small-v3-public.tar.gz)。该包已包含旧小tail的必要安全内容；不要下载未发布的v1/v2或无public后缀试包。
+
+恢复入口的版本边界：Release标签wip-20261020仍指初始baseline；GitHub自动生成的Source code(zip/tar.gz)对应旧标签，不能当完整交接。请读取main分支及上列12个实际归档附件。已核对的最终payload交接版本为[e5b3ae6](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/tree/e5b3ae668b024e4b6a3394ef462e1e4929416322)；本段说明随后补于main，不改变12包字节。
