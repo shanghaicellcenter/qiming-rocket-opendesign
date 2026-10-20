@@ -1,9 +1,15 @@
 {
-  "schema": "qiming-current-backlog-v1",
-  "preparedAtUTC": "2026-10-20T03:22:45.888845+00:00",
-  "factsCutoffUTC": "2026-10-20T03:22:45.888845+00:00",
+  "schema": "qiming-current-backlog-v2",
+  "preparedAtUTC": "2026-10-20T03:59:23.188583+00:00",
+  "factsCutoffUTC": "2026-10-20T04:08:07.332304+00:00",
   "fullCourseCompleted": false,
   "tasks": [
+    {
+      "id": "P0_FINAL_OVERLAY_AND_TINY",
+      "priority": 0,
+      "status": "FINAL_overlay_API_upload_confirmed_finaltiny_tailv3_pending_root_prep",
+      "next": "FINAL517432571-byte archive confirmed exact API digest036eb477...; apply it before AFTER-FINALdelta-v2; finaltiny last only if root actually creates/validates/uploads it. Do not claim all assets published before confirmation."
+    },
     {
       "id": "P0_FREEZE_AND_PUBLISH",
       "priority": 0,
@@ -13,14 +19,14 @@
     {
       "id": "P0_ROOT_HANDOFF_SYNC",
       "priority": 0,
-      "status": "reviewed_by_root_prepared_for_current_push",
-      "next": "Refresh this checkpoint and GitHub exact asset/restore receipts again after final increments; last git push proof recorded separately."
+      "status": "drafts_staged_only_root_merge_commit_push_and_readback_pending",
+      "next": "Review staged six documents and evidence; fill FINAL overlay and optional finaltiny only from actual finished upload/API/restore receipts; root alone edits repository and pushes."
     },
     {
       "id": "P0_MEDIA_AND_RAW_COVERAGE",
       "priority": 0,
-      "status": "local_sources_present_publication_partial",
-      "next": "Preserve35native raws+ASR/config/PCM,19narrateddrafts inclA2, A110/111 existing audio,23sfinishedASR. Compare final latestincrement manifest against checkpoint; no newTTS needed."
+      "status": "21_drafts_and_35_native_raws_preserved_11_big_archives_confirmed_finaltiny_pending",
+      "next": "Preserve21 drafts1901.125s,35native raws/ASR/config/PCM and existing23sASR. Eleven archives including FINAL overlay confirmed uploaded; finaltiny remains pending. No new TTS."
     },
     {
       "id": "P0_CORE_RESTORE",
@@ -31,20 +37,20 @@
     {
       "id": "P0_REMAINING_REMOTE_RESTORE",
       "priority": 0,
-      "status": "partial_pending_per_asset_receipts",
-      "next": "Fresh public download each uploaded source/media archive and verify fullSHA/members, then actual scene/player reopening as feasible beforedeadline. List any unverified asset explicitly."
+      "status": "4_archives_full_fresh_member_verified_7_other_bigarchives_pending",
+      "next": "Core815/original385/sourcevoice2344/media-delta127 fresh full members verified; recovered A104 opened/rendered and selected deltaSH040decoded. Remaining7 large archives and finaltiny fresh/merged whole project remain pending."
     },
     {
       "id": "A2_FINAL_DRAFT",
       "priority": 1,
-      "status": "19source_clips_complete_narrow_thinking_overlay_repair",
-      "next": "Root inspect final newly encoded SHA, actual subtitle/action/PCM pause, then include movie/source/plan in final overlay and update player. First63251 retained historical and not accepted."
+      "status": "current302b78_root_discrete_PCM_and_full_normal_speed_technical_passed_subjective_pending",
+      "next": "Preserve current302b78ff draft, sourceebd13, preferredSH050c516/44406058,105-action contract and original PCM. Root exact-current-SHA review/actual listening still separate; no new TTS."
     },
     {
       "id": "A1_10_A1_11",
       "priority": 1,
-      "status": "native_audio_and_dualASR_local_root_working_voice_gates_passed_formal_sources_and_composition_in_progress",
-      "next": "Continue only with existing frozen contracts/nativevoice; first confirm appropriate currentpreview/phrasePCMgate. If deadline nears, archive unfinishedsource+voice+plan instead of rushing claim."
+      "status": "both_narrated_review_drafts_encoded_94s_and83_25s",
+      "next": "Use current c111bfee A110 and169509b1 A111 preserved drafts and source/voice/plan; independent current-SHA review and listening remain required."
     },
     {
       "id": "ASR23_WINDOW",
@@ -55,8 +61,8 @@
     {
       "id": "LEGACY64",
       "priority": 1,
-      "status": "semantic_invariants_passed_release_pack_local",
-      "next": "Upload actuallegacyincrement; preserve initialcameraassertion history and session_uid-only correction, original-to-releaseSHAmap and outlinegeometryproof. Do not equate invariants with subjectivevisualacceptance."
+      "status": "semantic_invariants_passed_legacy_archive_API_upload_confirmed_fresh_restore_pending",
+      "next": "Keep original-to-release mapping and corrected session_uid-only invariant diagnostics; fresh public full-member restore and subjective visual review remain pending."
     },
     {
       "id": "FULL226_COURSE",
@@ -64,8 +70,8 @@
       "status": "incomplete_zero_finalaccepted",
       "remaining": {
         "canonicalPlanned": 226,
-        "representedPilotdraftIds": 20,
-        "notRepresentedByNarratedPilot": 206,
+        "representedPilotdraftIds": 21,
+        "notRepresentedByNarratedPilot": 205,
         "customDrafts": 0,
         "canonicalPrincipleP01P08Drafts": 0
       },

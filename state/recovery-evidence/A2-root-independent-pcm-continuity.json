@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "sourceAudioSha256": "0ebd644c39a4a39323cc934e966e345aa77b4805514a012217bb9767c1ef5d56",
+  "outputAudioSha256": "85099aced5f4bf8e01baa03fe30759592e77f0843838aa9825e6a12c42132eb4",
+  "allOriginalSpeechPcmRetainedByteExactly": true,
+  "preRollSamples": 19200,
+  "insertedZeroSamples": 72000,
+  "cutSourceSample": 5560563,
+  "actualListening": "not performed"
+}

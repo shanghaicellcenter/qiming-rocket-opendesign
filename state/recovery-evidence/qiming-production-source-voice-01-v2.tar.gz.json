@@ -1,0 +1,22 @@
+{
+  "archive": "qiming-production-source-voice-01-v2.tar.gz",
+  "bytes": 506026861,
+  "sha256": "cf225ab547db354d170b6703dd936df83ed5608c1cac79d3889aefc9b2a84680",
+  "atUTC": "2026-10-20T03:30:55.473468+00:00",
+  "freshPublicRedownload": true,
+  "allMembersReadSHA256AndWrittenThenRereadSHA256": true,
+  "members": 2344,
+  "separateNewExtractionDirectory": true,
+  "selectedSamples": [
+    {
+      "member": "outputs/rocket-v2/逐件动态样章/A1-04/A1-04_原料与成品动态样章.blend",
+      "retainedSample": "remote-selected-samples/qiming-production-source-voice-01-v2--A1-04_原料与成品动态样章.blend",
+      "sha256": "902b82464d67f8dfff323c56952e66b65598ab26468d62c81d974aeb3478777f",
+      "bytes": 38710395
+    }
+  ],
+  "temporaryFullTreeRemovedAfterSuccessfulCheck": true,
+  "sameMergedWholeProjectReopen": "not established by this per-package check",
+  "subjectiveAcceptance": false,
+  "temporaryDownloadedTarRemovedAfterFullCheck": true
+}

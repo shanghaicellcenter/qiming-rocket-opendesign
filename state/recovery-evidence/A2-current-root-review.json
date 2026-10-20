@@ -1,0 +1,58 @@
+{
+  "id": "A2",
+  "createdAtUTC": "2026-10-20T03:54:28.155060+00:00",
+  "videoSha256": "302b78ffb2fecf71c9edf9d782a005e7fd9aef88c0a2e5b1e25f8a39b31b1a7e",
+  "video": "${WORKSPACE_ROOT}/outputs/rocket-v2/系统动态样章/A2/A2_系统中文动态样章_核查稿.mp4",
+  "frames": 5971,
+  "durationSeconds": 248.79166666666666,
+  "fullDecode": "passed source sampler",
+  "rootOpenedAllListedBoards": true,
+  "rootActuallyOpenedCurrentOrByteIdenticalReviewedBoards": 0,
+  "boards": [],
+  "additionalFullSizeViewed": [
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f1341.png",
+      "sha256": "4f6b6e72f8b46a0ff3c7a75f03232fb2cb0d5191bd53b240eb791d19ec4f3b11"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f2451.png",
+      "sha256": "0807527f13b1b2cedbae803a53eabf572f4ec81e1cac6e45f9839e0d2dbc6d6d"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f4832.png",
+      "sha256": "5434821c9b54676254aa02525049d7ad8b5ab4fed849b4682887452f35594768"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f4867.png",
+      "sha256": "c33769e49c44e45f27b833f034da7aa991527fdc5db6ed2e5028061f8a8a20a8"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f5658.png",
+      "sha256": "5f4b3ae331b81c2ee4cb617a555f9e9c2c9a79cd8cd79cdb0474557535ae1f0e"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f5659.png",
+      "sha256": "466c447134bf81d2166f9a35dcdbf57827b01068dce2656d74b7ce9241e4285a"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-f5970.png",
+      "sha256": "1828a55e9f07a5ba792c51e4133c5f364dba67ad29cea2dc7aa86e4c50d60e60"
+    }
+  ],
+  "reviewScope": "A2 independent agent opened full 68 action boards and 68 sentence boards plus 23 full frames; root opened seven full current movie frames and previously 19 source chapter boards. For A110/111 root opened every caption start/middle/end board and pause board plus four full frames; source author reviewed 2fps contacts. Root does not claim opening unlisted 2fps boards.",
+  "delegatedReview": "${WORKSPACE_ROOT}/work/rocket-v2/full-course-production/system-pilots/A2/narrated/actual-encoded-review/independent-curriculum-audit-review-current.json",
+  "allIdentifiedVisualIssuesClosed": true,
+  "workingDraftGate": "passed discrete scope only",
+  "pcmContinuity": {
+    "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/system-pilot-composite/A2/root-independent-pcm-continuity.json",
+    "sha256": "0d68c7e00b56f41b29e9367c0efa6cda8b2d154ad2d6cf00e5748f3aaadda1e7"
+  },
+  "actualListening": "pending human hearing",
+  "continuousVisualContentReview": "pending subjective continuous review",
+  "fullCourseAccepted": false,
+  "humanAccepted": false,
+  "limitations": [
+    "discrete visual/PCM/ASR checks do not replace subjective hearing or full course acceptance",
+    "original geometry is distinguished from separately marked explanatory diagrams"
+  ]
+}

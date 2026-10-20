@@ -1,0 +1,24 @@
+{
+  "archive": "original-sources-20261020.tar.gz",
+  "bytes": 315216982,
+  "sha256": "bfefb72cd231596d26d25a9217f85e4746e5ab67c1423390f0b0fc6b41fdd99b",
+  "atUTC": "2026-10-20T03:30:51.301980+00:00",
+  "freshPublicRedownload": true,
+  "allMembersReadSHA256AndWrittenThenRereadSHA256": true,
+  "members": 385,
+  "separateNewExtractionDirectory": true,
+  "selectedSamples": [
+    {
+      "member": "original-sources/英文原件/Mojave Sphinx CAD - R01.zip",
+      "retainedSample": "remote-selected-samples/original-sources-20261020--Mojave Sphinx CAD - R01.zip",
+      "sha256": "a7af67f407d2729f70154a7f5b98113c31b8249661527d6a9ed72e67e68b4dd5",
+      "bytes": 259496290,
+      "actualZipCRCAllEntries": "passed",
+      "zipMembers": 149
+    }
+  ],
+  "temporaryFullTreeRemovedAfterSuccessfulCheck": true,
+  "sameMergedWholeProjectReopen": "not established by this per-package check",
+  "subjectiveAcceptance": false,
+  "temporaryDownloadedTarRemovedAfterFullCheck": true
+}

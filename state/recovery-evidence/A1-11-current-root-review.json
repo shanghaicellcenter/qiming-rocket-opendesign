@@ -1,0 +1,83 @@
+{
+  "id": "A1-11",
+  "createdAtUTC": "2026-10-20T03:54:28.161759+00:00",
+  "videoSha256": "169509b116c5e1a7e93e67a451b7f0dc3d20eda68402708eaf7ff3cf9afa5b28",
+  "video": "${WORKSPACE_ROOT}/outputs/rocket-v2/逐件动态样章/A1-11/A1-11_逐件中文动态样章_核查稿.mp4",
+  "frames": 1998,
+  "durationSeconds": 83.25,
+  "fullDecode": "passed source sampler",
+  "rootOpenedAllListedBoards": true,
+  "rootActuallyOpenedCurrentOrByteIdenticalReviewedBoards": 9,
+  "boards": [
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-01.jpg",
+      "sha256": "bb26d86c2faf68a9971dd9b4ebcd8aa065881d40ab3e59528a45d30c60ebeb6c"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-02.jpg",
+      "sha256": "aeb1b6433d1d4cf0c8d62f0ac7fec405653669ab2187332aca64cac3a29b6543"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-03.jpg",
+      "sha256": "296d25661efaba12534bd417fb79a9b861396e4ef5773e7a1b2e47005f4b1103"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-04.jpg",
+      "sha256": "490ee718ec626102bf1d955d43c822c7cbc543140f1544140f0363caaaa6cb3f"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-05.jpg",
+      "sha256": "3d39338e60690cdae2560fc6294c5944742ae711f284453e0cc7a0427a0e9007"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-06.jpg",
+      "sha256": "d33e0cf85f81c7e20713753d9847c4c52acf5a9139ecffa3e9bd35a7851a76c3"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-07.jpg",
+      "sha256": "8b27b510ecad545ee270ef3ad0d40758f3259d66da985a0881a16960d1cd2e80"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/sentences-08.jpg",
+      "sha256": "5e198f82da0883fd41d88fcc92d0e9ec46852069c3f90af702e3a33467eb243d"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/thinking-pause.jpg",
+      "sha256": "23c9addababb789b1e0fea4696e8b4899019756226d2622836570d5247b12543"
+    }
+  ],
+  "additionalFullSizeViewed": [
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/root-f1047.png",
+      "sha256": "4ebd89a38fe89ffd81ae69303223864a4ca7c7e47088a4a845c2041764f2a328"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/root-f1141.png",
+      "sha256": "ee6bb0af55efa580895e07b240997bfa49703c0ed6446883643c6ed39e0f7624"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/root-f1815.png",
+      "sha256": "cec3613777be334af65c2359aa83cc7d8704016dff6006a570a122bc73de43cd"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/root-f1816.png",
+      "sha256": "ea08898fb3adf5c09b8ade955e9021fcb945cfe24d4a1439e582bccf6492c748"
+    }
+  ],
+  "reviewScope": "A2 independent agent opened full 68 action boards and 68 sentence boards plus 23 full frames; root opened seven full current movie frames and previously 19 source chapter boards. For A110/111 root opened every caption start/middle/end board and pause board plus four full frames; source author reviewed 2fps contacts. Root does not claim opening unlisted 2fps boards.",
+  "delegatedReview": "${WORKSPACE_ROOT}/work/rocket-v2/full-course-production/pilots/A1-10/A110-A111-final-review-index.json",
+  "allIdentifiedVisualIssuesClosed": true,
+  "workingDraftGate": "passed discrete scope only",
+  "pcmContinuity": {
+    "file": "${WORKSPACE_ROOT}/work/rocket-v2/qa/part-pilot-composites/A1-11/root-independent-pcm-continuity.json",
+    "sha256": "6f13ce7a21de8c73c5bd48d4337f0c8e5d96fb4a1a076affbfed81d81bfa746f"
+  },
+  "actualListening": "pending human hearing",
+  "continuousVisualContentReview": "pending subjective continuous review",
+  "fullCourseAccepted": false,
+  "humanAccepted": false,
+  "limitations": [
+    "discrete visual/PCM/ASR checks do not replace subjective hearing or full course acceptance",
+    "original geometry is distinguished from separately marked explanatory diagrams"
+  ]
+}

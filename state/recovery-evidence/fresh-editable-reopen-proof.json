@@ -1,0 +1,1737 @@
+{
+  "id": "fresh-editable-recovered-member-reopen",
+  "checkedAtUTC": "2026-10-20T03:45:44.499768+00:00",
+  "blenderVersion": "5.2.2 LTS",
+  "backgroundFactoryStartup": true,
+  "sourceFile": "${WORKSPACE_ROOT}/work/rocket-deadline-publish/remote-selected-samples/qiming-production-source-voice-01-v2--A1-04_原料与成品动态样章.blend",
+  "sourceSha256Before": "902b82464d67f8dfff323c56952e66b65598ab26468d62c81d974aeb3478777f",
+  "expectedSourceSha256": "902b82464d67f8dfff323c56952e66b65598ab26468d62c81d974aeb3478777f",
+  "sourceOriginBoundary": "Parent reports actual public GitHub re-download/2344-member SHA verification and isolated extraction. This independent task checks only the retained recovered member, not the archive/network download.",
+  "scenes": [
+    {
+      "name": "A1-04_SH010",
+      "camera": "A1-04SH010_camera",
+      "frameRange": [
+        1,
+        240
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 13,
+      "outlinedCurveObjects": 2,
+      "fontObjects": 0
+    },
+    {
+      "name": "A1-04_SH020",
+      "camera": "A1-04SH020_camera",
+      "frameRange": [
+        1,
+        240
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 11,
+      "outlinedCurveObjects": 1,
+      "fontObjects": 0
+    },
+    {
+      "name": "A1-04_SH030",
+      "camera": "A1-04SH030_camera",
+      "frameRange": [
+        1,
+        240
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 20,
+      "outlinedCurveObjects": 7,
+      "fontObjects": 0
+    },
+    {
+      "name": "A1-04_SH040",
+      "camera": "A1-04SH040_camera",
+      "frameRange": [
+        1,
+        240
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 13,
+      "outlinedCurveObjects": 6,
+      "fontObjects": 0
+    },
+    {
+      "name": "A1-04_SH050",
+      "camera": "A1-04SH050_camera",
+      "frameRange": [
+        1,
+        240
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 14,
+      "outlinedCurveObjects": 1,
+      "fontObjects": 0
+    },
+    {
+      "name": "A1-04_SH060",
+      "camera": "A1-04SH060_camera",
+      "frameRange": [
+        1,
+        336
+      ],
+      "fps": 24,
+      "renderEngine": "BLENDER_EEVEE",
+      "meshObjects": 20,
+      "outlinedCurveObjects": 3,
+      "fontObjects": 0
+    }
+  ],
+  "meshObjects": [
+    {
+      "object": "course_id",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "course_id.001",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "course_id.002",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "course_id.003",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.015",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "course_id.004",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.016",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "course_id.005",
+      "vertices": 9133,
+      "polygons": 9079,
+      "meshData": "course_id.017",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "启明火箭 / A1-04 贮箱接口环毛坯",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "exact_native_inrg",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.215",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 27.135274468972792,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "independent_rubber_ring",
+      "vertices": 4096,
+      "polygons": 8192,
+      "meshData": "Mesh.225",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "seal_top",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.022",
+        "source_world_mesh_sha256": "4e370b4f9dba0f43761bf51e3b2c2d8811bde09517c1924cd15f94da5e0e1f1a",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 25.116477969688926,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__9452K226_OilResistantBunaNORing2_sX0RXERV0a0",
+        "sourceDisplayName": "9452K226_Oil-Resistant Buna-N O-Ring-2"
+      }
+    },
+    {
+      "object": "item_original_card",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "item_original_card",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "limits",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "limits.001",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "limits.002",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "limits.003",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.015",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "limits.004",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.016",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "limits.005",
+      "vertices": 21449,
+      "polygons": 21313,
+      "meshData": "limits.017",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "只说明形态、来源和作用；不演示制造或安装，不作尺寸/性能认证",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "long_tube_category",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.010",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-03",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-03.blend",
+        "source_input_sha256": "a89e98b6c65a116d8c2bd898d920d36ef2ec13d7ae53b7c330f3b5e0ee1c80fe",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "89fc59a72e88e0095007d757954637d0e61aeaff1ed131e78134da1551f80608",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.26
+      }
+    },
+    {
+      "object": "native_scope",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "native_scope.001",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "native_scope.002",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "native_scope.003",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.015",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "native_scope.004",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.016",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "native_scope.005",
+      "vertices": 13038,
+      "polygons": 12974,
+      "meshData": "native_scope.017",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：原生 CAD 显示副本 · 颜色辅助辨认",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_13",
+      "vertices": 4787,
+      "polygons": 4755,
+      "meshData": "note_13.006",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：已有空腔",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_13.001",
+      "vertices": 4651,
+      "polygons": 4635,
+      "meshData": "note_13.007",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "金属接口环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_13.002",
+      "vertices": 15158,
+      "polygons": 15084,
+      "meshData": "note_13.008",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "哪件参与结构固定，哪件负责贴面封缝？",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_14",
+      "vertices": 3994,
+      "polygons": 3964,
+      "meshData": "note_14.006",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "实心圆棒",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_14.001",
+      "vertices": 7870,
+      "polygons": 7836,
+      "meshData": "note_14.007",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "成品：带最终连接孔",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_14.002",
+      "vertices": 8247,
+      "polygons": 8213,
+      "meshData": "note_14.008",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "独立橡胶密封圈",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_14.003",
+      "vertices": 8213,
+      "polygons": 8161,
+      "meshData": "note_14.009",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "物项栏原文：1/2 英寸壁厚",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_14.004",
+      "vertices": 313,
+      "polygons": 319,
+      "meshData": "note_14.010",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "甲",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_15",
+      "vertices": 4518,
+      "polygons": 4494,
+      "meshData": "note_15.003",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "长薄壁管",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_15.001",
+      "vertices": 10322,
+      "polygons": 10252,
+      "meshData": "note_15.004",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料示意不代替接口核对",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_15.002",
+      "vertices": 10191,
+      "polygons": 10139,
+      "meshData": "note_15.005",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "供应商描述原文：1/4 英寸壁厚",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_15.003",
+      "vertices": 579,
+      "polygons": 577,
+      "meshData": "note_15.006",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "乙",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_16",
+      "vertices": 7502,
+      "polygons": 7450,
+      "meshData": "note_16.006",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "当前：短厚壁空心管",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_16.001",
+      "vertices": 12085,
+      "polygons": 12013,
+      "meshData": "note_16.007",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原文冲突保留，不裁定实际供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_16.002",
+      "vertices": 8121,
+      "polygons": 8089,
+      "meshData": "note_16.008",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "甲：金属接口环参与固定",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_17",
+      "vertices": 5323,
+      "polygons": 5291,
+      "meshData": "note_17.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "参与结构固定",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_17.001",
+      "vertices": 8221,
+      "polygons": 8177,
+      "meshData": "note_17.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "左图只认厚壁管类别",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_17.002",
+      "vertices": 8973,
+      "polygons": 8947,
+      "meshData": "note_17.003",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "乙：橡胶圈贴面封缝",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_18",
+      "vertices": 14893,
+      "polygons": 14795,
+      "meshData": "note_18.004",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "均为独立原料类别示意；不是先后步骤",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_18.001",
+      "vertices": 14271,
+      "polygons": 14191,
+      "meshData": "note_18.005",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "数字为来源引文，不作为选型/测量结果",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_18.002",
+      "vertices": 11847,
+      "polygons": 11767,
+      "meshData": "note_18.006",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料 → 成品：材料去向，不是另装一套环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_20",
+      "vertices": 4086,
+      "polygons": 4042,
+      "meshData": "note_20.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "燃料端",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_21",
+      "vertices": 4458,
+      "polygons": 4422,
+      "meshData": "note_21.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "氧化剂端",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_21.001",
+      "vertices": 8037,
+      "polygons": 8017,
+      "meshData": "note_21.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "贴面，限制沿缝通路",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_22",
+      "vertices": 14482,
+      "polygons": 14396,
+      "meshData": "note_22",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "职责符号不表示安装或密封性能",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_27",
+      "vertices": 7318,
+      "polygons": 7272,
+      "meshData": "note_27.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "端部原生局部放大",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_27.001",
+      "vertices": 5690,
+      "polygons": 5638,
+      "meshData": "note_27.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "材料来源记录",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_28",
+      "vertices": 9349,
+      "polygons": 9315,
+      "meshData": "note_28.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原装配：两只金属接口环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_32",
+      "vertices": 5127,
+      "polygons": 5105,
+      "meshData": "note_32.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "端盖 → 金属环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_33",
+      "vertices": 7815,
+      "polygons": 7783,
+      "meshData": "note_33.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "连接螺钉 → 筒壁",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "note_34",
+      "vertices": 12135,
+      "polygons": 12079,
+      "meshData": "note_34.001",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "定性力路；连接件作用用箭头表示",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "one_stock_shape_no_dimension_choice",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.375
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_INRG_fuel",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.229",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_INRG_ox",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.230",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_ox",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.034",
+        "source_world_mesh_sha256": "b6625b634a26ddb6da5e40c801397db7b6474bd7c03cf68456ee67ee0a5131ed",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_TANK",
+      "vertices": 1626,
+      "polygons": 1694,
+      "meshData": "Mesh.228",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_material_source_after_answer",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.95
+      }
+    },
+    {
+      "object": "quiz_metal",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.226",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 23.68169408201262,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_rubber",
+      "vertices": 4096,
+      "polygons": 8192,
+      "meshData": "Mesh.227",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "seal_top",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.022",
+        "source_world_mesh_sha256": "4e370b4f9dba0f43761bf51e3b2c2d8811bde09517c1924cd15f94da5e0e1f1a",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 25.116477969688926,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__9452K226_OilResistantBunaNORing2_sX0RXERV0a0",
+        "sourceDisplayName": "9452K226_Oil-Resistant Buna-N O-Ring-2"
+      }
+    },
+    {
+      "object": "raw_interface_ring_stock",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.375
+      }
+    },
+    {
+      "object": "SH010_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH010_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "SH020_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH020_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "SH030_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH030_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "SH040_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH040_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "SH050_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH050_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "SH060_backdrop",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "SH060_backdrop.002",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "shot_title",
+      "vertices": 7460,
+      "polygons": 7416,
+      "meshData": "shot_title.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH010 · 先认短厚壁管材",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "shot_title.001",
+      "vertices": 7676,
+      "polygons": 7634,
+      "meshData": "shot_title.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH020 · 原料与金属成品环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "shot_title.002",
+      "vertices": 7483,
+      "polygons": 7443,
+      "meshData": "shot_title.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH030 · 在两端找成品环",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "shot_title.003",
+      "vertices": 8337,
+      "polygons": 8313,
+      "meshData": "shot_title.015",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH040 · 金属环与橡胶圈",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "shot_title.004",
+      "vertices": 8534,
+      "polygons": 8470,
+      "meshData": "shot_title.016",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH050 · 原资料的表述差异",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "shot_title.005",
+      "vertices": 5096,
+      "polygons": 5064,
+      "meshData": "shot_title.017",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "SH060 · 先辨认作用",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "solid_bar_category",
+      "vertices": 192,
+      "polygons": 98,
+      "meshData": "Cylinder.007",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-02",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-02.blend",
+        "source_input_sha256": "e2be86b27251e6f98245336be94d61dc78402ecd6c366c5ac6bdafcf63bb446b",
+        "original_source_object": "Solid unmachined bar",
+        "source_world_mesh_sha256": "37ebf950d05e38f687dd66ccbe7608ba03ebb92072842d19b1bb03a6ba079248",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.95
+      }
+    },
+    {
+      "object": "stock_scope",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "stock_scope.001",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "stock_scope.002",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "stock_scope.003",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.015",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "stock_scope.004",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.016",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "stock_scope.005",
+      "vertices": 14808,
+      "polygons": 14706,
+      "meshData": "stock_scope.017",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "caption_text": "原料：既有类型示意 · 非实拍 / 不核供货尺寸",
+        "caption_is_outline": true
+      }
+    },
+    {
+      "object": "structural_metal_ring",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.224",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 23.68169408201262,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "supplier_original_card",
+      "vertices": 4,
+      "polygons": 1,
+      "meshData": "supplier_original_card",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04"
+      }
+    },
+    {
+      "object": "thick_short_tube_category",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.011",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.225
+      }
+    },
+    {
+      "object": "two_real_inrg_context_fuel_cap",
+      "vertices": 1271,
+      "polygons": 1190,
+      "meshData": "Mesh.217",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "fuel_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.025",
+        "source_world_mesh_sha256": "7d685832380a91e453a5de90fb0cd70df82c05473a72bc5960ec9c2ae1632cfc",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__BKHDFLO2384NPT2X250CTankBulkheadFuelMojaveSphinx1_dp0PY0d0k0hLe0z07CHx0",
+        "sourceDisplayName": "BKHD-FL-O238-4NPT-2X250C Tank Bulkhead, Fuel, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_INRG_fuel",
+      "vertices": 1890,
+      "polygons": 1863,
+      "meshData": "Mesh.219",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_INRG_ox",
+      "vertices": 1844,
+      "polygons": 1841,
+      "meshData": "Mesh.220",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_ox",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.034",
+        "source_world_mesh_sha256": "b6625b634a26ddb6da5e40c801397db7b6474bd7c03cf68456ee67ee0a5131ed",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_ox_cap",
+      "vertices": 1258,
+      "polygons": 1192,
+      "meshData": "Mesh.218",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "ox_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.033",
+        "source_world_mesh_sha256": "1511154f4904c36d699d7d2e2ec8300be5565a977741d41edcdf90552f20a16b",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__BKHDOXO2388NPT4NPTTankBulkheadOxidizerMojaveSphinx1_dr0NW0f0m0YMg0W17Gy0uecG",
+        "sourceDisplayName": "BKHD-OX-O238–8NPT-4NPT Tank Bulkhead, Oxidizer, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_TANK",
+      "vertices": 902,
+      "polygons": 902,
+      "meshData": "Mesh.216",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_fuel_cap",
+      "vertices": 1271,
+      "polygons": 1190,
+      "meshData": "Mesh.222",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "fuel_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.025",
+        "source_world_mesh_sha256": "7d685832380a91e453a5de90fb0cd70df82c05473a72bc5960ec9c2ae1632cfc",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__BKHDFLO2384NPT2X250CTankBulkheadFuelMojaveSphinx1_dp0PY0d0k0hLe0z07CHx0",
+        "sourceDisplayName": "BKHD-FL-O238-4NPT-2X250C Tank Bulkhead, Fuel, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_INRG_fuel",
+      "vertices": 1998,
+      "polygons": 1729,
+      "meshData": "Mesh.223",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_TANK",
+      "vertices": 684,
+      "polygons": 550,
+      "meshData": "Mesh.221",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    }
+  ],
+  "meshDatablocks": 166,
+  "meshObjectCount": 91,
+  "totalMeshVertices": 684790,
+  "fontObjectCount": 0,
+  "fontDatablocks": [],
+  "dependencyChecks": [
+    {
+      "type": "image",
+      "name": "Render Result",
+      "filepath": "",
+      "packed": false,
+      "builtinOrNoExternalFile": true,
+      "resolvedFile": null,
+      "externalExists": null,
+      "requiredExternalMissing": false,
+      "isMissingFlag": false
+    },
+    {
+      "type": "image",
+      "name": "Viewer Node",
+      "filepath": "",
+      "packed": false,
+      "builtinOrNoExternalFile": true,
+      "resolvedFile": null,
+      "externalExists": null,
+      "requiredExternalMissing": false,
+      "isMissingFlag": false
+    }
+  ],
+  "requiredMissingExternalDependencies": [],
+  "datablocksFlaggedMissing": [],
+  "renderScene": "A1-04_SH020",
+  "renderCamera": "A1-04SH020_camera",
+  "renderFrame": 120,
+  "renderFile": "${WORKSPACE_ROOT}/work/rocket-deadline-publish/fresh-editable-reopen-proof/recovered-A1-04-camera-proof-640x360.png",
+  "renderResolution": [
+    640,
+    360
+  ],
+  "originalSceneSettingsBeforeMemoryOnlyOverride": {
+    "resolution": [
+      1280,
+      720,
+      100
+    ],
+    "frame": 120,
+    "engine": "BLENDER_EEVEE"
+  },
+  "sourceSaved": false,
+  "editableSourceMutation": "None; render resolution/output path adjusted in memory only, no save operator.",
+  "actualVisualReview": "Actually opened640x360 render: left hollow raw tube and right perforated native metal interface ring, Chinese title and nature labels visible. Not blank; no observed missing-font/magenta-texture symptom in selected frame.",
+  "wholeCourseAccepted": false,
+  "subjectiveListeningAccepted": false,
+  "sourceSha256After": "902b82464d67f8dfff323c56952e66b65598ab26468d62c81d974aeb3478777f",
+  "sourceSha256Unchanged": true,
+  "sourceSizeAndMtimeUnchanged": true,
+  "renderFileSha256": "adc508ab1fd6e3966b82171385c2746b7230d912ec4cee72546ab3190ba6586b",
+  "reopenAndRender": "passed",
+  "wallSeconds": 1.490804750006646,
+  "actualRenderVisuallyNonblank": true,
+  "pixelStatistics": {
+    "rgbStandardDeviation": 23.070111982973906,
+    "fractionPixelsBelowLuma180": 0.05524305555555555,
+    "width": 640,
+    "height": 360
+  },
+  "embeddedNativeProvenanceMeshRecords": [
+    {
+      "object": "exact_native_inrg",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.215",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 27.135274468972792,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "independent_rubber_ring",
+      "vertices": 4096,
+      "polygons": 8192,
+      "meshData": "Mesh.225",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "seal_top",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.022",
+        "source_world_mesh_sha256": "4e370b4f9dba0f43761bf51e3b2c2d8811bde09517c1924cd15f94da5e0e1f1a",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 25.116477969688926,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__9452K226_OilResistantBunaNORing2_sX0RXERV0a0",
+        "sourceDisplayName": "9452K226_Oil-Resistant Buna-N O-Ring-2"
+      }
+    },
+    {
+      "object": "long_tube_category",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.010",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-03",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-03.blend",
+        "source_input_sha256": "a89e98b6c65a116d8c2bd898d920d36ef2ec13d7ae53b7c330f3b5e0ee1c80fe",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "89fc59a72e88e0095007d757954637d0e61aeaff1ed131e78134da1551f80608",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.26
+      }
+    },
+    {
+      "object": "one_stock_shape_no_dimension_choice",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.013",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.375
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_INRG_fuel",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.229",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_INRG_ox",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.230",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_ox",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.034",
+        "source_world_mesh_sha256": "b6625b634a26ddb6da5e40c801397db7b6474bd7c03cf68456ee67ee0a5131ed",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_actual_two_inrg_TANK",
+      "vertices": 1626,
+      "polygons": 1694,
+      "meshData": "Mesh.228",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_material_source_after_answer",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.014",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.95
+      }
+    },
+    {
+      "object": "quiz_metal",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.226",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 23.68169408201262,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "quiz_rubber",
+      "vertices": 4096,
+      "polygons": 8192,
+      "meshData": "Mesh.227",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "seal_top",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.022",
+        "source_world_mesh_sha256": "4e370b4f9dba0f43761bf51e3b2c2d8811bde09517c1924cd15f94da5e0e1f1a",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 25.116477969688926,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__9452K226_OilResistantBunaNORing2_sX0RXERV0a0",
+        "sourceDisplayName": "9452K226_Oil-Resistant Buna-N O-Ring-2"
+      }
+    },
+    {
+      "object": "raw_interface_ring_stock",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.012",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.375
+      }
+    },
+    {
+      "object": "solid_bar_category",
+      "vertices": 192,
+      "polygons": 98,
+      "meshData": "Cylinder.007",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-02",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-02.blend",
+        "source_input_sha256": "e2be86b27251e6f98245336be94d61dc78402ecd6c366c5ac6bdafcf63bb446b",
+        "original_source_object": "Solid unmachined bar",
+        "source_world_mesh_sha256": "37ebf950d05e38f687dd66ccbe7608ba03ebb92072842d19b1bb03a6ba079248",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 0.95
+      }
+    },
+    {
+      "object": "structural_metal_ring",
+      "vertices": 3596,
+      "polygons": 3660,
+      "meshData": "Mesh.224",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 23.68169408201262,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "thick_short_tube_category",
+      "vertices": 384,
+      "polygons": 384,
+      "meshData": "Unmachined open tube.011",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "raw_A1-04",
+        "source_file": "${WORKSPACE_ROOT}/outputs/rocket/stock-detail-sources/A1-04.blend",
+        "source_input_sha256": "f697e10d0d8e4e29fcb36730b00caa3aaea29eb2538470156e5612a089399b01",
+        "original_source_object": "Unmachined open tube",
+        "source_world_mesh_sha256": "b08aef1055f2c8120ad48cbef445faf7230a13b0f876126858f15a414e18bf2c",
+        "teaching_section_or_crop": false,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1.225
+      }
+    },
+    {
+      "object": "two_real_inrg_context_fuel_cap",
+      "vertices": 1271,
+      "polygons": 1190,
+      "meshData": "Mesh.217",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "fuel_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.025",
+        "source_world_mesh_sha256": "7d685832380a91e453a5de90fb0cd70df82c05473a72bc5960ec9c2ae1632cfc",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__BKHDFLO2384NPT2X250CTankBulkheadFuelMojaveSphinx1_dp0PY0d0k0hLe0z07CHx0",
+        "sourceDisplayName": "BKHD-FL-O238-4NPT-2X250C Tank Bulkhead, Fuel, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_INRG_fuel",
+      "vertices": 1890,
+      "polygons": 1863,
+      "meshData": "Mesh.219",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_INRG_ox",
+      "vertices": 1844,
+      "polygons": 1841,
+      "meshData": "Mesh.220",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_ox",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.034",
+        "source_world_mesh_sha256": "b6625b634a26ddb6da5e40c801397db7b6474bd7c03cf68456ee67ee0a5131ed",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_ox_cap",
+      "vertices": 1258,
+      "polygons": 1192,
+      "meshData": "Mesh.218",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "ox_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.033",
+        "source_world_mesh_sha256": "1511154f4904c36d699d7d2e2ec8300be5565a977741d41edcdf90552f20a16b",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxOxidizerBulkheadSubassembly1_lf0DMV0dJ/tn__BKHDOXO2388NPT4NPTTankBulkheadOxidizerMojaveSphinx1_dr0NW0f0m0YMg0W17Gy0uecG",
+        "sourceDisplayName": "BKHD-OX-O238–8NPT-4NPT Tank Bulkhead, Oxidizer, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "two_real_inrg_context_TANK",
+      "vertices": 902,
+      "polygons": 902,
+      "meshData": "Mesh.216",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_fuel_cap",
+      "vertices": 1271,
+      "polygons": 1190,
+      "meshData": "Mesh.222",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "fuel_cap",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.025",
+        "source_world_mesh_sha256": "7d685832380a91e453a5de90fb0cd70df82c05473a72bc5960ec9c2ae1632cfc",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__BKHDFLO2384NPT2X250CTankBulkheadFuelMojaveSphinx1_dp0PY0d0k0hLe0z07CHx0",
+        "sourceDisplayName": "BKHD-FL-O238-4NPT-2X250C Tank Bulkhead, Fuel, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_INRG_fuel",
+      "vertices": 1998,
+      "polygons": 1729,
+      "meshData": "Mesh.223",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "INRG_fuel",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.026",
+        "source_world_mesh_sha256": "b0fd8b697d340baaeefcd1fbb67561245ecdb68e081fcb80c6b940c8f0d82fe2",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "resolvedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__MojaveSphinxFuelBulkheadSubassambly1_hb0DIRjH/tn__INRG200S8X3125C8X250CInterfaceRingTankMojaveSphinx1_gr0V0a0f0m0cMg0W19Hy0",
+        "sourceDisplayName": "INRG-200S-8X3125C-8X250C Interface Ring, Tank, Mojave Sphinx-1"
+      }
+    },
+    {
+      "object": "upper_end_detail_TANK",
+      "vertices": 684,
+      "polygons": 550,
+      "meshData": "Mesh.221",
+      "properties": {
+        "agent_task": "groups-raw-stock-preview-A1-04",
+        "source_key": "TANK",
+        "source_file": "${WORKSPACE_ROOT}/work/rocket-v2/native-selected.blend",
+        "source_input_sha256": "a233468c7da0838e44987c0a0b06d4c77440e5a636efe4445a3f3b22bc8e6a7b",
+        "original_source_object": "Mesh.042",
+        "source_world_mesh_sha256": "ccdc9b8341f148e28451a457afe10251234bec0075e54e757a1a409e59bfb776",
+        "teaching_section_or_crop": true,
+        "source_geometry_treatment": "Detached exact surface; baked original transform; rigid reorientation and uniform display scale; only labelled cut/crop removes vertices.",
+        "display_uniform_scale_in_mesh": 1,
+        "observedSourcePrim": "/vehicle/vehicle/Default/tn__MojaveSphinxPropulsionAssembly1_cW0DOsE/tn__MojaveSphinxTankAssembly1_WQDIWC/tn__TANK36L047V2X8X313CTankTubeDrilledMojaveSphinx1_an0OTb0i0jKc0x08Du0",
+        "sourceDisplayName": "TANK-36L-047V-2X8X313C Tank Tube, Drilled, Mojave Sphinx-1"
+      }
+    }
+  ],
+  "embeddedNativeProvenanceMeshObjectCount": 22,
+  "outlinedCaptionMeshObjectCount": 61,
+  "nativeProvenanceBoundary": "Native-source identifiers and geometry hashes are embedded properties. source_file custom properties with WORKSPACE_ROOT are provenance strings, not runtime linked libraries or required load dependencies. This smoke check does not re-certify each native geometry against external originals.",
+  "allSixScenesHaveCameras": true,
+  "unusedExternalProvenancePathsResolved": false,
+  "scopeLimit": "One recovered editable release member independently reopened and one existing camera frame rendered. Not acceptance of all scenes, full course, narration, actual listening or human quality."
+}

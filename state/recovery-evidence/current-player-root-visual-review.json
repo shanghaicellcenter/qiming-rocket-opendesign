@@ -1,0 +1,27 @@
+{
+  "updatedAtUTC": "2026-10-20T04:06:13.121759+00:00",
+  "page": {
+    "file": "${WORKSPACE_ROOT}/outputs/rocket-v2/样章播放器/index.html",
+    "sha256": "d2f8a7ad99d232cf5ededce6f3fff33d02310cc4858779a0a8b5b7d54df8a00b"
+  },
+  "samples": 21,
+  "chapterSeekButtons": 170,
+  "totalSeconds": 1901.125,
+  "rootActuallyOpenedScreenshots": [
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-deadline-release-prep/browser-qa/sample-player-desktop.png",
+      "sha256": "ceb90c10c764da4de26bbc426e2f674503b23ad17ce1c2fa163b9219cfa35c81"
+    },
+    {
+      "file": "${WORKSPACE_ROOT}/work/rocket-deadline-release-prep/browser-qa/sample-player-mobile.png",
+      "sha256": "ff1890d2cf74ace69452bbc84949d4b053a3967e6ce834a620dbef819c73cd32"
+    }
+  ],
+  "observed": "Current21 catalog visible; A2 frame and19 correctly ordered chapter buttons, full text and extra SH050 source link present. Mobile one-column layout has no observed horizontal overflow. Screenshots are discrete visual review only.",
+  "functionalBrowserEvidence": {
+    "file": "${WORKSPACE_ROOT}/work/rocket-deadline-release-prep/browser-qa/sample-player-browser-review.json",
+    "sha256": "e58b7b3523919e1874c6bd2431b0f87c398a14c09ca36e7917fb3e09d8ed65fb"
+  },
+  "humanListeningPerformed": false,
+  "fullCourseAccepted": false
+}

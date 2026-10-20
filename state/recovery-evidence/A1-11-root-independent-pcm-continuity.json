@@ -1,0 +1,12 @@
+{
+  "id": "A1-11",
+  "sourceAudioSha256": "9c6c7c8a932a900c2e9827ad6e2954f18dbcc9ab392b4288d0c3543ee9668728",
+  "outputAudioSha256": "7619aad231d46e42e3fba76a4d9555b998ddbdba1af937e53fe8a7baa5a911d5",
+  "allNativePcmSamplesInOriginalOrderByteExact": true,
+  "preRollZeroSamples": 0,
+  "cutSample": 1740480,
+  "insertedThinkingZeroSamples": 72000,
+  "sampleRate": 24000,
+  "pitchOrSpeedChanged": false,
+  "actualListening": "pending"
+}

@@ -1,16 +1,34 @@
-# 阶段快照恢复入口（准确成员路径，供publisher合并）
+# 阶段快照恢复
 
-仓库是 https://github.com/shanghaicellcenter/qiming-rocket-opendesign ，Release标签为wip-20261020。先读state/checkpoint.json与backlog.json，按实际附件URL下载。截至03:08已确认4个主包真实上传，共1,690,255,232字节（含metadata为1,691,398,299字节）：core、original-sources、production-source-voice-v2与editable01。editable02/03、legacy/late-voice及native_media两包（515,037,321和115,486,589字节）已在本地生成，远端上传尚未确认；必须等真实上传清单，不猜附件名或使用LFS指针。
+Release：https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/tag/wip-20261020 。精确附件名、字节数、SHA与公开URL见state/checkpoint.json。当前11大包实际上传已由公开API回读确认；最后小tail-v3仍待根代理，不把元数据附件或计划名当成主包已上传。
 
-1. 对每个实际下载包核精确字节/SHA。每包含自己的 SNAPSHOT_MANIFEST.json，先独立验证其成员，再叠到共同干净恢复根；不要把最后覆盖的单个manifest当全部包覆盖证明。
-2. 已核packlist：core包根含 README_RESTORE.md、restore_opendesign_project.py、OpenDesign/project/ 与 OpenDesign/metadata/。source-voice-v2包根含 recovery-tools/verify_archive_stream.py、recovery-tools/verify_snapshot.py、recovery-tools/restore_workspace_paths.py。**不是recovery-tools/packaging路径**；后续增量可能另有副本，以对应清单为准。
-3. 可流式核包：`python3 recovery-tools/verify_archive_stream.py 下载包.tar.gz`；会写同目录小型manifest/校验回执。对单包独立解压根可用 `python3 recovery-tools/verify_snapshot.py 单包解压目录`。校验完成再做下面路径改写，避免改写后与原hash混淆。
-4. 恢复源包后，先运行 `python3 recovery-tools/restore_workspace_paths.py 恢复根` 做dry-run，再按检查结果追加 `--apply`，只改恢复副本中的 `${WORKSPACE_ROOT}`/`${LOCAL_USER_HOME}`占位。需要未来远端环境时才显式传 `--remote-user-home`；不要为了播放现有媒体连接Spark/A800。原Desktop输入应从original-sources包按清单恢复，不能仍依赖旧机绝对路径/OCR软链。
-5. 在恢复根提供HTTP：`python3 -m http.server 8080 --directory 恢复根`。打开 `/OpenDesign/project/index.html`、`/OpenDesign/project/course/index.html`。当前独立动态样章播放器的已知工程路径为 `outputs/rocket-v2/样章播放器/index.html`，只有对应媒体包真实上传/恢复后才能打开；core不包含全部新工作片时不要误判为缺包损坏。
-6. 接续制作入口：`work/rocket-v2/full-course-production/production-next-handoff.md`、`production-ledger.json`、`curriculum.json`；具体pilot的narration-root-v1、source-feature-matrix、root-preview-review、narrated/composition-plan与精确SHA。随早包的台账可能早于最新增量，须和本次CURRENT_CHECKPOINT及对应最新manifest合并判断，不倒退已修状态。
+## 顺序与校验
 
-原生应用恢复为可选：`python3 restore_opendesign_project.py --snapshot-root 恢复根 --opendesign-data 新建或已初始化的OpenDesign命名空间data目录 --new-project-id` 默认dry-run。`--apply`复制项目，`--register`才会注册安全元数据且要求现有app.sqlite；本轮没有执行数据库注册，不可写“应用导入通过”。不要覆盖现有项目、全局app.sqlite或账号数据。
+1. 全部9个base包：core、original-sources、production-source-voice-01-v2、editable-sources三个分包、legacy-outlined-and-late-voices、native-media-interactive两个分包。
+2. qiming-FINAL-portable-overlay-v1.tar.gz（517432571字节，SHA036eb4772628bbab82f200f37aabf02cb574ef4d36bbe9f2b15154c067885fe8）。
+3. qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz（58558139字节，SHAe4f608c24fdbee74c42a639ccfa3715488d543f67ebf2bb17331449875d441ea）。
+4. 最后小tail-v3仅在根代理实际制作、上传、给出精确URL/大小/SHA后才应用，当前pending；不猜附件名。
 
-Core实际恢复凭据：177,719,360字节，SHA256 `0305c3fc791ff5f9edaac75181db112a68d86fd0fcf2144930a4857922d1ca67`；815成员真实公开回下载后哈希通过，5隔离页面资源/JS错误0。只能接受core字节/网页恢复，不接受全阶段媒体、工程编辑、真实听感或硬件性能。
+每个包先独立验证归档SHA及其自己的SNAPSHOT_MANIFEST.json，再解压到独立目录核成员；然后按上述顺序叠到共同干净恢复根，同路径以后者覆盖。不能用最后覆盖的一个manifest证明全部包，更不能倒序让旧文件覆盖新修订。全部overlay应用后的合并目录仍需再次核查和实际重开，本轮尚未建立该整体验证。
 
-当前逐包真实状态以 state/checkpoint.json 为准；最后metadata/source和媒体增量必须按最新清单覆盖同路径。
+source-voice-v2包根有recovery-tools/verify_archive_stream.py、recovery-tools/verify_snapshot.py与recovery-tools/restore_workspace_paths.py；不是recovery-tools/packaging目录。可先运行`python3 recovery-tools/verify_archive_stream.py 下载包.tar.gz`，再运行`python3 recovery-tools/verify_snapshot.py 单包独立解压目录`。以各包实际manifest为准。
+
+核完原始hash再对恢复副本运行`python3 recovery-tools/restore_workspace_paths.py 恢复根`做dry-run；检查后才追加`--apply`，只替换${WORKSPACE_ROOT}/${LOCAL_USER_HOME}占位。需要未来远端环境时才传`--remote-user-home`；播放现有媒体不需要连Spark/A800。原Desktop输入从original-sources按清单恢复，不能依赖旧机器绝对路径或软链。
+
+## 打开已有工程
+
+`python3 -m http.server 8080 --directory 恢复根`，再打开`/OpenDesign/project/index.html`、`/OpenDesign/project/course/index.html`及`/outputs/rocket-v2/样章播放器/index.html`。媒体须来自相应包，core不含全部新工作片时不表示core损坏。
+
+core包根有README_RESTORE.md、restore_opendesign_project.py、OpenDesign/project与OpenDesign/metadata。可选的原生应用恢复命令为`python3 restore_opendesign_project.py --snapshot-root 恢复根 --opendesign-data 新命名空间data目录 --new-project-id`，默认dry-run；`--apply`才复制，`--register`才注册且需要现有app.sqlite。本轮未执行数据库注册，不宣称原生应用导入通过；不要覆盖现有项目、全局app.sqlite或账号数据。
+
+## 已证明与尚待证明
+
+- Core：实际公开回下载，815成员SHA与隔离解压通过，5页面资源/JS错误0；应用注册未运行。
+- Original-sources：实际公开回下载，385成员写入及重读SHA通过；保留CAD ZIP样本149成员CRC通过。
+- Source-voice-v2：实际公开回下载，2344成员写入及重读SHA通过；其中A1-04恢复blend经本机Blender5.2.2只读重开和640×360实际渲染查看，输入SHA不变。
+- AFTER-FINAL media delta-v2：实际公开回下载，127成员写入及重读SHA通过，所留SH040视频完整解码通过。
+- 其余7个已上传大包、最后小tail及同一合并工程重开：fresh验证仍pending。逐包恢复不等于全课程、全部可编辑场景或主观听审通过。
+
+详见state/recovery-evidence中的公开路径占位副本及state/checkpoint.json。续作从work/rocket-v2/full-course-production/production-next-handoff.md、production-ledger.json与curriculum.json进入，具体课读冻结稿、source-feature-matrix、root-preview-review、composition-plan和当前SHA。最终接受项目仍为0。
+
+21份精确当前SHA均已完成1倍速整段离线技术播放（新SYS-A2/A110/A111全帧且0掉帧）；均为静音技术检查，不计主观听审。当前播放器有21卡、170章跳转和424条字幕核查材料。

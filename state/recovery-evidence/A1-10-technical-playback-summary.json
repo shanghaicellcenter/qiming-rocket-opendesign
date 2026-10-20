@@ -1,0 +1,63 @@
+{
+  "id": "A1-10",
+  "videoFile": "${WORKSPACE_ROOT}/outputs/rocket-v2/逐件动态样章/A1-10/A1-10_逐件中文动态样章_核查稿.mp4",
+  "videoSha256": "c111bfee21c143b7ecab30203d59a90ed11d58b22ddeb24c42b0fb5dd4d66ae3",
+  "startedAtUTC": "2026-10-20T03:59:59.616Z",
+  "finishedAtUTC": "2026-10-20T04:01:33.881Z",
+  "status": "complete_normal_speed_offline_browser_presentation_observed_not_human_listening_or_continuous_visual_content_acceptance",
+  "observedPlaybackRangeSeconds": [
+    0,
+    94
+  ],
+  "fullFileStable": true,
+  "technicalPlaybackComplete": true,
+  "actualListening": "not performed; headless player deliberately muted, no direct audio perception capability",
+  "continuousHumanVisualContentReview": "not performed; frame callbacks establish presentation continuity only",
+  "maxObservedMediaTimeGapSeconds": 0.041667000000003895,
+  "events": [
+    {
+      "event": "seeking",
+      "mediaTime": 0,
+      "wallSeconds": 0.00020000004768371582
+    },
+    {
+      "event": "waiting",
+      "mediaTime": 0,
+      "wallSeconds": 0.00030000001192092895
+    },
+    {
+      "event": "seeked",
+      "mediaTime": 0.000186,
+      "wallSeconds": 0.16960000002384185
+    },
+    {
+      "event": "playing",
+      "mediaTime": 0.000249,
+      "wallSeconds": 0.1697000000476837
+    },
+    {
+      "event": "pause",
+      "mediaTime": 94,
+      "wallSeconds": 94.21270000004769
+    },
+    {
+      "event": "ended",
+      "mediaTime": 94,
+      "wallSeconds": 94.21270000004769
+    }
+  ],
+  "ended": true,
+  "startedAtPerformance": 68.5,
+  "listeningPerformed": false,
+  "currentTime": 94,
+  "duration": 94,
+  "rate": 1,
+  "muted": true,
+  "quality": {
+    "totalVideoFrames": 2256,
+    "droppedVideoFrames": 0
+  },
+  "wallElapsedSeconds": 94.22630000001192,
+  "error": null,
+  "errors": []
+}

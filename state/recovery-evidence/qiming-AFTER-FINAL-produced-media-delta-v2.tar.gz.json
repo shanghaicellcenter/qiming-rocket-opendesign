@@ -1,0 +1,23 @@
+{
+  "archive": "qiming-AFTER-FINAL-produced-media-delta-v2.tar.gz",
+  "bytes": 58558139,
+  "sha256": "e4f608c24fdbee74c42a639ccfa3715488d543f67ebf2bb17331449875d441ea",
+  "atUTC": "2026-10-20T04:07:09.527225+00:00",
+  "freshPublicRedownload": true,
+  "allMembersReadSHA256AndWrittenThenRereadSHA256": true,
+  "members": 127,
+  "separateNewExtractionDirectory": true,
+  "selectedSamples": [
+    {
+      "member": "outputs/rocket-v2/逐件动态样章/A1-11/SH040.mp4",
+      "retainedSample": "remote-selected-samples/qiming-AFTER-FINAL-produced-media-delta-v2--SH040.mp4",
+      "sha256": "e0f3b2479027f805e38ec5de54bd1f9186b466739186f1b4f176b652e145851b",
+      "bytes": 431388,
+      "actualCompleteMediaDecode": "passed"
+    }
+  ],
+  "temporaryFullTreeRemovedAfterSuccessfulCheck": true,
+  "sameMergedWholeProjectReopen": "not established by this per-package check",
+  "subjectiveAcceptance": false,
+  "temporaryDownloadedTarRemovedAfterFullCheck": true
+}
