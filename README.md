@@ -4,7 +4,7 @@
 
 本项目面向没有火箭工程基础的读者，使用原始工程资料、可编辑三维场景、互动页面和中文讲解说明零件、原理与系统关系。既定范围是 172 条物料、34 项定制件、9 个系统、8 类原理，以及组装、检查、仿真和实测证据。
 
-用户要求在 2026-10-20 04:17:38 UTC 前保存当时全部可继续的进度，即使课程尚未完成。此仓库先建立文字与状态基线，工程、资产与媒体分包随后加入 GitHub Release；未上传的文件不会被称为已备份。请查看 [AI_HANDOFF.md](AI_HANDOFF.md) 和 [state/stage.json](state/stage.json) 判断当前真实状态。
+用户要求在 2026-10-20 04:17:38 UTC 前保存当时全部可继续的进度，即使课程尚未完成。工程与媒体实际大文件正在逐包进入 [GitHub Release](https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/tag/wip-20261020)。原生包已实际公开回下载、815成员哈希与5页隔离恢复通过；其余逐包状态见机器清单，未验证项明确保留。请查看 [AI_HANDOFF.md](AI_HANDOFF.md) 和 [state/stage.json](state/stage.json) 判断当前真实状态。
 
 声音沿用用户已确认的 Spark 本地中文男声及稳定音量方向。已做的自动转写、逐帧抽查、解码和静音技术播放不等于实际主观听审；待核项目在状态中保留。
 

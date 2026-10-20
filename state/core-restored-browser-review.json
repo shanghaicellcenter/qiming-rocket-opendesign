@@ -1,0 +1,70 @@
+{
+  "atUTC": "2026-10-20T02:40:39.086Z",
+  "assetSHA": "0305c3fc791ff5f9edaac75181db112a68d86fd0fcf2144930a4857922d1ca67",
+  "source": "Actual fresh anonymous Release redownload; all815 member hashes independently passed; isolated directory",
+  "actualRestoredPagesOpened": [
+    {
+      "name": "entry",
+      "title": "看懂一枚液体火箭 · 启明火箭",
+      "bodyLength": 688,
+      "canvas": [],
+      "buttons": 267,
+      "errors": [],
+      "localMissingResources": []
+    },
+    {
+      "name": "course",
+      "title": "看懂一枚火箭 · 启明火箭",
+      "bodyLength": 590,
+      "canvas": [],
+      "buttons": 19,
+      "errors": [],
+      "localMissingResources": []
+    },
+    {
+      "name": "machine",
+      "title": "启明火箭 · 看懂两路液体",
+      "bodyLength": 255,
+      "canvas": [
+        {
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "buttons": 16,
+      "errors": [],
+      "localMissingResources": []
+    },
+    {
+      "name": "principles",
+      "title": "启明火箭 · 动态原理实验室",
+      "bodyLength": 192,
+      "canvas": [
+        {
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "buttons": 13,
+      "errors": [],
+      "localMissingResources": []
+    },
+    {
+      "name": "native",
+      "title": "启明火箭 · 源装配检视",
+      "bodyLength": 1753,
+      "canvas": [
+        {
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "buttons": 173,
+      "errors": [],
+      "localMissingResources": []
+    }
+  ],
+  "externalRequestsBlocked": [],
+  "nativeAppDatabaseRegistration": "not run; project-only restore dry-run succeeded",
+  "courseOrListeningAcceptance": false
+}

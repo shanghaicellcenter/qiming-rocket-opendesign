@@ -1,0 +1,11 @@
+{
+  "atUTC": "2026-10-20T02:33:56.629281+00:00",
+  "assetUrl": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/opendesign-native-core-20261020.tar.gz",
+  "sha256": "0305c3fc791ff5f9edaac75181db112a68d86fd0fcf2144930a4857922d1ca67",
+  "bytes": 177719360,
+  "all815MembersSHA256MatchedAfterActualPublicRedownload": true,
+  "isolatedExtraction": true,
+  "existingApplicationOrSourceOverwritten": false,
+  "browserReopen": "five restored pages actually loaded; local resources and JS errors0; root opened4 viewport screenshots",
+  "nativeAppRegistration": "not run; safe project-only dry-run verified"
+}

@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "atUTC": "2026-10-20T03:22:45.795960+00:00",
+      "freeBytesBefore": 1809379328,
+      "freeBytesAfter": 3328126976,
+      "files": [
+        {
+          "temporaryArchive": "original-sources-20261020.tar.gz",
+          "bytes": 315216982,
+          "sha256": "bfefb72cd231596d26d25a9217f85e4746e5ab67c1423390f0b0fc6b41fdd99b",
+          "remoteAssetId": 657999030,
+          "remoteSizeAndDigestVerified": true,
+          "allMembersRoundtripVerified": false,
+          "reason": "Reconstructible publication tar only; all source members and build plans retained; full public redownload separately pending"
+        },
+        {
+          "temporaryArchive": "qiming-production-source-voice-01-v2.tar.gz",
+          "bytes": 506026861,
+          "sha256": "cf225ab547db354d170b6703dd936df83ed5608c1cac79d3889aefc9b2a84680",
+          "remoteAssetId": 658042352,
+          "remoteSizeAndDigestVerified": true,
+          "allMembersRoundtripVerified": false,
+          "reason": "Reconstructible publication tar only; all source members and build plans retained; full public redownload separately pending"
+        },
+        {
+          "temporaryArchive": "qiming-priority-editable-sources-01-of-03.tar.gz",
+          "bytes": 691292029,
+          "sha256": "de8a0b46b362fa112aec6e065f5aff4ddcd8f77b1cabecb6ea656f73af5d1921",
+          "remoteAssetId": 658056489,
+          "remoteSizeAndDigestVerified": true,
+          "allMembersRoundtripVerified": false,
+          "reason": "Reconstructible publication tar only; all source members and build plans retained; full public redownload separately pending"
+        }
+      ],
+      "productionSourceMediaAudioDeleted": 0
+    }
+  ]
+}

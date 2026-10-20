@@ -1,0 +1,88 @@
+{
+  "schema": "qiming-current-backlog-v1",
+  "preparedAtUTC": "2026-10-20T03:22:45.888845+00:00",
+  "factsCutoffUTC": "2026-10-20T03:22:45.888845+00:00",
+  "fullCourseCompleted": false,
+  "tasks": [
+    {
+      "id": "P0_FREEZE_AND_PUBLISH",
+      "priority": 0,
+      "status": "in_progress",
+      "next": "Finish actual source/media and last revision overlays by hard deadline04:17:38Z; latest exact API upload state is in checkpoint.publication. No new TTS or optional chapter batches."
+    },
+    {
+      "id": "P0_ROOT_HANDOFF_SYNC",
+      "priority": 0,
+      "status": "reviewed_by_root_prepared_for_current_push",
+      "next": "Refresh this checkpoint and GitHub exact asset/restore receipts again after final increments; last git push proof recorded separately."
+    },
+    {
+      "id": "P0_MEDIA_AND_RAW_COVERAGE",
+      "priority": 0,
+      "status": "local_sources_present_publication_partial",
+      "next": "Preserve35native raws+ASR/config/PCM,19narrateddrafts inclA2, A110/111 existing audio,23sfinishedASR. Compare final latestincrement manifest against checkpoint; no newTTS needed."
+    },
+    {
+      "id": "P0_CORE_RESTORE",
+      "priority": 0,
+      "status": "byte_and_browser_verified",
+      "next": "Keep actual public download815memberSHA+isolated5pages receipt. Native appdatabase registration notrun; do not label native appimportpassed."
+    },
+    {
+      "id": "P0_REMAINING_REMOTE_RESTORE",
+      "priority": 0,
+      "status": "partial_pending_per_asset_receipts",
+      "next": "Fresh public download each uploaded source/media archive and verify fullSHA/members, then actual scene/player reopening as feasible beforedeadline. List any unverified asset explicitly."
+    },
+    {
+      "id": "A2_FINAL_DRAFT",
+      "priority": 1,
+      "status": "19source_clips_complete_narrow_thinking_overlay_repair",
+      "next": "Root inspect final newly encoded SHA, actual subtitle/action/PCM pause, then include movie/source/plan in final overlay and update player. First63251 retained historical and not accepted."
+    },
+    {
+      "id": "A1_10_A1_11",
+      "priority": 1,
+      "status": "native_audio_and_dualASR_local_root_working_voice_gates_passed_formal_sources_and_composition_in_progress",
+      "next": "Continue only with existing frozen contracts/nativevoice; first confirm appropriate currentpreview/phrasePCMgate. If deadline nears, archive unfinishedsource+voice+plan instead of rushing claim."
+    },
+    {
+      "id": "ASR23_WINDOW",
+      "priority": 1,
+      "status": "true_transcript_and_finished_received",
+      "next": "Bundle final23stranscript/finishedreceipt/inputPCM. Earlieremptydescriptor is superseded; do not rerun TTS."
+    },
+    {
+      "id": "LEGACY64",
+      "priority": 1,
+      "status": "semantic_invariants_passed_release_pack_local",
+      "next": "Upload actuallegacyincrement; preserve initialcameraassertion history and session_uid-only correction, original-to-releaseSHAmap and outlinegeometryproof. Do not equate invariants with subjectivevisualacceptance."
+    },
+    {
+      "id": "FULL226_COURSE",
+      "priority": 2,
+      "status": "incomplete_zero_finalaccepted",
+      "remaining": {
+        "canonicalPlanned": 226,
+        "representedPilotdraftIds": 20,
+        "notRepresentedByNarratedPilot": 206,
+        "customDrafts": 0,
+        "canonicalPrincipleP01P08Drafts": 0
+      },
+      "next": "Resume69batchledger and1156plannedactions, sourceposition/feature/sentencegates;9systems/172BOM/34custom+8principles+3framing, assembly/QC/simulation/realtestevidence remain whole-scope acceptance requirements."
+    },
+    {
+      "id": "HUMAN_AUDIO_VISUAL_ACCEPTANCE",
+      "priority": 2,
+      "status": "pending",
+      "next": "Actual hearing and continuous subjectivecontent review on exactcurrentSHA. ASR/PCM/decode/mutedplayback/discreteboards cannot fill this gate."
+    },
+    {
+      "id": "CLEANUP_UNIQUE_PROJECT",
+      "priority": 3,
+      "status": "not_authorized_by_stage_completion_alone",
+      "next": "Keep unique unfinishedsources unless corresponding actual remote recovery and dependencies verified under user cleanup rules. No whole ni/appdata/Desktop/sharedtools/remoteenv deletion."
+    }
+  ],
+  "freezePriorityUTC": "2026-10-20T03:17:38Z"
+}

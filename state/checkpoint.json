@@ -1,0 +1,381 @@
+{
+  "schema": "qiming-current-checkpoint-v1",
+  "preparedAtUTC": "2026-10-20T03:22:45.888845+00:00",
+  "factsCutoffUTC": "2026-10-20T03:22:45.888845+00:00",
+  "deadlineUTC": "2026-10-20T04:17:38Z",
+  "freezePriorityUTC": "2026-10-20T03:17:38Z",
+  "status": "WIP_not_complete",
+  "provenance": "Root publisher live local SHA/manifest check and GitHub Release API verified; all course and human hearing acceptance remain pending",
+  "fullCourseCompleted": false,
+  "scope": {
+    "chapters": 226,
+    "BOM": 172,
+    "custom": 34,
+    "systems": 9,
+    "principles": 8,
+    "framingAndTransition": 3,
+    "minimumPlannedActions": 1156
+  },
+  "workingMedia": {
+    "narratedClips": 20,
+    "runtimeSeconds": 1807.125,
+    "narratedClipIds": [
+      "A1-16",
+      "A1-11",
+      "A3-12",
+      "A1-04",
+      "A1-03",
+      "A1-02",
+      "A1-05",
+      "A1-12",
+      "A1-15",
+      "A1-14",
+      "A1-13",
+      "A1-09",
+      "A1-07",
+      "A1-06",
+      "A1-01",
+      "A1-08",
+      "SYS-A4",
+      "SYS-A3",
+      "SYS-A2",
+      "SYS-A1"
+    ],
+    "nativeRawWAVs": 35,
+    "rawDirectoryWAVsIncludingJoinedDerived": 40,
+    "joinedDerivedWAVs": 5,
+    "nativeVoiceMissingP0": 0,
+    "newTTSRunLaunchedByFollowup": false,
+    "allClipsAreReviewDrafts": true,
+    "fullAcceptedBOM": 0,
+    "fullAcceptedCustom": 0,
+    "fullAcceptedSystems": 0
+  },
+  "latestProduction": {
+    "SYS-A2": {
+      "formalSourceClips": 19,
+      "narratedDraftSeconds": 248.79166666666666,
+      "narratedDraftProducedAtApproxUTC": "2026-10-20T02:58:00Z",
+      "SH050LabelRepair": "closed per coordinator latest agent evidence",
+      "priorSH180CacheAssertion": "failed; preserve remaining-stream-render.log; SH170/180/190 recovered by full-frame actual renders in remaining-stream-allframes.log, not ignored assertion",
+      "currentFinalSHA": "302b78ffb2fecf71c9edf9d782a005e7fd9aef88c0a2e5b1e25f8a39b31b1a7e",
+      "contentAcceptance": "First composite found duplicate thinking badge; narrow composition-only repair underway; do not treat first63251 as final accepted"
+    },
+    "A1-10": {
+      "nativeAudioRetrieved": true,
+      "narratedCompositeEncoded": false,
+      "next": "Finish source/composition using existing voice, then exact SHA QC; if unfinished retain sources and plan",
+      "voiceContentWorkingGate": "passed with unprompted independentASR; A110 exact23s originalPCM window also verified"
+    },
+    "A1-11": {
+      "nativeAudioRetrieved": true,
+      "narratedCompositeEncoded": true,
+      "next": "Finish source/composition using existing voice, then exact SHA QC; if unfinished retain sources and plan",
+      "voiceContentWorkingGate": "passed with unprompted independentASR; A110 exact23s originalPCM window also verified"
+    },
+    "sealContactASRWindow": {
+      "runId": "asr-seal-contact-transition-20261020T023607Z",
+      "seconds": 23,
+      "trueTranscriptCollected": true,
+      "finishedStateCollected": true,
+      "oldEmptyResultsSkeleton": "superseded by later true transcript; do not base current status on early text-emptydescriptor",
+      "next": "Publisher include final transcript/finished receipt and source23sPCM in latest increment"
+    }
+  },
+  "publication": {
+    "repo": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign",
+    "release": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/tag/wip-20261020",
+    "bigArchives": [
+      {
+        "name": "opendesign-native-core-20261020.tar.gz",
+        "bytes": 177719360,
+        "sha256": "0305c3fc791ff5f9edaac75181db112a68d86fd0fcf2144930a4857922d1ca67",
+        "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/opendesign-native-core-20261020.tar.gz",
+        "uploadState": "uploaded_exact_API_size_and_digest_verified",
+        "remoteRestore": "fresh_public_download_all815_member_SHA_and_five_isolated_pages_verified"
+      },
+      {
+        "name": "original-sources-20261020.tar.gz",
+        "bytes": 315216982,
+        "sha256": "bfefb72cd231596d26d25a9217f85e4746e5ab67c1423390f0b0fc6b41fdd99b",
+        "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/original-sources-20261020.tar.gz",
+        "uploadState": "uploaded_exact_API_size_and_digest_verified",
+        "remoteRestore": "pending_public_redownload_and_member_hashes"
+      },
+      {
+        "name": "qiming-production-source-voice-01-v2.tar.gz",
+        "bytes": 506026861,
+        "sha256": "cf225ab547db354d170b6703dd936df83ed5608c1cac79d3889aefc9b2a84680",
+        "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-production-source-voice-01-v2.tar.gz",
+        "uploadState": "uploaded_exact_API_size_and_digest_verified",
+        "remoteRestore": "pending_public_redownload_and_member_hashes"
+      },
+      {
+        "name": "qiming-priority-editable-sources-01-of-03.tar.gz",
+        "bytes": 691292029,
+        "sha256": "de8a0b46b362fa112aec6e065f5aff4ddcd8f77b1cabecb6ea656f73af5d1921",
+        "url": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/download/wip-20261020/qiming-priority-editable-sources-01-of-03.tar.gz",
+        "uploadState": "uploaded_exact_API_size_and_digest_verified",
+        "remoteRestore": "pending_public_redownload_and_member_hashes"
+      }
+    ],
+    "preparedLocalButNotClaimedUploaded": [
+      "qiming-priority-native-media-interactive-01-of-02.tar.gz",
+      "qiming-FINAL-portable-overlay-v1.tar.gz",
+      "qiming-priority-editable-sources-03-of-03.tar.gz",
+      "qiming-legacy-outlined-and-late-voices.tar.gz",
+      "qiming-production-source-voice-01.tar.gz",
+      "qiming-priority-native-media-interactive-02-of-02.tar.gz",
+      "qiming-priority-editable-sources-02-of-03.tar.gz"
+    ],
+    "allStageSourcesAndMediaUploaded": false,
+    "coreRemoteRecovery": {
+      "archiveBytes": 177719360,
+      "members": 815,
+      "actualPublicRedownloadAndAllMemberSHA": true,
+      "isolatedPagesLoaded": 5,
+      "JSErrors": 0,
+      "missingLocalResources": 0,
+      "nativeAppDatabaseRegistration": "not run; project-only dry-run only"
+    },
+    "allStageRemoteRecoveryVerified": false,
+    "uniqueProductionSourcesDeleted": false,
+    "verifiedBigArchiveCountCurrent": 4,
+    "verifiedBigArchiveBytesCurrent": 1690255232,
+    "verifiedAllAssetBytesIncludingMetadataCurrent": 1692012383,
+    "latestCoordinatorRemoteGETAtUTC": "2026-10-20T03:22:45.888845+00:00"
+  },
+  "legacySourceInvariant": {
+    "pairs": 64,
+    "finalAllChecksPassed": true,
+    "finalAtUTC": "2026-10-20T02:38:00Z",
+    "initialFailure": "camera session_uid differs between loads of byte-identical source",
+    "correction": "exclude only transient RNA session_uid from semantic camera fingerprint",
+    "sourceGeometryCameraAnimationPreserved": true,
+    "perceptualVisualAcceptance": false,
+    "proof": "recovery-evidence/legacy-release-invariants.public.json; actual relative member depends on latest increment manifest"
+  },
+  "qaBoundary": {
+    "actualHearing": "pending for new full tracks; lesson01 voice/volume direction only was approved",
+    "continuousSubjectiveVisualContentReview": "pending",
+    "technicalEvidenceIsNotSubjectiveAcceptance": true,
+    "finalAcceptanceRequiresCurrentSHA": true
+  },
+  "resumeEntrypoints": [
+    "AI_HANDOFF.md",
+    "RESTORE.md",
+    "state/checkpoint.json",
+    "state/backlog.json",
+    "work/rocket-v2/full-course-production/production-ledger.json",
+    "work/rocket-v2/full-course-production/production-next-handoff.md",
+    "work/rocket-v2/full-course-production/curriculum.json"
+  ],
+  "licenseBoundary": [
+    "HalfCat original attribution/GPL text and student-edition educational CAD notice retained",
+    "Breeze generated WAV and mixedMP4 research/noncommercial layer distinct from softwareApache2",
+    "Font programs, credentials, global appSQLite and modelweights not bundled"
+  ],
+  "remainingScope": "All226 canonical chapters remain unaccepted. 20 independent pilot drafts are preserved; this does not imply complete corresponding canonical chapters.",
+  "workingMovies": [
+    {
+      "id": "A1-16",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-16/A1-16_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "6f3fb66637f0265290d4c6ddcddbc4f35200fabcc17d533eb60e1907ee08d93f",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-16/A1-16_有声样章核查清单.json",
+      "manifestSHA256": "b276f86e8356ec5ad3e4321eeed98ad238018eb8606c6df0ca65eb5165073e53",
+      "durationSeconds": 52.458333333333336,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-11",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-11/A1-11_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "169509b116c5e1a7e93e67a451b7f0dc3d20eda68402708eaf7ff3cf9afa5b28",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-11/A1-11_有声样章核查清单.json",
+      "manifestSHA256": "24e0fffdee5174da76c71213744d53cf23c616cf7c79aacb5845895a20994918",
+      "durationSeconds": 83.25,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A3-12",
+      "video": "outputs/rocket-v2/逐件动态样章/A3-12/A3-12_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "05eafdb34fc1a4afe698b6c5480ccaa3b5acf8137577aa198f27eadcdf8ffbf0",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A3-12/A3-12_有声样章核查清单.json",
+      "manifestSHA256": "df6ae9682e9601f204ae05493fd465200cc8fde7c3f609126d53a77ee32c9fcc",
+      "durationSeconds": 47.458333333333336,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-04",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-04/A1-04_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "8d0ec030ef24ebbbd768db0cd524d6cc7808da8bc0e36191bcea535d0cfdc724",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-04/A1-04_有声样章核查清单.json",
+      "manifestSHA256": "af74276a0156f9102280cdd6c6a14edae6fbb56028486f4487a26b77bec57d37",
+      "durationSeconds": 69.0,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-03",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-03/A1-03_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "e80724a963a1b2d6d9a8bcef9b6f30e6d543f65aa711c80e83ab4ff29d7d5b27",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-03/A1-03_有声样章核查清单.json",
+      "manifestSHA256": "ea12f839949332b4fa10399517f97fb388e5b2d1b3e50ab2f06ecdd84c60826b",
+      "durationSeconds": 69.54166666666667,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-02",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-02/A1-02_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "e25f8d7aa0a34ed79f50fcce7a668f8cda51252240f764a2e8079c015ae220a3",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-02/A1-02_有声样章核查清单.json",
+      "manifestSHA256": "dc101e64d53aa6dbaaf72d15b6e2146c69bde83d8c93498af4c84e62cddebd42",
+      "durationSeconds": 66.83333333333333,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-05",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-05/A1-05_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "a8e242f956682228a93b7e06a96217f13e39c4b35327e9e2db2083c71c801b8c",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-05/A1-05_有声样章核查清单.json",
+      "manifestSHA256": "2c63be40ead30b2f504ad4e6874580f99e3311af6d94e31d5fb963cbb20d1929",
+      "durationSeconds": 57.375,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-12",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-12/A1-12_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "0b14ad7a8c5c5d277bcc3bfa68ebaea69f20a40edb635482e81201084902e56b",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-12/A1-12_有声样章核查清单.json",
+      "manifestSHA256": "18bc90e933108cecf3af4577ce295388a4995e974b3731ef818c2862cfc772ee",
+      "durationSeconds": 77.45833333333333,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-15",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-15/A1-15_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "a21c4a58599f5bc68f842036d4eef07ceb67aad249c925c93a33a3c65bfd89e9",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-15/A1-15_有声样章核查清单.json",
+      "manifestSHA256": "211cc5f18d593e45b33b4ffa8958f8821bb60984f4a66968974714128c2285c8",
+      "durationSeconds": 101.70833333333333,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-14",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-14/A1-14_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "95711f5c84644b99fbcfe4805aa054255df7180601dfbcb8688f2933ac839023",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-14/A1-14_有声样章核查清单.json",
+      "manifestSHA256": "8716b59e82ae3d5ce3b7e160bfefb07279424daed2f4d959438ed7cc86d56e5a",
+      "durationSeconds": 97.125,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-13",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-13/A1-13_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "11d8c51eff501896f68f3e164be851da2da4025fb7b380aa497b5904b363eb4a",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-13/A1-13_有声样章核查清单.json",
+      "manifestSHA256": "415dc6c0ca58e085f8a2d6b3c34d01537d01a7c73f0163495c0faed4f82e2bb1",
+      "durationSeconds": 83.91666666666667,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-09",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-09/A1-09_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "afd3ffbc35fd5deb4d735002a0369297c0c581dd2f484c17768793a0e436fba0",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-09/A1-09_有声样章核查清单.json",
+      "manifestSHA256": "87651c56ebe811d5a9aa5acecf6db9eb701354f9f354180d397cf3e0d4c8e1b9",
+      "durationSeconds": 74.625,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-07",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-07/A1-07_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "f0d39fc4c8ef3a800d6e2dc2485d140d615e9bfd77859e52b656066edb0e53e6",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-07/A1-07_有声样章核查清单.json",
+      "manifestSHA256": "8567d93f58ec1062d817c8fd47dfed9a38ef16a4c1ee9a60bcad310671084329",
+      "durationSeconds": 83.95833333333333,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-06",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-06/A1-06_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "38e32240e55f813b3d3b565fdc1b9049f1998cbac2384902dc8e700efb7835b4",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-06/A1-06_有声样章核查清单.json",
+      "manifestSHA256": "ec0a327c811511d239c48810f4f0c85f76e359d0aa6528a5be87d465fcf59f0f",
+      "durationSeconds": 83.875,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-01",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-01/A1-01_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "18ae9c9f7502c7975d30ca39ffa70e0f5715733fed038a677fdfcfadcbde1dc3",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-01/A1-01_有声样章核查清单.json",
+      "manifestSHA256": "c61922d9c808dcd91797b2a9a24e0bf67c199db32eb465d49aa8b898b438ea85",
+      "durationSeconds": 48.208333333333336,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "A1-08",
+      "video": "outputs/rocket-v2/逐件动态样章/A1-08/A1-08_逐件中文动态样章_核查稿.mp4",
+      "videoSha256": "dcd4ed987f4f96adf206f825872eb48f72f14e591d97ceecb4620faf3e34fe27",
+      "manifest": "outputs/rocket-v2/逐件动态样章/A1-08/A1-08_有声样章核查清单.json",
+      "manifestSHA256": "d9c523c234a3242623172059fe6bed691aff40f903777fff2a8dd2d5f7c5e52b",
+      "durationSeconds": 80.70833333333333,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "SYS-A4",
+      "video": "outputs/rocket-v2/系统动态样章/A4/A4_系统中文动态样章_核查稿.mp4",
+      "videoSha256": "6c6bf60c5e9129d8bbecba11b493ce07e21bcb4814f2e9614b39d5a27d82d106",
+      "manifest": "outputs/rocket-v2/系统动态样章/A4/A4_有声样章核查清单.json",
+      "manifestSHA256": "8c771a5e4155fd761b3030e093628c6e78a7c0642add948f84534fe703cc5396",
+      "durationSeconds": 151.0,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "SYS-A3",
+      "video": "outputs/rocket-v2/系统动态样章/A3/A3_系统中文动态样章_核查稿.mp4",
+      "videoSha256": "8462a6659be40c9d378c4f88f96d5e018aa030c2caf1745127ae718f855e6b4a",
+      "manifest": "outputs/rocket-v2/系统动态样章/A3/A3_有声样章核查清单.json",
+      "manifestSHA256": "2d7d1294a45a7a8163858dea95cdec766a93200213934b2ae696844f7cfaa848",
+      "durationSeconds": 85.04166666666667,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "SYS-A2",
+      "video": "outputs/rocket-v2/系统动态样章/A2/A2_系统中文动态样章_核查稿.mp4",
+      "videoSha256": "302b78ffb2fecf71c9edf9d782a005e7fd9aef88c0a2e5b1e25f8a39b31b1a7e",
+      "manifest": "outputs/rocket-v2/系统动态样章/A2/A2_有声样章核查清单.json",
+      "manifestSHA256": "813c38b853d77e8fbb767e2eb26e73462fe97932bb2715a5f91dc8ad8e4cf043",
+      "durationSeconds": 248.79166666666666,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    },
+    {
+      "id": "SYS-A1",
+      "video": "outputs/rocket-v2/系统动态样章/A1/A1_系统中文动态样章_核查稿.mp4",
+      "videoSha256": "108991f3e4111bd6a694bd34443076c1877bf605f0aa377024037d260fe08a3c",
+      "manifest": "outputs/rocket-v2/系统动态样章/A1/A1_有声样章核查清单.json",
+      "manifestSHA256": "92dd0258cce03fe676736a4e563061f09ec50c421945c8f450d40a52f94c17c3",
+      "durationSeconds": 144.79166666666666,
+      "kind": "working_review_draft",
+      "subjectiveListeningAccepted": false
+    }
+  ]
+}
