@@ -1,0 +1,20 @@
+{
+  "userFacingDate": "2026-10-22",
+  "project": "启明火箭",
+  "productionStatus": "paused",
+  "remoteRelease": "https://github.com/shanghaicellcenter/qiming-rocket-opendesign/releases/tag/wip-20261020",
+  "verifiedRemoteArchives": 12,
+  "pauseCommitPushed": "c63489537818e826ef0d5128e1ac384fb72f693e",
+  "deletedVerifiedFileCount": 8891,
+  "deletedVerifiedLogicalBytes": 6444373943,
+  "skipped": [],
+  "freeBeforeBytes": 14953332736,
+  "freeAfterBytes": 20960669696,
+  "observedFreeDeltaBytes": 6007336960,
+  "limits": "Filesystem free space is observed; APFS clones and concurrent system writes can change the delta. Unmatched local files were preserved.",
+  "deletedPartialLogicalBytes": 1374606480,
+  "deletedPartialFilesCount": 4,
+  "deletedFilesManifestSha256": "d052c18cf01f2e088a468d6573d262f9381e3b97b22cd6b2dc2991e07590a6b3",
+  "localPublishedPayloadsUsable": false,
+  "unuploadedFilesPreserved": true
+}

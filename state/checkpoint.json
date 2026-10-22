@@ -628,5 +628,9 @@
   "executionPhase": "paused_by_explicit_user_request",
   "futureProduction": "deferred_requires_user_resume_after_elapsed_production_window",
   "humanPauseAtUTC": "2026-10-20T04:58:00.504774+00:00",
-  "resumeRequiresHumanInstruction": true
+  "resumeRequiresHumanInstruction": true,
+  "localPublishedPayloadsRemoved": true,
+  "localPublishedPayloadsUsable": false,
+  "resumeRequiresFreshRestore": true,
+  "localCleanupEvidence": "state/recovery-evidence/local-cleanup-20261022-summary.json"
 }
